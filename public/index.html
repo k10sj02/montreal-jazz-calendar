@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="An independent, automatically refreshed calendar of jazz events in Greater Montréal.">
+<title>Greater Montréal Jazz Calendar</title>
+<style>body{font:18px/1.6 system-ui;max-width:750px;margin:60px auto;padding:20px}a{color:#a6192e}input{width:100%;box-sizing:border-box;font-size:16px;padding:8px}@media(max-width:600px){body{margin:20px auto}}</style>
+<h1>Greater Montréal Jazz Calendar</h1>
+<p>An independent, automatically refreshed calendar of jazz concerts, jam sessions, launches, and related events across Greater Montréal.</p>
+<p><a id="subscription" href="montreal-jazz.ics">Subscribe in Apple Calendar</a> · <a href="montreal-jazz.ics">Download calendar</a></p>
+<p>For Google Calendar, choose Other calendars → + → From URL, then paste:</p>
+<input id="url" aria-label="Calendar subscription URL" readonly>
+<p><a href="status.json">Last refresh status</a> · <a href="https://sortiesjazznights.com/calendrier-jazz-du-grand-montreal/">Original listings</a> · <a href="https://github.com/k10sj02/montreal-jazz-calendar">Source code</a></p>
+<p>Refreshes every six hours; your calendar app controls how quickly changes appear. Check the original event listing before attending.</p>
+<script>const u=new URL('montreal-jazz.ics',location.href);document.querySelector('#url').value=u.href;document.querySelector('#subscription').href=u.href.replace(/^https?:/,'webcal:');</script>
+</html>
