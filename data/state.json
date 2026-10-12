@@ -1,72 +1,6 @@
 {
-  "updated": "2026-10-11T18:25:10.723281-04:00",
+  "updated": "2026-10-12T02:28:02.332049-04:00",
   "events": {
-    "2f107f3cfe47d7108b89276f@montreal-jazz-calendar": {
-      "source_id": "event_69347_0",
-      "title": "Robert Ménard Maxime Saint-Pierre François D'Amours Olivier Babaz Alain Bastien",
-      "start": "2026-10-11T17:00:00-04:00",
-      "end": "2026-10-11T23:59:00-04:00",
-      "venue": "Chez Roger",
-      "address": "2300 Rue Beaubien E 514-593-4200",
-      "url": "https://sortiesjazznights.com/events/robert-menard-maxime-saint-pierre-francois-damours-frederic-darveau-alain-bastien/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "dfafa2d026dd503276d596a9@montreal-jazz-calendar": {
-      "source_id": "event_67993_0",
-      "title": "Jazz vocal avec Annie Gagné et Denis Campeau",
-      "start": "2026-10-11T18:30:00-04:00",
-      "end": "2026-10-11T23:59:00-04:00",
-      "venue": "Brasserie artisanale Les sans-taverne",
-      "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
-      "url": "https://sortiesjazznights.com/events/jazz-vocal-avec-annie-gagne-et-denis-campeau-8/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "94ab83c3be9bc32aec5f7b60@montreal-jazz-calendar": {
-      "source_id": "event_69122_0",
-      "title": "Coral Egan Trio +21h",
-      "start": "2026-10-11T19:00:00-04:00",
-      "end": "2026-10-11T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-15/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "b34f49c1581d7df6a84ca578@montreal-jazz-calendar": {
-      "source_id": "event_68669_0",
-      "title": "Alex Desjardins 5tet - Incurie - concert de lancement",
-      "start": "2026-10-11T20:00:00-04:00",
-      "end": "2026-10-11T23:59:00-04:00",
-      "venue": "Le Moulinet",
-      "address": "950 Place de l'Île-des-Moulins Terrebonne 866-404-4777",
-      "url": "https://sortiesjazznights.com/events/alex-desjardins-5tet-incurie-concert-de-lancement/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "d121c0ea54d428383ab894cf@montreal-jazz-calendar": {
-      "source_id": "event_69735_0",
-      "title": "Roman Munoz 4tet avec Allison Burik Eli Davidovici John Buck - concert de lancement d'Enchantement - Karl Rozankovic (1e partie)",
-      "start": "2026-10-11T20:00:00-04:00",
-      "end": "2026-10-11T23:59:00-04:00",
-      "venue": "P'tit Ours",
-      "address": "5589 Ave. Du Parc",
-      "url": "https://sortiesjazznights.com/events/roman-munoz-4tet-avec-allison-burik-eli-davidovici-john-buck-concert-de-lancement-denchantement-karl-rozankovic-1e-partie/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "1ab8d5933153dfe089a137f7@montreal-jazz-calendar": {
-      "source_id": "event_69447_0",
-      "title": "L'Entracte Jazz Orchestra invite Rachel Therrien",
-      "start": "2026-10-11T20:30:00-04:00",
-      "end": "2026-10-11T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/lentracte-jazz-orchestra-invite-rachel-therrien/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "4cfbcb7b690a475f3f66261c@montreal-jazz-calendar": {
       "source_id": "event_68290_6",
       "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
@@ -1056,6 +990,72 @@
       "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-miles-smiles-wayne-shines/",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "2f107f3cfe47d7108b89276f@montreal-jazz-calendar": {
+      "source_id": "event_69347_0",
+      "title": "Robert Ménard Maxime Saint-Pierre François D'Amours Olivier Babaz Alain Bastien",
+      "start": "2026-10-11T17:00:00-04:00",
+      "end": "2026-10-11T23:59:00-04:00",
+      "venue": "Chez Roger",
+      "address": "2300 Rue Beaubien E 514-593-4200",
+      "url": "https://sortiesjazznights.com/events/robert-menard-maxime-saint-pierre-francois-damours-frederic-darveau-alain-bastien/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "dfafa2d026dd503276d596a9@montreal-jazz-calendar": {
+      "source_id": "event_67993_0",
+      "title": "Jazz vocal avec Annie Gagné et Denis Campeau",
+      "start": "2026-10-11T18:30:00-04:00",
+      "end": "2026-10-11T23:59:00-04:00",
+      "venue": "Brasserie artisanale Les sans-taverne",
+      "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
+      "url": "https://sortiesjazznights.com/events/jazz-vocal-avec-annie-gagne-et-denis-campeau-8/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "94ab83c3be9bc32aec5f7b60@montreal-jazz-calendar": {
+      "source_id": "event_69122_0",
+      "title": "Coral Egan Trio +21h",
+      "start": "2026-10-11T19:00:00-04:00",
+      "end": "2026-10-11T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-15/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "b34f49c1581d7df6a84ca578@montreal-jazz-calendar": {
+      "source_id": "event_68669_0",
+      "title": "Alex Desjardins 5tet - Incurie - concert de lancement",
+      "start": "2026-10-11T20:00:00-04:00",
+      "end": "2026-10-11T23:59:00-04:00",
+      "venue": "Le Moulinet",
+      "address": "950 Place de l'Île-des-Moulins Terrebonne 866-404-4777",
+      "url": "https://sortiesjazznights.com/events/alex-desjardins-5tet-incurie-concert-de-lancement/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "d121c0ea54d428383ab894cf@montreal-jazz-calendar": {
+      "source_id": "event_69735_0",
+      "title": "Roman Munoz 4tet avec Allison Burik Eli Davidovici John Buck - concert de lancement d'Enchantement - Karl Rozankovic (1e partie)",
+      "start": "2026-10-11T20:00:00-04:00",
+      "end": "2026-10-11T23:59:00-04:00",
+      "venue": "P'tit Ours",
+      "address": "5589 Ave. Du Parc",
+      "url": "https://sortiesjazznights.com/events/roman-munoz-4tet-avec-allison-burik-eli-davidovici-john-buck-concert-de-lancement-denchantement-karl-rozankovic-1e-partie/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "1ab8d5933153dfe089a137f7@montreal-jazz-calendar": {
+      "source_id": "event_69447_0",
+      "title": "L'Entracte Jazz Orchestra invite Rachel Therrien",
+      "start": "2026-10-11T20:30:00-04:00",
+      "end": "2026-10-11T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/lentracte-jazz-orchestra-invite-rachel-therrien/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
