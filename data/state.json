@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T02:28:02.332049-04:00",
+  "updated": "2026-10-12T12:02:25.691329-04:00",
   "events": {
     "4cfbcb7b690a475f3f66261c@montreal-jazz-calendar": {
       "source_id": "event_68290_6",
@@ -364,6 +364,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "0120343fb2ca25fddd11a799@montreal-jazz-calendar": {
+      "source_id": "event_58751_0",
+      "title": "BLK D'Or avec Jahsun - le son de l'esprit noir, brut et sans médiation",
+      "start": "2026-10-19T19:30:00-04:00",
+      "end": "2026-10-19T23:59:00-04:00",
+      "venue": "BBAM! Gallery",
+      "address": "808 Atwater 514-952-6190",
+      "url": "https://sortiesjazznights.com/events/blk-dor-avec-marilou-craft-blackbjrd-dna-theo-abellard-mk-abellard-et-jahsun/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "5db5e76b81508091b9fd6fc3@montreal-jazz-calendar": {
       "source_id": "event_68517_0",
       "title": "Ensembles de musique de chambre jazz de McGill II et III - Bill Mahar and Carlos Jiménez (dir)",
@@ -716,6 +727,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "46a058aef65ab1b78bd295e8@montreal-jazz-calendar": {
+      "source_id": "event_58751_1",
+      "title": "BLK D'Or avec Jahsun - le son de l'esprit noir, brut et sans médiation",
+      "start": "2026-10-26T19:30:00-04:00",
+      "end": "2026-10-26T23:59:00-04:00",
+      "venue": "BBAM! Gallery",
+      "address": "808 Atwater 514-952-6190",
+      "url": "https://sortiesjazznights.com/events/blk-dor-avec-marilou-craft-blackbjrd-dna-theo-abellard-mk-abellard-et-jahsun/var/ri-1.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "9124083f032acdfa19c7079a@montreal-jazz-calendar": {
       "source_id": "event_68521_0",
       "title": "Orchestre de jazz de McGill I - Marianne Trudel (dir)",
@@ -999,8 +1021,8 @@
       "venue": "Chez Roger",
       "address": "2300 Rue Beaubien E 514-593-4200",
       "url": "https://sortiesjazznights.com/events/robert-menard-maxime-saint-pierre-francois-damours-frederic-darveau-alain-bastien/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "dfafa2d026dd503276d596a9@montreal-jazz-calendar": {
       "source_id": "event_67993_0",
@@ -1010,8 +1032,8 @@
       "venue": "Brasserie artisanale Les sans-taverne",
       "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
       "url": "https://sortiesjazznights.com/events/jazz-vocal-avec-annie-gagne-et-denis-campeau-8/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "94ab83c3be9bc32aec5f7b60@montreal-jazz-calendar": {
       "source_id": "event_69122_0",
@@ -1021,8 +1043,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-15/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b34f49c1581d7df6a84ca578@montreal-jazz-calendar": {
       "source_id": "event_68669_0",
@@ -1032,8 +1054,8 @@
       "venue": "Le Moulinet",
       "address": "950 Place de l'Île-des-Moulins Terrebonne 866-404-4777",
       "url": "https://sortiesjazznights.com/events/alex-desjardins-5tet-incurie-concert-de-lancement/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d121c0ea54d428383ab894cf@montreal-jazz-calendar": {
       "source_id": "event_69735_0",
@@ -1043,8 +1065,8 @@
       "venue": "P'tit Ours",
       "address": "5589 Ave. Du Parc",
       "url": "https://sortiesjazznights.com/events/roman-munoz-4tet-avec-allison-burik-eli-davidovici-john-buck-concert-de-lancement-denchantement-karl-rozankovic-1e-partie/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1ab8d5933153dfe089a137f7@montreal-jazz-calendar": {
       "source_id": "event_69447_0",
@@ -1054,8 +1076,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/lentracte-jazz-orchestra-invite-rachel-therrien/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
