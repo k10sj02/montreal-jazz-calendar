@@ -1,50 +1,6 @@
 {
-  "updated": "2026-10-12T20:57:11.717807-04:00",
+  "updated": "2026-10-13T10:32:43.127899-04:00",
   "events": {
-    "4cfbcb7b690a475f3f66261c@montreal-jazz-calendar": {
-      "source_id": "event_68290_6",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-10-12T19:00:00-04:00",
-      "end": "2026-10-12T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-6.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "5bbe65c9d17bef4690d79c33@montreal-jazz-calendar": {
-      "source_id": "event_69448_0",
-      "title": "Sarah Boutin 4tet + jam",
-      "start": "2026-10-12T20:30:00-04:00",
-      "end": "2026-10-12T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/sarah-boutin-4tet-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "13c0a2433b12b00eabbb40b6@montreal-jazz-calendar": {
-      "source_id": "event_60783_13",
-      "title": "Jam session du St-Graal avec Maxime Racicot, Jonathan Arseneau, invités, et +",
-      "start": "2026-10-12T21:00:00-04:00",
-      "end": "2026-10-12T23:59:00-04:00",
-      "venue": "Brasserie Artisanale Le Saint-Graal",
-      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
-      "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-13.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ac97cb47e638240e917dadbf@montreal-jazz-calendar": {
-      "source_id": "event_69436_0",
-      "title": "Salomé Perli invite Juliette Malgrange et Ilana Bensemhoun - La Session expérimentale #33",
-      "start": "2026-10-12T21:30:00-04:00",
-      "end": "2026-10-12T23:59:00-04:00",
-      "venue": "Quai des brumes",
-      "address": "4481 St-Denis 514-499-0467",
-      "url": "https://sortiesjazznights.com/events/salome-perli-invite-juliette-malgrange-et-ilana-bensemhoun-la-session-experimentale-33/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "98a9784e8ae1f668e62ff21f@montreal-jazz-calendar": {
       "source_id": "event_69126_0",
       "title": "Mardis Big Band - Joe Sullivan Big Band",
@@ -881,17 +837,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "af36a3811bccd7765fb0122d@montreal-jazz-calendar": {
-      "source_id": "event_67877_0",
-      "title": "Ariane Racicot Trio - Danser avec le feu",
-      "start": "2026-10-29T19:30:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "Maison de la culture Ahuntsic",
-      "address": "10300 Lajeunesse 514-872-8749",
-      "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-9/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "bcfab80eee20d80c47ca0021@montreal-jazz-calendar": {
       "source_id": "event_68717_0",
       "title": "Benny Goodman : du jazz au classique avec Pierre Génisson et Bruno Fontaine",
@@ -1012,6 +957,61 @@
       "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-miles-smiles-wayne-shines/",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "4cfbcb7b690a475f3f66261c@montreal-jazz-calendar": {
+      "source_id": "event_68290_6",
+      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
+      "start": "2026-10-12T19:00:00-04:00",
+      "end": "2026-10-12T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-6.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "5bbe65c9d17bef4690d79c33@montreal-jazz-calendar": {
+      "source_id": "event_69448_0",
+      "title": "Sarah Boutin 4tet + jam",
+      "start": "2026-10-12T20:30:00-04:00",
+      "end": "2026-10-12T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/sarah-boutin-4tet-jam/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "13c0a2433b12b00eabbb40b6@montreal-jazz-calendar": {
+      "source_id": "event_60783_13",
+      "title": "Jam session du St-Graal avec Maxime Racicot, Jonathan Arseneau, invités, et +",
+      "start": "2026-10-12T21:00:00-04:00",
+      "end": "2026-10-12T23:59:00-04:00",
+      "venue": "Brasserie Artisanale Le Saint-Graal",
+      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
+      "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-13.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "ac97cb47e638240e917dadbf@montreal-jazz-calendar": {
+      "source_id": "event_69436_0",
+      "title": "Salomé Perli invite Juliette Malgrange et Ilana Bensemhoun - La Session expérimentale #33",
+      "start": "2026-10-12T21:30:00-04:00",
+      "end": "2026-10-12T23:59:00-04:00",
+      "venue": "Quai des brumes",
+      "address": "4481 St-Denis 514-499-0467",
+      "url": "https://sortiesjazznights.com/events/salome-perli-invite-juliette-malgrange-et-ilana-bensemhoun-la-session-experimentale-33/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "af36a3811bccd7765fb0122d@montreal-jazz-calendar": {
+      "source_id": "event_67877_0",
+      "title": "Ariane Racicot Trio - Danser avec le feu",
+      "start": "2026-10-29T19:30:00-04:00",
+      "end": "2026-10-29T23:59:00-04:00",
+      "venue": "Maison de la culture Ahuntsic",
+      "address": "10300 Lajeunesse 514-872-8749",
+      "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-9/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
