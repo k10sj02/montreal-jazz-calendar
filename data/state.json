@@ -1,6 +1,17 @@
 {
-  "updated": "2026-10-13T10:32:43.127899-04:00",
+  "updated": "2026-10-13T19:06:02.354634-04:00",
   "events": {
+    "4f17f7bdb6912b97385d5132@montreal-jazz-calendar": {
+      "source_id": "event_69825_0",
+      "title": "Karl Rozankovic Florence Beauquier-Léger Roman Munoz Jules Payette",
+      "start": "2026-10-13T17:00:00-04:00",
+      "end": "2026-10-13T23:59:00-04:00",
+      "venue": "Quai des brumes",
+      "address": "4481 St-Denis 514-499-0467",
+      "url": "https://sortiesjazznights.com/events/karl-rozankovic-florence-beauquier-leger-roman-munoz-jules-payette/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "98a9784e8ae1f668e62ff21f@montreal-jazz-calendar": {
       "source_id": "event_69126_0",
       "title": "Mardis Big Band - Joe Sullivan Big Band",
@@ -540,6 +551,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "7dfa50ea8e30a293e95392f2@montreal-jazz-calendar": {
+      "source_id": "event_69817_0",
+      "title": "Christian Cardinal Trio",
+      "start": "2026-10-23T17:00:00-04:00",
+      "end": "2026-10-23T23:59:00-04:00",
+      "venue": "Bar Le West",
+      "address": "1562 Mont-Royal E/438-386-1110",
+      "url": "https://sortiesjazznights.com/events/christian-cardinal-trio-34/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "3c4dae0560e7375df19d8e43@montreal-jazz-calendar": {
       "source_id": "event_69354_0",
       "title": "Brownman Electryc Trio - Brownman Ali Sean Dennis Adam Mansfield + 1 : Thriller de Michael Jackson",
@@ -958,17 +980,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "4cfbcb7b690a475f3f66261c@montreal-jazz-calendar": {
-      "source_id": "event_68290_6",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-10-12T19:00:00-04:00",
-      "end": "2026-10-12T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-6.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
     "5bbe65c9d17bef4690d79c33@montreal-jazz-calendar": {
       "source_id": "event_69448_0",
       "title": "Sarah Boutin 4tet + jam",
@@ -977,8 +988,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/sarah-boutin-4tet-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "13c0a2433b12b00eabbb40b6@montreal-jazz-calendar": {
       "source_id": "event_60783_13",
@@ -988,8 +999,8 @@
       "venue": "Brasserie Artisanale Le Saint-Graal",
       "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
       "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-13.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ac97cb47e638240e917dadbf@montreal-jazz-calendar": {
       "source_id": "event_69436_0",
@@ -999,8 +1010,8 @@
       "venue": "Quai des brumes",
       "address": "4481 St-Denis 514-499-0467",
       "url": "https://sortiesjazznights.com/events/salome-perli-invite-juliette-malgrange-et-ilana-bensemhoun-la-session-experimentale-33/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "af36a3811bccd7765fb0122d@montreal-jazz-calendar": {
       "source_id": "event_67877_0",
@@ -1010,8 +1021,8 @@
       "venue": "Maison de la culture Ahuntsic",
       "address": "10300 Lajeunesse 514-872-8749",
       "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-9/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
