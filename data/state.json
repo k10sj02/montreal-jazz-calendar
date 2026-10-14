@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T01:19:43.320372-04:00",
+  "updated": "2026-10-14T08:19:13.402763-04:00",
   "events": {
     "944bf82d4a149f0f7f70dd4e@montreal-jazz-calendar": {
       "source_id": "event_67814_8",
@@ -922,8 +922,8 @@
       "venue": "Quai des brumes",
       "address": "4481 St-Denis 514-499-0467",
       "url": "https://sortiesjazznights.com/events/karl-rozankovic-florence-beauquier-leger-roman-munoz-jules-payette/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "98a9784e8ae1f668e62ff21f@montreal-jazz-calendar": {
       "source_id": "event_69126_0",
@@ -933,8 +933,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/mardis-big-band-joe-sullivan-big-band-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "948576e899ec8285941d8c9c@montreal-jazz-calendar": {
       "source_id": "event_63297_0",
@@ -944,8 +944,8 @@
       "venue": "Le BAM - Bière au Menu",
       "address": "71 Montée Gagnon Bois-des-Filion 450-621-0611",
       "url": "https://sortiesjazznights.com/events/rc-jazz-sextet-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a617360712f64281d4f3c19a@montreal-jazz-calendar": {
       "source_id": "event_69418_0",
@@ -955,8 +955,8 @@
       "venue": "Maison de la culture Côte-des-Neiges",
       "address": "5290 Côte-des-Neiges 514-872-6889",
       "url": "https://sortiesjazznights.com/events/folka-bossa-gabriel-schwartz/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "79aa0c11e61ac87fd70cd9ba@montreal-jazz-calendar": {
       "source_id": "event_68730_0",
@@ -966,8 +966,8 @@
       "venue": "La Sala Rossa",
       "address": "4848 St-Laurent 514-284-0122",
       "url": "https://sortiesjazznights.com/events/pnp-jazz-presente-les-3p-federico-penserini-alain-picotte-perry-pansieri-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "775b6c0637f51782e60362c0@montreal-jazz-calendar": {
       "source_id": "event_61330_11",
@@ -977,8 +977,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-11.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
