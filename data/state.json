@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T01:07:13.446605-04:00",
+  "updated": "2026-10-15T08:03:01.529495-04:00",
   "events": {
     "dd0efca304b7fb4b6630b3c9@montreal-jazz-calendar": {
       "source_id": "event_66572_9",
@@ -900,8 +900,8 @@
       "venue": "Marcus Restaurant - Hotel Four Seasons",
       "address": "1440 Rue de la Montagne Montréal 514-843-2525",
       "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-8.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "357f22b8edf16d8ae2219ae5@montreal-jazz-calendar": {
       "source_id": "event_55012_17",
@@ -911,8 +911,8 @@
       "venue": "Café Passion",
       "address": "476 Victoria / Saint-Lambert 450-671-1405",
       "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-17.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
