@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T12:55:05.739680-04:00",
+  "updated": "2026-10-16T17:39:33.027203-04:00",
   "events": {
     "4978dc98dbd346db567cd1dd@montreal-jazz-calendar": {
       "source_id": "event_69131_0",
@@ -812,8 +812,8 @@
       "venue": "Brasserie Beaubien",
       "address": "73 Beaubien E 514-495-8141",
       "url": "https://sortiesjazznights.com/events/elizabeth-cormier-hommage-a-dinah-washington/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
