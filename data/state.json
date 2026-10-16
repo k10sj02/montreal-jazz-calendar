@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T07:51:43.625673-04:00",
+  "updated": "2026-10-16T12:55:05.739680-04:00",
   "events": {
     "4978dc98dbd346db567cd1dd@montreal-jazz-calendar": {
       "source_id": "event_69131_0",
@@ -452,17 +452,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "babfbe078e661957f7fcffb0@montreal-jazz-calendar": {
-      "source_id": "event_69228_0",
-      "title": "Élizabeth Cormier - Hommage à Dinah Washington",
-      "start": "2026-10-23T20:00:00-04:00",
-      "end": "2026-10-23T23:59:00-04:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/elizabeth-cormier-hommage-a-dinah-washington/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "32c5e376948113144d0a3cdf@montreal-jazz-calendar": {
       "source_id": "event_69450_0",
       "title": "Mike Herriott Big Band - Tales Of Tricksters & Vagabonds",
@@ -815,82 +804,16 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "dd0efca304b7fb4b6630b3c9@montreal-jazz-calendar": {
-      "source_id": "event_66572_9",
-      "title": "Samuel Lechasseur Trio",
-      "start": "2026-10-15T18:00:00-04:00",
-      "end": "2026-10-15T23:59:00-04:00",
-      "venue": "Nevski",
-      "address": "75 rue Queen 514-397-0743",
-      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-9.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "fe0cce32e911ba2206741938@montreal-jazz-calendar": {
-      "source_id": "event_68298_0",
-      "title": "Yvan Belleau invite Kalman Olah - avec Adrian Vedady Rich Irwin +21h30",
-      "start": "2026-10-15T19:00:00-04:00",
-      "end": "2026-10-15T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/yvan-belleau-invite-kalman-olah-avec-adrian-vedady-rich-irwin-21h30/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "ff08fc2db9b1e31efec05a02@montreal-jazz-calendar": {
-      "source_id": "event_68968_0",
-      "title": "Caity Gyeorgy et  Mark Limacher - Jeudis Jazz",
-      "start": "2026-10-15T19:30:00-04:00",
-      "end": "2026-10-15T23:59:00-04:00",
-      "venue": "Maison de la culture Ahuntsic",
-      "address": "10300 Lajeunesse 514-872-8749",
-      "url": "https://sortiesjazznights.com/events/caity-gyeorgy-et-mark-limacher-jeudis-jazz/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "4208352eb059b62cef03055a@montreal-jazz-calendar": {
-      "source_id": "event_69226_0",
-      "title": "JazzWorks jazz jam avec Adrian Vedady et plus",
-      "start": "2026-10-15T19:30:00-04:00",
-      "end": "2026-10-15T23:59:00-04:00",
+    "babfbe078e661957f7fcffb0@montreal-jazz-calendar": {
+      "source_id": "event_69228_0",
+      "title": "Élizabeth Cormier - Hommage à Dinah Washington",
+      "start": "2026-10-23T20:00:00-04:00",
+      "end": "2026-10-23T23:59:00-04:00",
       "venue": "Brasserie Beaubien",
       "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/jazzworks-jazz-jam-avec-adrian-vedady-et-plus-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "4c3824b1b0c18ce34f311d13@montreal-jazz-calendar": {
-      "source_id": "event_69508_0",
-      "title": "KoulKoulDuo - Harold Faustin et Samina",
-      "start": "2026-10-15T19:30:00-04:00",
-      "end": "2026-10-15T23:59:00-04:00",
-      "venue": "Maison de la culture Plateau Mont-Royal",
-      "address": "465 Mont-Royal E / 872-2266",
-      "url": "https://sortiesjazznights.com/events/koulkoulduo-harold-faustin-et-samina-3/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "d0703edc91ca076f88fb9f3f@montreal-jazz-calendar": {
-      "source_id": "event_69002_0",
-      "title": "Lancement de Lento dans le cadre des 20 ans de Malasartes - Damian Nisenson / Malasartes",
-      "start": "2026-10-15T19:30:00-04:00",
-      "end": "2026-10-15T23:59:00-04:00",
-      "venue": "Centre Sanaaq",
-      "address": "1200 rue du Sussex",
-      "url": "https://sortiesjazznights.com/events/lancement-de-lento-dans-le-cadre-des-20-ans-de-malasartes-damian-nisenson-malasartes/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "e1ee61891d7f06dcb23626d8@montreal-jazz-calendar": {
-      "source_id": "event_69449_0",
-      "title": "La Groovin' Machine",
-      "start": "2026-10-15T20:30:00-04:00",
-      "end": "2026-10-15T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/la-groovin-machine-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/elizabeth-cormier-hommage-a-dinah-washington/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
