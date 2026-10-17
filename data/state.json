@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T00:56:56.957280-04:00",
+  "updated": "2026-10-17T07:08:37.472083-04:00",
   "events": {
     "3389b83f04448b009ee9f675@montreal-jazz-calendar": {
       "source_id": "event_69132_0",
@@ -75,6 +75,17 @@
       "venue": "Brasserie artisanale Les sans-taverne",
       "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
       "url": "https://sortiesjazznights.com/events/john-klepko-trio-20/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "953f08ae65389ad34c4e2a85@montreal-jazz-calendar": {
+      "source_id": "event_69949_0",
+      "title": "Robert Ménard Frédéric Darveau Alain Bastien",
+      "start": "2026-10-18T17:00:00-04:00",
+      "end": "2026-10-18T23:59:00-04:00",
+      "venue": "Chez Roger",
+      "address": "2300 Rue Beaubien E 514-593-4200",
+      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-45/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -185,6 +196,17 @@
       "venue": "Brasserie Artisanale Le Saint-Graal",
       "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
       "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-14.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "8f9914cf0297a93fb0c5c3de@montreal-jazz-calendar": {
+      "source_id": "event_69947_0",
+      "title": "Robert Ménard Frédéric Darveau",
+      "start": "2026-10-20T18:30:00-04:00",
+      "end": "2026-10-20T23:59:00-04:00",
+      "venue": "Pizzeria Geppetto Beaubien",
+      "address": "2510 Rue Beaubien E 514-439-8599",
+      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-12/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -320,6 +342,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "9e9b00c133c81ff8ea4b68df@montreal-jazz-calendar": {
+      "source_id": "event_69955_0",
+      "title": "Benoit Charest 4tet +21h",
+      "start": "2026-10-22T19:00:00-04:00",
+      "end": "2026-10-22T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/benoit-charest-4tet-21h/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "1a8a23b37cf9a224a37b5716@montreal-jazz-calendar": {
       "source_id": "event_68967_0",
       "title": "Geminicrab - Malika Tirolien et Caulder Nash - Jeudis Jazz",
@@ -372,6 +405,17 @@
       "venue": "Upstairs Jazz Bar et Grill",
       "address": "1254 Mackay 514-931-6808",
       "url": "https://sortiesjazznights.com/events/brownman-electryc-trio-brownman-ali-sean-dennis-adam-mansfield-1/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "a837bb5bcbf87eb4c7094424@montreal-jazz-calendar": {
+      "source_id": "event_69956_0",
+      "title": "Jean-Michel Pilc Trio +21h",
+      "start": "2026-10-23T19:00:00-04:00",
+      "end": "2026-10-23T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/jean-michel-pilc-trio-21h/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -452,6 +496,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "50c67029adbb094a4115c8f7@montreal-jazz-calendar": {
+      "source_id": "event_69957_0",
+      "title": "Marianne Trudel Trio +21h",
+      "start": "2026-10-24T19:00:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/marianne-trudel-trio-21h/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "f7835cbc70d58466f92b07eb@montreal-jazz-calendar": {
       "source_id": "event_69451_0",
       "title": "Mike Herriott Big Band - Tales Of Tricksters & Vagabonds",
@@ -474,6 +529,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "5efd105bd230b0605dc4c64c@montreal-jazz-calendar": {
+      "source_id": "event_69950_0",
+      "title": "Robert Ménard Yvon Plouffe Lauréat Cormier",
+      "start": "2026-10-25T17:00:00-04:00",
+      "end": "2026-10-25T23:59:00-04:00",
+      "venue": "Chez Roger",
+      "address": "2300 Rue Beaubien E 514-593-4200",
+      "url": "https://sortiesjazznights.com/events/robert-menard-yvon-plouffe-laureat-cormier-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "db5091deedafcd628b302143@montreal-jazz-calendar": {
       "source_id": "event_69365_0",
       "title": "Félix Stüssi invite Rachel Therrien",
@@ -482,6 +548,28 @@
       "venue": "Les Soeurs Grises",
       "address": "3188 Rue Masson 514-508-1615",
       "url": "https://sortiesjazznights.com/events/felix-stussi-invite-rachel-therrien-4/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "02a11618c3b992df57786e38@montreal-jazz-calendar": {
+      "source_id": "event_69958_0",
+      "title": "Benoit Charest Trio +21h",
+      "start": "2026-10-25T19:00:00-04:00",
+      "end": "2026-10-25T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/benoit-charest-trio-21h-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f7c7e61ffc4ff17748adaf7c@montreal-jazz-calendar": {
+      "source_id": "event_69953_0",
+      "title": "Caribbean Jazz Group - Jocelyn Ménard LéNo (Léonardo Montana Arnaud Dolmen) Ira Coleman",
+      "start": "2026-10-25T20:30:00-04:00",
+      "end": "2026-10-25T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/caribbean-jazz-group-jocelyn-menard-leno-leonardo-montana-arnaud-dolmen-ira-coleman/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -515,6 +603,17 @@
       "venue": "Université McGill - Salle Tanna Schulich",
       "address": "527 Sherbrooke O / 514-398-4547",
       "url": "https://sortiesjazznights.com/events/orchestre-de-jazz-de-mcgill-i-marianne-trudel-dir/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "800afdf303157df100754703@montreal-jazz-calendar": {
+      "source_id": "event_69954_0",
+      "title": "Charlotte Van Duke 4tet + jam",
+      "start": "2026-10-26T20:30:00-04:00",
+      "end": "2026-10-26T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/charlotte-van-duke-4tet-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -779,8 +878,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/michel-cusson-trio-avec-olivier-babaz-jean-daniel-thibeault-desbiens-21h30/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "405f61ead2883f6094a5f2fb@montreal-jazz-calendar": {
       "source_id": "event_67919_0",
@@ -790,8 +889,8 @@
       "venue": "Théâtre Outremont",
       "address": "1248 Bernard O 514-495-9444",
       "url": "https://sortiesjazznights.com/events/big-band-de-ludem-hommage-a-basie-straight-ahead/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "69299f6bf2be4329fdd1fe98@montreal-jazz-calendar": {
       "source_id": "event_69683_0",
@@ -801,8 +900,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/thierry-du-sablon-portraits-de-mon-chez-moi/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
