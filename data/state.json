@@ -1,39 +1,6 @@
 {
-  "updated": "2026-10-16T17:39:33.027203-04:00",
+  "updated": "2026-10-17T00:56:56.957280-04:00",
   "events": {
-    "4978dc98dbd346db567cd1dd@montreal-jazz-calendar": {
-      "source_id": "event_69131_0",
-      "title": "Michel Cusson Trio avec Olivier Babaz Jean-Daniel Thibeault-Desbiens +21h30",
-      "start": "2026-10-16T19:00:00-04:00",
-      "end": "2026-10-16T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/michel-cusson-trio-avec-olivier-babaz-jean-daniel-thibeault-desbiens-21h30/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "405f61ead2883f6094a5f2fb@montreal-jazz-calendar": {
-      "source_id": "event_67919_0",
-      "title": "Big Band de l'UdeM - Hommage à Basie Straight Ahead",
-      "start": "2026-10-16T20:00:00-04:00",
-      "end": "2026-10-16T23:59:00-04:00",
-      "venue": "Théâtre Outremont",
-      "address": "1248 Bernard O 514-495-9444",
-      "url": "https://sortiesjazznights.com/events/big-band-de-ludem-hommage-a-basie-straight-ahead/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "69299f6bf2be4329fdd1fe98@montreal-jazz-calendar": {
-      "source_id": "event_69683_0",
-      "title": "Thierry Du Sablon - Portraits de mon Chez-Moi",
-      "start": "2026-10-16T20:30:00-04:00",
-      "end": "2026-10-16T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/thierry-du-sablon-portraits-de-mon-chez-moi/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "3389b83f04448b009ee9f675@montreal-jazz-calendar": {
       "source_id": "event_69132_0",
       "title": "Michel Cusson Trio avec Olivier Babaz Jean-Daniel Thibeault-Desbiens +21h30",
@@ -804,16 +771,38 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "babfbe078e661957f7fcffb0@montreal-jazz-calendar": {
-      "source_id": "event_69228_0",
-      "title": "Élizabeth Cormier - Hommage à Dinah Washington",
-      "start": "2026-10-23T20:00:00-04:00",
-      "end": "2026-10-23T23:59:00-04:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/elizabeth-cormier-hommage-a-dinah-washington/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "4978dc98dbd346db567cd1dd@montreal-jazz-calendar": {
+      "source_id": "event_69131_0",
+      "title": "Michel Cusson Trio avec Olivier Babaz Jean-Daniel Thibeault-Desbiens +21h30",
+      "start": "2026-10-16T19:00:00-04:00",
+      "end": "2026-10-16T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/michel-cusson-trio-avec-olivier-babaz-jean-daniel-thibeault-desbiens-21h30/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "405f61ead2883f6094a5f2fb@montreal-jazz-calendar": {
+      "source_id": "event_67919_0",
+      "title": "Big Band de l'UdeM - Hommage à Basie Straight Ahead",
+      "start": "2026-10-16T20:00:00-04:00",
+      "end": "2026-10-16T23:59:00-04:00",
+      "venue": "Théâtre Outremont",
+      "address": "1248 Bernard O 514-495-9444",
+      "url": "https://sortiesjazznights.com/events/big-band-de-ludem-hommage-a-basie-straight-ahead/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "69299f6bf2be4329fdd1fe98@montreal-jazz-calendar": {
+      "source_id": "event_69683_0",
+      "title": "Thierry Du Sablon - Portraits de mon Chez-Moi",
+      "start": "2026-10-16T20:30:00-04:00",
+      "end": "2026-10-16T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/thierry-du-sablon-portraits-de-mon-chez-moi/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
