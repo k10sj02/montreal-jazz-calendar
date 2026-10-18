@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T01:04:50.674261-04:00",
+  "updated": "2026-10-18T07:39:07.100490-04:00",
   "events": {
     "e7135bb0e97971e3d480c2ed@montreal-jazz-calendar": {
       "source_id": "event_69506_0",
@@ -845,8 +845,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/michel-cusson-trio-avec-olivier-babaz-jean-daniel-thibeault-desbiens-21h30-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "41822dc2f3a51f65157e41bb@montreal-jazz-calendar": {
       "source_id": "event_69504_0",
@@ -856,8 +856,8 @@
       "venue": "Centre culturel de Pierrefonds",
       "address": "13850 Gouin O / 514-624-1118",
       "url": "https://sortiesjazznights.com/events/koulkoulduo-harold-faustin-et-samina-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "92fd39b1187af7458652d956@montreal-jazz-calendar": {
       "source_id": "event_68380_0",
@@ -867,8 +867,8 @@
       "venue": "Salle Antony-Lessard",
       "address": "101 Place du Curé-Labelle / Saint-Jérôme / 450-432-0660",
       "url": "https://sortiesjazznights.com/events/leno/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "5a2285316ffc1bdee5230246@montreal-jazz-calendar": {
       "source_id": "event_69146_0",
@@ -878,8 +878,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/sapa-adele-levayer-julie-morisod-santiago-ferrer-emilou-johnson-christina-beaudry-cardenas-mikhael-daoudi-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
