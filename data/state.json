@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T12:06:54.642552-04:00",
+  "updated": "2026-10-18T16:59:56.005586-04:00",
   "events": {
     "e7135bb0e97971e3d480c2ed@montreal-jazz-calendar": {
       "source_id": "event_69506_0",
@@ -834,8 +834,8 @@
       "venue": "Le Théâtre de la Cité universitaire (Université Laval)",
       "address": "2325 rue de la Terrasse - Québec 418-656-8016",
       "url": "https://sortiesjazznights.com/events/classe-de-maitre-leno-arnaud-dolmen-leonardo-montana/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
