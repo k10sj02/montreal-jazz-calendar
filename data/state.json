@@ -1,83 +1,6 @@
 {
-  "updated": "2026-10-18T16:59:56.005586-04:00",
+  "updated": "2026-10-19T01:15:17.772269-04:00",
   "events": {
-    "e7135bb0e97971e3d480c2ed@montreal-jazz-calendar": {
-      "source_id": "event_69506_0",
-      "title": "Chicouté - Marianne Trudel Trio",
-      "start": "2026-10-18T15:00:00-04:00",
-      "end": "2026-10-18T23:59:00-04:00",
-      "venue": "Maison de la culture NDG (Botrel)",
-      "address": "3755 Botrel 514-872-2157",
-      "url": "https://sortiesjazznights.com/events/chicoute-marianne-trudel-trio/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c9f47497847c631a5d5e7592@montreal-jazz-calendar": {
-      "source_id": "event_69067_0",
-      "title": "Zal Sissokho et Laurent Perrault-Jolicoeur : Racine",
-      "start": "2026-10-18T15:00:00-04:00",
-      "end": "2026-10-18T23:59:00-04:00",
-      "venue": "Centre culturel Stewart Hall (Pointe-Claire)",
-      "address": "176 Chemin du Bord-du-Lac 514-630-1220",
-      "url": "https://sortiesjazznights.com/events/zal-sissokho-et-laurent-perrault-jolicoeur-racine/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ecd37866fa2a6cbf133c0e4d@montreal-jazz-calendar": {
-      "source_id": "event_68397_0",
-      "title": "John Klepko Trio",
-      "start": "2026-10-18T17:00:00-04:00",
-      "end": "2026-10-18T23:59:00-04:00",
-      "venue": "Brasserie artisanale Les sans-taverne",
-      "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
-      "url": "https://sortiesjazznights.com/events/john-klepko-trio-20/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "953f08ae65389ad34c4e2a85@montreal-jazz-calendar": {
-      "source_id": "event_69949_0",
-      "title": "Robert Ménard Frédéric Darveau Alain Bastien",
-      "start": "2026-10-18T17:00:00-04:00",
-      "end": "2026-10-18T23:59:00-04:00",
-      "venue": "Chez Roger",
-      "address": "2300 Rue Beaubien E 514-593-4200",
-      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-45/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "734946feeeff332c1548d58f@montreal-jazz-calendar": {
-      "source_id": "event_69239_0",
-      "title": "Charlotte Désilets - lancement de Jam chez Félix +20h45",
-      "start": "2026-10-18T19:00:00-04:00",
-      "end": "2026-10-18T23:59:00-04:00",
-      "venue": "Upstairs Jazz Bar et Grill",
-      "address": "1254 Mackay 514-931-6808",
-      "url": "https://sortiesjazznights.com/events/charlotte-desilets-lancement-de-jam-chez-felix-20h45/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c3fcc2a0bf11eeeabe4ace40@montreal-jazz-calendar": {
-      "source_id": "event_69123_0",
-      "title": "Coral Egan Trio +21h",
-      "start": "2026-10-18T19:00:00-04:00",
-      "end": "2026-10-18T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-16/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "635478732d74bf9bfbdaa483@montreal-jazz-calendar": {
-      "source_id": "event_69684_0",
-      "title": "Kevin Dean et ami.e.s - Hommage à Miles Davis et John Coltrane",
-      "start": "2026-10-18T20:30:00-04:00",
-      "end": "2026-10-18T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/kevin-dean-et-ami-e-s-hommage-a-miles-davis-et-john-coltrane/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "e2fb46ad1da4503c2aaa8e96@montreal-jazz-calendar": {
       "source_id": "event_68290_7",
       "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
@@ -826,16 +749,82 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "b90136e877c523bf780323d5@montreal-jazz-calendar": {
-      "source_id": "event_69444_0",
-      "title": "Classe de maître : LéNo - Arnaud Dolmen Leonardo Montana",
-      "start": "2026-10-21T14:00:00-04:00",
-      "end": "2026-10-21T23:59:00-04:00",
-      "venue": "Le Théâtre de la Cité universitaire (Université Laval)",
-      "address": "2325 rue de la Terrasse - Québec 418-656-8016",
-      "url": "https://sortiesjazznights.com/events/classe-de-maitre-leno-arnaud-dolmen-leonardo-montana/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "e7135bb0e97971e3d480c2ed@montreal-jazz-calendar": {
+      "source_id": "event_69506_0",
+      "title": "Chicouté - Marianne Trudel Trio",
+      "start": "2026-10-18T15:00:00-04:00",
+      "end": "2026-10-18T23:59:00-04:00",
+      "venue": "Maison de la culture NDG (Botrel)",
+      "address": "3755 Botrel 514-872-2157",
+      "url": "https://sortiesjazznights.com/events/chicoute-marianne-trudel-trio/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "c9f47497847c631a5d5e7592@montreal-jazz-calendar": {
+      "source_id": "event_69067_0",
+      "title": "Zal Sissokho et Laurent Perrault-Jolicoeur : Racine",
+      "start": "2026-10-18T15:00:00-04:00",
+      "end": "2026-10-18T23:59:00-04:00",
+      "venue": "Centre culturel Stewart Hall (Pointe-Claire)",
+      "address": "176 Chemin du Bord-du-Lac 514-630-1220",
+      "url": "https://sortiesjazznights.com/events/zal-sissokho-et-laurent-perrault-jolicoeur-racine/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "ecd37866fa2a6cbf133c0e4d@montreal-jazz-calendar": {
+      "source_id": "event_68397_0",
+      "title": "John Klepko Trio",
+      "start": "2026-10-18T17:00:00-04:00",
+      "end": "2026-10-18T23:59:00-04:00",
+      "venue": "Brasserie artisanale Les sans-taverne",
+      "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
+      "url": "https://sortiesjazznights.com/events/john-klepko-trio-20/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "953f08ae65389ad34c4e2a85@montreal-jazz-calendar": {
+      "source_id": "event_69949_0",
+      "title": "Robert Ménard Frédéric Darveau Alain Bastien",
+      "start": "2026-10-18T17:00:00-04:00",
+      "end": "2026-10-18T23:59:00-04:00",
+      "venue": "Chez Roger",
+      "address": "2300 Rue Beaubien E 514-593-4200",
+      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-45/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "734946feeeff332c1548d58f@montreal-jazz-calendar": {
+      "source_id": "event_69239_0",
+      "title": "Charlotte Désilets - lancement de Jam chez Félix +20h45",
+      "start": "2026-10-18T19:00:00-04:00",
+      "end": "2026-10-18T23:59:00-04:00",
+      "venue": "Upstairs Jazz Bar et Grill",
+      "address": "1254 Mackay 514-931-6808",
+      "url": "https://sortiesjazznights.com/events/charlotte-desilets-lancement-de-jam-chez-felix-20h45/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "c3fcc2a0bf11eeeabe4ace40@montreal-jazz-calendar": {
+      "source_id": "event_69123_0",
+      "title": "Coral Egan Trio +21h",
+      "start": "2026-10-18T19:00:00-04:00",
+      "end": "2026-10-18T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-16/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "635478732d74bf9bfbdaa483@montreal-jazz-calendar": {
+      "source_id": "event_69684_0",
+      "title": "Kevin Dean et ami.e.s - Hommage à Miles Davis et John Coltrane",
+      "start": "2026-10-18T20:30:00-04:00",
+      "end": "2026-10-18T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/kevin-dean-et-ami-e-s-hommage-a-miles-davis-et-john-coltrane/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
