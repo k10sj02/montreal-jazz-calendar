@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T01:15:17.772269-04:00",
+  "updated": "2026-10-19T09:53:18.948469-04:00",
   "events": {
     "e2fb46ad1da4503c2aaa8e96@montreal-jazz-calendar": {
       "source_id": "event_68290_7",
@@ -265,6 +265,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "7c71808773147cba306b0ef4@montreal-jazz-calendar": {
+      "source_id": "event_70001_0",
+      "title": "Broue & Jazz avec Éric Proulx Jocelyn Ménard Sean Burke et Kulusé Souriant",
+      "start": "2026-10-23T18:00:00-04:00",
+      "end": "2026-10-23T23:59:00-04:00",
+      "venue": "Délires et Délices",
+      "address": "1626 Bourgogne / Chambly / 450-593-3233",
+      "url": "https://sortiesjazznights.com/events/broue-jazz-avec-eric-proulx-jocelyn-menard-sean-burke-et-kuluse-souriant/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "3c4dae0560e7375df19d8e43@montreal-jazz-calendar": {
       "source_id": "event_69354_0",
       "title": "Brownman Electryc Trio - Brownman Ali Sean Dennis Adam Mansfield + 1 : Thriller de Michael Jackson",
@@ -372,6 +383,17 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/marianne-trudel-trio-21h/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "33fc0e28b6c3df9a15da9aa5@montreal-jazz-calendar": {
+      "source_id": "event_70002_0",
+      "title": "Le Tour des Îles : Jean-François Fabiano et Transit + Jocelyn Ménard",
+      "start": "2026-10-24T19:30:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Collège Ahuntsic",
+      "address": "9155 St-Hubert 514-389-5921",
+      "url": "https://sortiesjazznights.com/events/le-tour-des-iles-jean-francois-fabiano-et-transit-jocelyn-menard/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -757,8 +779,8 @@
       "venue": "Maison de la culture NDG (Botrel)",
       "address": "3755 Botrel 514-872-2157",
       "url": "https://sortiesjazznights.com/events/chicoute-marianne-trudel-trio/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c9f47497847c631a5d5e7592@montreal-jazz-calendar": {
       "source_id": "event_69067_0",
@@ -768,8 +790,8 @@
       "venue": "Centre culturel Stewart Hall (Pointe-Claire)",
       "address": "176 Chemin du Bord-du-Lac 514-630-1220",
       "url": "https://sortiesjazznights.com/events/zal-sissokho-et-laurent-perrault-jolicoeur-racine/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ecd37866fa2a6cbf133c0e4d@montreal-jazz-calendar": {
       "source_id": "event_68397_0",
@@ -779,8 +801,8 @@
       "venue": "Brasserie artisanale Les sans-taverne",
       "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
       "url": "https://sortiesjazznights.com/events/john-klepko-trio-20/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "953f08ae65389ad34c4e2a85@montreal-jazz-calendar": {
       "source_id": "event_69949_0",
@@ -790,8 +812,8 @@
       "venue": "Chez Roger",
       "address": "2300 Rue Beaubien E 514-593-4200",
       "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-45/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "734946feeeff332c1548d58f@montreal-jazz-calendar": {
       "source_id": "event_69239_0",
@@ -801,8 +823,8 @@
       "venue": "Upstairs Jazz Bar et Grill",
       "address": "1254 Mackay 514-931-6808",
       "url": "https://sortiesjazznights.com/events/charlotte-desilets-lancement-de-jam-chez-felix-20h45/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c3fcc2a0bf11eeeabe4ace40@montreal-jazz-calendar": {
       "source_id": "event_69123_0",
@@ -812,8 +834,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-16/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "635478732d74bf9bfbdaa483@montreal-jazz-calendar": {
       "source_id": "event_69684_0",
@@ -823,8 +845,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/kevin-dean-et-ami-e-s-hommage-a-miles-davis-et-john-coltrane/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
