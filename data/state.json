@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T08:04:41.627741-04:00",
+  "updated": "2026-10-20T13:29:37.278676-04:00",
   "events": {
     "8f9914cf0297a93fb0c5c3de@montreal-jazz-calendar": {
       "source_id": "event_69947_0",
@@ -682,72 +682,6 @@
       "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-miles-smiles-wayne-shines/",
       "status": "CONFIRMED",
       "missing_runs": 0
-    },
-    "e2fb46ad1da4503c2aaa8e96@montreal-jazz-calendar": {
-      "source_id": "event_68290_7",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-10-19T19:00:00-04:00",
-      "end": "2026-10-19T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-7.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "52a481c2fd5851c0441c40bc@montreal-jazz-calendar": {
-      "source_id": "event_68985_0",
-      "title": "Sapporo Jazz Jam avec Thuryn Mitchell et ami(e)s",
-      "start": "2026-10-19T19:00:00-04:00",
-      "end": "2026-10-19T23:59:00-04:00",
-      "venue": "Restaurant Au 14",
-      "address": "14 Prince-Arthur O",
-      "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "5db5e76b81508091b9fd6fc3@montreal-jazz-calendar": {
-      "source_id": "event_68517_0",
-      "title": "Ensembles de musique de chambre jazz de McGill II et III - Bill Mahar and Carlos Jiménez (dir)",
-      "start": "2026-10-19T19:30:00-04:00",
-      "end": "2026-10-19T23:59:00-04:00",
-      "venue": "Université McGill - Salle Tanna Schulich",
-      "address": "527 Sherbrooke O / 514-398-4547",
-      "url": "https://sortiesjazznights.com/events/ensembles-de-musique-de-chambre-jazz-de-mcgill-ii-et-iii-bill-mahar-and-carlos-jimenez/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "27f856d9f14b05febe9da52e@montreal-jazz-calendar": {
-      "source_id": "event_69580_0",
-      "title": "Atelier/concert avec Stanley Péan",
-      "start": "2026-10-19T20:00:00-04:00",
-      "end": "2026-10-19T23:59:00-04:00",
-      "venue": "École de musique Vincent d'Indy",
-      "address": "628 Chemin de la Côte-Sainte-Catherine 514-735-5261",
-      "url": "https://sortiesjazznights.com/events/atelier-concert-avec-stanley-pean/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "a89aa8ee4dec007b7adc4974@montreal-jazz-calendar": {
-      "source_id": "event_69685_0",
-      "title": "Sarah Stevenson 4tet + jam",
-      "start": "2026-10-19T20:30:00-04:00",
-      "end": "2026-10-19T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/sarah-stevenson-4tet-jam-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "8ebfafcfc1bafd82908eeaa5@montreal-jazz-calendar": {
-      "source_id": "event_60783_14",
-      "title": "Jam session du St-Graal avec Maxime Racicot, Jonathan Arseneau, invités, et +",
-      "start": "2026-10-19T21:00:00-04:00",
-      "end": "2026-10-19T23:59:00-04:00",
-      "venue": "Brasserie Artisanale Le Saint-Graal",
-      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
-      "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-14.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
     }
   }
 }
