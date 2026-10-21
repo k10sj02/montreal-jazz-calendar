@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T01:15:16.107617-04:00",
+  "updated": "2026-10-21T08:19:18.493452-04:00",
   "events": {
     "a9a17c315d6536b363e2818d@montreal-jazz-calendar": {
       "source_id": "event_67814_9",
@@ -658,8 +658,8 @@
       "venue": "Pizzeria Geppetto Beaubien",
       "address": "2510 Rue Beaubien E 514-439-8599",
       "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-12/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ca48c400900b5c6d96b36e4c@montreal-jazz-calendar": {
       "source_id": "event_69127_0",
@@ -669,8 +669,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/mardis-big-band-altsys-orchestra-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b00c0fe16166fa9f7cd6c8f1@montreal-jazz-calendar": {
       "source_id": "event_61330_12",
@@ -680,8 +680,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-12.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
