@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T01:18:41.691506-04:00",
+  "updated": "2026-10-22T08:20:35.425050-04:00",
   "events": {
     "bfae800805fe9fff86edf74b@montreal-jazz-calendar": {
       "source_id": "event_69507_0",
@@ -119,6 +119,17 @@
       "venue": "Université McGill - Salle Tanna Schulich",
       "address": "527 Sherbrooke O / 514-398-4547",
       "url": "https://sortiesjazznights.com/events/ensemble-de-musique-de-chambre-jazz-de-mcgill-i-john-hollenbeck-dir/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b274ffae59ebe3342932a535@montreal-jazz-calendar": {
+      "source_id": "event_70066_0",
+      "title": "Jazz Blues Trio avec Kytnar, Rizk et Milea",
+      "start": "2026-10-23T19:30:00-04:00",
+      "end": "2026-10-23T23:59:00-04:00",
+      "venue": "Café Dax",
+      "address": "1461 Ave. Van Horne 514-941-9982",
+      "url": "https://sortiesjazznights.com/events/jazz-blues-trio-avec-kytnar-rizk-et-milea/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -581,8 +592,8 @@
       "venue": "Marcus Restaurant - Hotel Four Seasons",
       "address": "1440 Rue de la Montagne Montréal 514-843-2525",
       "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-9.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "127ac007a19f89db99f32d30@montreal-jazz-calendar": {
       "source_id": "event_67086_0",
@@ -592,8 +603,8 @@
       "venue": "Bar Le West",
       "address": "1562 Mont-Royal E/438-386-1110",
       "url": "https://sortiesjazznights.com/events/tchin-tchin-claude-thibault-claude-chap-chapleau-sophie-rivard-pierre-armand-tremblay-orlando-cabrera/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1f34c528a495d85d688fb5a1@montreal-jazz-calendar": {
       "source_id": "event_55012_18",
@@ -603,8 +614,8 @@
       "venue": "Café Passion",
       "address": "476 Victoria / Saint-Lambert 450-671-1405",
       "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-18.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "44f4eb7107fc5309c49048b3@montreal-jazz-calendar": {
       "source_id": "event_68519_0",
@@ -614,8 +625,8 @@
       "venue": "Université McGill - Salle Tanna Schulich",
       "address": "527 Sherbrooke O / 514-398-4547",
       "url": "https://sortiesjazznights.com/events/orchestre-de-jazz-de-mcgill-ii-standard-time-a-la-decouverte-du-great-american-songbook-lex-french-dir/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "788951fe90f67a8bdad6e118@montreal-jazz-calendar": {
       "source_id": "event_69003_0",
@@ -625,8 +636,8 @@
       "venue": "Toscadura",
       "address": "4388 St-Laurent",
       "url": "https://sortiesjazznights.com/events/20-ans-de-malasartes-lancements-eclat-nocturne-de-manela-et-vent-de-bout-de-pep/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f81a427376e5ae086b3a98da@montreal-jazz-calendar": {
       "source_id": "event_69227_0",
@@ -636,8 +647,8 @@
       "venue": "Brasserie Beaubien",
       "address": "73 Beaubien E 514-495-8141",
       "url": "https://sortiesjazznights.com/events/benoit-charest-et-invites/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1e239f2b3a6e892e315b32de@montreal-jazz-calendar": {
       "source_id": "event_67508_0",
@@ -647,8 +658,8 @@
       "venue": "Place des Arts - Cinquième Salle",
       "address": "175 Ste-Catherine O / 514-842-8112",
       "url": "https://sortiesjazznights.com/events/david-marino-chante-michel-legrand/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
