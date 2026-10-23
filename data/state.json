@@ -1,72 +1,6 @@
 {
-  "updated": "2026-10-22T17:54:09.992813-04:00",
+  "updated": "2026-10-23T01:17:42.368672-04:00",
   "events": {
-    "bfae800805fe9fff86edf74b@montreal-jazz-calendar": {
-      "source_id": "event_69507_0",
-      "title": "Rencontre avec Michel Cusson",
-      "start": "2026-10-22T18:00:00-04:00",
-      "end": "2026-10-22T23:59:00-04:00",
-      "venue": "Centre Sanaaq",
-      "address": "1200 rue du Sussex",
-      "url": "https://sortiesjazznights.com/events/rencontre-avec-michel-cusson/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "211946d9e8038b4472e4ad4f@montreal-jazz-calendar": {
-      "source_id": "event_66572_10",
-      "title": "Samuel Lechasseur Trio",
-      "start": "2026-10-22T18:00:00-04:00",
-      "end": "2026-10-22T23:59:00-04:00",
-      "venue": "Nevski",
-      "address": "75 rue Queen 514-397-0743",
-      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-10.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9e9b00c133c81ff8ea4b68df@montreal-jazz-calendar": {
-      "source_id": "event_69955_0",
-      "title": "Benoit Charest 4tet +21h",
-      "start": "2026-10-22T19:00:00-04:00",
-      "end": "2026-10-22T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/benoit-charest-4tet-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "1a8a23b37cf9a224a37b5716@montreal-jazz-calendar": {
-      "source_id": "event_68967_0",
-      "title": "Geminicrab - Malika Tirolien et Caulder Nash - Jeudis Jazz",
-      "start": "2026-10-22T19:30:00-04:00",
-      "end": "2026-10-22T23:59:00-04:00",
-      "venue": "Maison de la culture Ahuntsic",
-      "address": "10300 Lajeunesse 514-872-8749",
-      "url": "https://sortiesjazznights.com/events/segui-so-donald-dogbo-jeudis-jazz/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "48d6f2d80d4d4565110d1002@montreal-jazz-calendar": {
-      "source_id": "event_69363_0",
-      "title": "Quiet Quintet : Légendes du Hard Bop avec Nicolas Boulay",
-      "start": "2026-10-22T19:30:00-04:00",
-      "end": "2026-10-22T23:59:00-04:00",
-      "venue": "Maison de la culture Verdun - Quai 5160",
-      "address": "5160 Boul. Lasalle / 514-872-4995",
-      "url": "https://sortiesjazznights.com/events/quiet-quintet-legendes-du-hard-bop-avec-nicolas-boulay-5/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "52a9e711640aff683f2e47d7@montreal-jazz-calendar": {
-      "source_id": "event_69203_0",
-      "title": "Caity Gyorgy Jazz 4tet - You Irritate Me So",
-      "start": "2026-10-22T20:00:00-04:00",
-      "end": "2026-10-22T23:59:00-04:00",
-      "venue": "Place des Arts - Cinquième Salle",
-      "address": "175 Ste-Catherine O / 514-842-8112",
-      "url": "https://sortiesjazznights.com/events/caity-gyorgy-jazz-4tet-you-irritate-me-so/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "7dfa50ea8e30a293e95392f2@montreal-jazz-calendar": {
       "source_id": "event_69817_0",
       "title": "Christian Cardinal Trio",
@@ -594,6 +528,72 @@
       "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-miles-smiles-wayne-shines/",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "bfae800805fe9fff86edf74b@montreal-jazz-calendar": {
+      "source_id": "event_69507_0",
+      "title": "Rencontre avec Michel Cusson",
+      "start": "2026-10-22T18:00:00-04:00",
+      "end": "2026-10-22T23:59:00-04:00",
+      "venue": "Centre Sanaaq",
+      "address": "1200 rue du Sussex",
+      "url": "https://sortiesjazznights.com/events/rencontre-avec-michel-cusson/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "211946d9e8038b4472e4ad4f@montreal-jazz-calendar": {
+      "source_id": "event_66572_10",
+      "title": "Samuel Lechasseur Trio",
+      "start": "2026-10-22T18:00:00-04:00",
+      "end": "2026-10-22T23:59:00-04:00",
+      "venue": "Nevski",
+      "address": "75 rue Queen 514-397-0743",
+      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-10.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "9e9b00c133c81ff8ea4b68df@montreal-jazz-calendar": {
+      "source_id": "event_69955_0",
+      "title": "Benoit Charest 4tet +21h",
+      "start": "2026-10-22T19:00:00-04:00",
+      "end": "2026-10-22T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/benoit-charest-4tet-21h/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "1a8a23b37cf9a224a37b5716@montreal-jazz-calendar": {
+      "source_id": "event_68967_0",
+      "title": "Geminicrab - Malika Tirolien et Caulder Nash - Jeudis Jazz",
+      "start": "2026-10-22T19:30:00-04:00",
+      "end": "2026-10-22T23:59:00-04:00",
+      "venue": "Maison de la culture Ahuntsic",
+      "address": "10300 Lajeunesse 514-872-8749",
+      "url": "https://sortiesjazznights.com/events/segui-so-donald-dogbo-jeudis-jazz/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "48d6f2d80d4d4565110d1002@montreal-jazz-calendar": {
+      "source_id": "event_69363_0",
+      "title": "Quiet Quintet : Légendes du Hard Bop avec Nicolas Boulay",
+      "start": "2026-10-22T19:30:00-04:00",
+      "end": "2026-10-22T23:59:00-04:00",
+      "venue": "Maison de la culture Verdun - Quai 5160",
+      "address": "5160 Boul. Lasalle / 514-872-4995",
+      "url": "https://sortiesjazznights.com/events/quiet-quintet-legendes-du-hard-bop-avec-nicolas-boulay-5/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "52a9e711640aff683f2e47d7@montreal-jazz-calendar": {
+      "source_id": "event_69203_0",
+      "title": "Caity Gyorgy Jazz 4tet - You Irritate Me So",
+      "start": "2026-10-22T20:00:00-04:00",
+      "end": "2026-10-22T23:59:00-04:00",
+      "venue": "Place des Arts - Cinquième Salle",
+      "address": "175 Ste-Catherine O / 514-842-8112",
+      "url": "https://sortiesjazznights.com/events/caity-gyorgy-jazz-4tet-you-irritate-me-so/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
