@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T13:24:33.706678-04:00",
+  "updated": "2026-10-23T17:37:58.688889-04:00",
   "events": {
     "7dfa50ea8e30a293e95392f2@montreal-jazz-calendar": {
       "source_id": "event_69817_0",
@@ -284,6 +284,17 @@
       "venue": "Brasserie Artisanale Le Saint-Graal",
       "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
       "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-15.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f0514795550e1dc74c2da9e3@montreal-jazz-calendar": {
+      "source_id": "event_70176_0",
+      "title": "Conférence musicale : aux racines de la samba avec Fabio Nin",
+      "start": "2026-10-27T18:00:00-04:00",
+      "end": "2026-10-27T23:59:00-04:00",
+      "venue": "Centre des musiciens du monde",
+      "address": "5043 St-Dominique / 514-397-9226",
+      "url": "https://sortiesjazznights.com/events/conference-musicale-aux-racines-de-la-samba-avec-fabio-nin/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
