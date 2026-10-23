@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T01:17:42.368672-04:00",
+  "updated": "2026-10-23T08:01:54.870761-04:00",
   "events": {
     "7dfa50ea8e30a293e95392f2@montreal-jazz-calendar": {
       "source_id": "event_69817_0",
@@ -20,6 +20,17 @@
       "venue": "Délires et Délices",
       "address": "1626 Bourgogne / Chambly / 450-593-3233",
       "url": "https://sortiesjazznights.com/events/broue-jazz-avec-eric-proulx-jocelyn-menard-sean-burke-et-kuluse-souriant/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "34a85e62352e204d22108b95@montreal-jazz-calendar": {
+      "source_id": "event_70144_0",
+      "title": "Reno De Stefano",
+      "start": "2026-10-23T18:30:00-04:00",
+      "end": "2026-10-23T23:59:00-04:00",
+      "venue": "MaBrasserie",
+      "address": "2300 Rue Holt 514-508-3309",
+      "url": "https://sortiesjazznights.com/events/reno-de-stefano-8/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -298,6 +309,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "e9bbc1af4ece3ffba05242b6@montreal-jazz-calendar": {
+      "source_id": "event_70145_0",
+      "title": "La Touche Manouche - jam manouche mensuel",
+      "start": "2026-10-27T19:30:00-04:00",
+      "end": "2026-10-27T23:59:00-04:00",
+      "venue": "La Brassée",
+      "address": "2522 Beaubien E",
+      "url": "https://sortiesjazznights.com/events/la-touche-manouche-jam-manouche-mensuel-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "b7587065efe61d9dee02a4d9@montreal-jazz-calendar": {
       "source_id": "event_67509_0",
       "title": "Dorothée Berryman",
@@ -405,6 +427,17 @@
       "venue": "aramusique @ Théâtre Alphonse-Desjardins",
       "address": "25 Allée de la Création Repentigny 450-589-9198 877-589-9198",
       "url": "https://sortiesjazznights.com/events/apres-la-pluie-daniel-mille-yves-leveille-frank-lozano-guy-boisvert-pierre-tanguay-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "b5059d1404b82f02fcfb219d@montreal-jazz-calendar": {
+      "source_id": "event_63947_0",
+      "title": "Apéro Jazz avec Christine Tassan et invités",
+      "start": "2026-10-29T18:30:00-04:00",
+      "end": "2026-10-29T23:59:00-04:00",
+      "venue": "La Brassée",
+      "address": "2522 Beaubien E",
+      "url": "https://sortiesjazznights.com/events/apero-jazz-avec-christine-tassan-et-marie-cauchon/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -537,8 +570,8 @@
       "venue": "Centre Sanaaq",
       "address": "1200 rue du Sussex",
       "url": "https://sortiesjazznights.com/events/rencontre-avec-michel-cusson/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "211946d9e8038b4472e4ad4f@montreal-jazz-calendar": {
       "source_id": "event_66572_10",
@@ -548,8 +581,8 @@
       "venue": "Nevski",
       "address": "75 rue Queen 514-397-0743",
       "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-10.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9e9b00c133c81ff8ea4b68df@montreal-jazz-calendar": {
       "source_id": "event_69955_0",
@@ -559,8 +592,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/benoit-charest-4tet-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1a8a23b37cf9a224a37b5716@montreal-jazz-calendar": {
       "source_id": "event_68967_0",
@@ -570,8 +603,8 @@
       "venue": "Maison de la culture Ahuntsic",
       "address": "10300 Lajeunesse 514-872-8749",
       "url": "https://sortiesjazznights.com/events/segui-so-donald-dogbo-jeudis-jazz/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "48d6f2d80d4d4565110d1002@montreal-jazz-calendar": {
       "source_id": "event_69363_0",
@@ -581,8 +614,8 @@
       "venue": "Maison de la culture Verdun - Quai 5160",
       "address": "5160 Boul. Lasalle / 514-872-4995",
       "url": "https://sortiesjazznights.com/events/quiet-quintet-legendes-du-hard-bop-avec-nicolas-boulay-5/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "52a9e711640aff683f2e47d7@montreal-jazz-calendar": {
       "source_id": "event_69203_0",
@@ -592,8 +625,8 @@
       "venue": "Place des Arts - Cinquième Salle",
       "address": "175 Ste-Catherine O / 514-842-8112",
       "url": "https://sortiesjazznights.com/events/caity-gyorgy-jazz-4tet-you-irritate-me-so/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
