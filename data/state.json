@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T00:59:08.811040-04:00",
+  "updated": "2026-10-24T07:33:19.478213-04:00",
   "events": {
     "6f19d2c3c08ae83a5d8d8ad7@montreal-jazz-calendar": {
       "source_id": "event_69663_0",
@@ -460,8 +460,8 @@
       "venue": "Bar Le West",
       "address": "1562 Mont-Royal E/438-386-1110",
       "url": "https://sortiesjazznights.com/events/christian-cardinal-trio-34/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "7c71808773147cba306b0ef4@montreal-jazz-calendar": {
       "source_id": "event_70001_0",
@@ -471,8 +471,8 @@
       "venue": "Délires et Délices",
       "address": "1626 Bourgogne / Chambly / 450-593-3233",
       "url": "https://sortiesjazznights.com/events/broue-jazz-avec-eric-proulx-jocelyn-menard-sean-burke-et-kuluse-souriant/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "34a85e62352e204d22108b95@montreal-jazz-calendar": {
       "source_id": "event_70144_0",
@@ -482,8 +482,8 @@
       "venue": "MaBrasserie",
       "address": "2300 Rue Holt 514-508-3309",
       "url": "https://sortiesjazznights.com/events/reno-de-stefano-8/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "3c4dae0560e7375df19d8e43@montreal-jazz-calendar": {
       "source_id": "event_69354_0",
@@ -493,8 +493,8 @@
       "venue": "Upstairs Jazz Bar et Grill",
       "address": "1254 Mackay 514-931-6808",
       "url": "https://sortiesjazznights.com/events/brownman-electryc-trio-brownman-ali-sean-dennis-adam-mansfield-1/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a837bb5bcbf87eb4c7094424@montreal-jazz-calendar": {
       "source_id": "event_69956_0",
@@ -504,8 +504,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/jean-michel-pilc-trio-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a5e485accda0efa54c461882@montreal-jazz-calendar": {
       "source_id": "event_68520_0",
@@ -515,8 +515,8 @@
       "venue": "Université McGill - Salle Tanna Schulich",
       "address": "527 Sherbrooke O / 514-398-4547",
       "url": "https://sortiesjazznights.com/events/ensemble-de-musique-de-chambre-jazz-de-mcgill-i-john-hollenbeck-dir/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b274ffae59ebe3342932a535@montreal-jazz-calendar": {
       "source_id": "event_70066_0",
@@ -526,8 +526,8 @@
       "venue": "Café Dax",
       "address": "1461 Ave. Van Horne 514-941-9982",
       "url": "https://sortiesjazznights.com/events/jazz-blues-trio-avec-kytnar-rizk-et-milea/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "5fc1f48423c9003b84caff9a@montreal-jazz-calendar": {
       "source_id": "event_69389_0",
@@ -537,8 +537,8 @@
       "venue": "Centre culturel Stewart Hall (Pointe-Claire)",
       "address": "176 Chemin du Bord-du-Lac 514-630-1220",
       "url": "https://sortiesjazznights.com/events/kayla-summers/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4830fbced01c3fc6b53e4125@montreal-jazz-calendar": {
       "source_id": "event_69204_0",
@@ -548,8 +548,8 @@
       "venue": "Place des Arts - Cinquième Salle",
       "address": "175 Ste-Catherine O / 514-842-8112",
       "url": "https://sortiesjazznights.com/events/caity-gyorgy-jazz-4tet-you-irritate-me-so-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "66782f7e1a6cfdcae047de63@montreal-jazz-calendar": {
       "source_id": "event_69581_0",
@@ -559,8 +559,8 @@
       "venue": "Café Roxane",
       "address": "248 Rue Villeneuve O",
       "url": "https://sortiesjazznights.com/events/renee-charron-jazz-project-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "32c5e376948113144d0a3cdf@montreal-jazz-calendar": {
       "source_id": "event_69450_0",
@@ -570,8 +570,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/mike-herriott-big-band-tales-of-tricksters-vagabonds/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
