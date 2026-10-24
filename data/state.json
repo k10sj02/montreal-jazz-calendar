@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T12:13:21.007303-04:00",
+  "updated": "2026-10-24T17:08:59.353680-04:00",
   "events": {
     "6f19d2c3c08ae83a5d8d8ad7@montreal-jazz-calendar": {
       "source_id": "event_69663_0",
@@ -42,6 +42,17 @@
       "venue": "Collège Ahuntsic",
       "address": "9155 St-Hubert 514-389-5921",
       "url": "https://sortiesjazznights.com/events/le-tour-des-iles-jean-francois-fabiano-et-transit-jocelyn-menard/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "279fd3ae2ffc868691a58e52@montreal-jazz-calendar": {
+      "source_id": "event_67625_0",
+      "title": "Rafael Salazar Levi Dover Tommy Crane",
+      "start": "2026-10-24T20:00:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/rafael-salazar-trio/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -449,6 +460,17 @@
       "venue": "Place des Arts - Cinquième Salle",
       "address": "175 Ste-Catherine O / 514-842-8112",
       "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-miles-smiles-wayne-shines/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "1bbf580550d992ae5825d756@montreal-jazz-calendar": {
+      "source_id": "event_70197_0",
+      "title": "Rafael Salazar Devon Gillingham Tommy Crane - Hommage Monk / spécial Halloween + jam",
+      "start": "2026-10-31T20:00:00-04:00",
+      "end": "2026-10-31T23:59:00-04:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-special-halloween-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
     }
