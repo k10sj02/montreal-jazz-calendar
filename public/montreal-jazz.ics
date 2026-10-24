@@ -7,166 +7,10 @@ X-WR-CALNAME:Greater Montréal Jazz
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-SUMMARY:Christian Cardinal Trio
-DTSTART;TZID="UTC-04:00":20261023T170000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:7dfa50ea8e30a293e95392f2@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/christian-cardinal-trio-34/
-LOCATION:Bar Le West\, 1562 Mont-Royal E/438-386-1110
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/christian-cardinal-trio-34/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Broue & Jazz avec Éric Proulx Jocelyn Ménard Sean Burke et Kulus
- é Souriant
-DTSTART;TZID="UTC-04:00":20261023T180000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:7c71808773147cba306b0ef4@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/broue-jazz-avec-eric-proulx-jocelyn-menard-sean-burke-et-kuluse-souriant
- /
-LOCATION:Délires et Délices\, 1626 Bourgogne / Chambly / 450-593-3233
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/broue-jazz-avec-eric-proulx-jocel
- yn-menard-sean-burke-et-kuluse-souriant/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Reno De Stefano
-DTSTART;TZID="UTC-04:00":20261023T183000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:34a85e62352e204d22108b95@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/reno-de-stefano-8/
-LOCATION:MaBrasserie\, 2300 Rue Holt 514-508-3309
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/reno-de-stefano-8/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Brownman Electryc Trio - Brownman Ali Sean Dennis Adam Mansfield +
-  1 : Thriller de Michael Jackson
-DTSTART;TZID="UTC-04:00":20261023T190000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:3c4dae0560e7375df19d8e43@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/brownman-electryc-trio-brownman-ali-sean-dennis-adam-mansfield-1/
-LOCATION:Upstairs Jazz Bar et Grill\, 1254 Mackay 514-931-6808
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/brownman-electryc-trio-brownman-a
- li-sean-dennis-adam-mansfield-1/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jean-Michel Pilc Trio +21h
-DTSTART;TZID="UTC-04:00":20261023T190000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:a837bb5bcbf87eb4c7094424@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/jean-michel-pilc-trio-21h/
-LOCATION:Dièse Onze Jazz Resto\, 4115A St-Denis 514-223-3543
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/jean-michel-pilc-trio-21h/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ensemble de musique de chambre jazz de McGill I - John Hollenbeck 
- (dir)
-DTSTART;TZID="UTC-04:00":20261023T193000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:a5e485accda0efa54c461882@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/ensemble-de-musique-de-chambre-jazz-de-mcgill-i-john-hollenbeck-dir/
-LOCATION:Université McGill - Salle Tanna Schulich\, 527 Sherbrooke O / 51
- 4-398-4547
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/ensemble-de-musique-de-chambre-ja
- zz-de-mcgill-i-john-hollenbeck-dir/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Jazz Blues Trio avec Kytnar\, Rizk et Milea
-DTSTART;TZID="UTC-04:00":20261023T193000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:b274ffae59ebe3342932a535@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/jazz-blues-trio-avec-kytnar-rizk-et-milea/
-LOCATION:Café Dax\, 1461 Ave. Van Horne 514-941-9982
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/jazz-blues-trio-avec-kytnar-rizk-
- et-milea/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kayla Summer
-DTSTART;TZID="UTC-04:00":20261023T193000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:5fc1f48423c9003b84caff9a@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/kayla-summers/
-LOCATION:Centre culturel Stewart Hall (Pointe-Claire)\, 176 Chemin du Bord
- -du-Lac 514-630-1220
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/kayla-summers/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caity Gyorgy Jazz 4tet - You Irritate Me So
-DTSTART;TZID="UTC-04:00":20261023T200000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:4830fbced01c3fc6b53e4125@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/caity-gyorgy-jazz-4tet-you-irritate-me-so-2/
-LOCATION:Place des Arts - Cinquième Salle\, 175 Ste-Catherine O / 514-842
- -8112
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/caity-gyorgy-jazz-4tet-you-irrita
- te-me-so-2/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Renée Charron Jazz Project
-DTSTART;TZID="UTC-04:00":20261023T200000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:66782f7e1a6cfdcae047de63@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/renee-charron-jazz-project-3/
-LOCATION:Café Roxane\, 248 Rue Villeneuve O
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/renee-charron-jazz-project-3/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mike Herriott Big Band - Tales Of Tricksters & Vagabonds
-DTSTART;TZID="UTC-04:00":20261023T203000
-DTEND;TZID="UTC-04:00":20261023T235900
-DTSTAMP:20261024T113319Z
-UID:32c5e376948113144d0a3cdf@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/mike-herriott-big-band-tales-of-tricksters-vagabonds/
-LOCATION:Le Cabaret Jazz L'Entracte\, 1112 Ste-Catherine O
-STATUS:CANCELLED
-URL:https://sortiesjazznights.com/events/mike-herriott-big-band-tales-of-t
- ricksters-vagabonds/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Classe de maître et causerie : John Hollenbeck
 DTSTART;TZID="UTC-04:00":20261024T103000
 DTEND;TZID="UTC-04:00":20261024T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:6f19d2c3c08ae83a5d8d8ad7@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -182,7 +26,7 @@ SUMMARY:Hommage à Michel Legrand - Sonia Johnson et Lorraine Desmarais Tr
  io
 DTSTART;TZID="UTC-04:00":20261024T190000
 DTEND;TZID="UTC-04:00":20261024T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:dcf005f2fd253491b89e8e70@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -196,7 +40,7 @@ BEGIN:VEVENT
 SUMMARY:Marianne Trudel Trio +21h
 DTSTART;TZID="UTC-04:00":20261024T190000
 DTEND;TZID="UTC-04:00":20261024T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:50c67029adbb094a4115c8f7@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -210,7 +54,7 @@ SUMMARY:Le Tour des Îles : Jean-François Fabiano et Transit + Jocelyn M
  énard
 DTSTART;TZID="UTC-04:00":20261024T193000
 DTEND;TZID="UTC-04:00":20261024T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:33fc0e28b6c3df9a15da9aa5@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -224,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:Le Jager - concert de lancement de « 9 »
 DTSTART;TZID="UTC-04:00":20261024T203000
 DTEND;TZID="UTC-04:00":20261024T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:afabecec79446f26ccf55ead@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -238,7 +82,7 @@ BEGIN:VEVENT
 SUMMARY:Mike Herriott Big Band - Tales Of Tricksters & Vagabonds
 DTSTART;TZID="UTC-04:00":20261024T203000
 DTEND;TZID="UTC-04:00":20261024T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:f7835cbc70d58466f92b07eb@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -252,7 +96,7 @@ BEGIN:VEVENT
 SUMMARY:Classe de maître : LéNo - Arnaud Dolmen Leonardo Montana
 DTSTART;TZID="UTC-04:00":20261025T140000
 DTEND;TZID="UTC-04:00":20261025T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:4b0cda553457343859dc3aae@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -266,7 +110,7 @@ BEGIN:VEVENT
 SUMMARY:Robert Ménard Yvon Plouffe Lauréat Cormier
 DTSTART;TZID="UTC-04:00":20261025T170000
 DTEND;TZID="UTC-04:00":20261025T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:5efd105bd230b0605dc4c64c@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -280,7 +124,7 @@ BEGIN:VEVENT
 SUMMARY:Félix Stüssi invite Rachel Therrien
 DTSTART;TZID="UTC-04:00":20261025T183000
 DTEND;TZID="UTC-04:00":20261025T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:db5091deedafcd628b302143@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -294,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY:Benoit Charest Trio +21h
 DTSTART;TZID="UTC-04:00":20261025T190000
 DTEND;TZID="UTC-04:00":20261025T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:02a11618c3b992df57786e38@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -308,7 +152,7 @@ SUMMARY:Caribbean Jazz Group - Jocelyn Ménard LéNo (Léonardo Montana Ar
  naud Dolmen) Ira Coleman
 DTSTART;TZID="UTC-04:00":20261025T203000
 DTEND;TZID="UTC-04:00":20261025T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:f7c7e61ffc4ff17748adaf7c@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -323,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Bellegarde Jazz Latin 4tet +21h30
 DTSTART;TZID="UTC-04:00":20261026T190000
 DTEND;TZID="UTC-04:00":20261026T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:6f7a6fe31917376783a87718@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -337,7 +181,7 @@ BEGIN:VEVENT
 SUMMARY:Orchestre de jazz de McGill I - Marianne Trudel (dir)
 DTSTART;TZID="UTC-04:00":20261026T193000
 DTEND;TZID="UTC-04:00":20261026T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:9124083f032acdfa19c7079a@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -352,7 +196,7 @@ BEGIN:VEVENT
 SUMMARY:Charlotte Van Duke 4tet + jam
 DTSTART;TZID="UTC-04:00":20261026T203000
 DTEND;TZID="UTC-04:00":20261026T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:800afdf303157df100754703@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -366,7 +210,7 @@ SUMMARY:Jam session du St-Graal avec Maxime Racicot\, Jonathan Arseneau\,
  invités\, et +
 DTSTART;TZID="UTC-04:00":20261026T210000
 DTEND;TZID="UTC-04:00":20261026T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:4049b2f9c55d8c25ab84e76d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -382,7 +226,7 @@ BEGIN:VEVENT
 SUMMARY:Conférence musicale : aux racines de la samba avec Fabio Nin
 DTSTART;TZID="UTC-04:00":20261027T180000
 DTEND;TZID="UTC-04:00":20261027T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:f0514795550e1dc74c2da9e3@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -396,7 +240,7 @@ BEGIN:VEVENT
 SUMMARY:Mardis Big Band - Taylor Donaldson Big Band
 DTSTART;TZID="UTC-04:00":20261027T190000
 DTEND;TZID="UTC-04:00":20261027T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:f5d87380f4ce421768490464@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -411,7 +255,7 @@ SUMMARY:Dawn Tyler Watson Djely Tapa Cécile Doo-Kingué Rachel Therrien R
  achel Dara - Gala d'ouverture du Festival Stella Musica
 DTSTART;TZID="UTC-04:00":20261027T193000
 DTEND;TZID="UTC-04:00":20261027T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:f1aac9c7e072dbcda9feadc2@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -428,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY:La Touche Manouche - jam manouche mensuel
 DTSTART;TZID="UTC-04:00":20261027T193000
 DTEND;TZID="UTC-04:00":20261027T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:e9bbc1af4ece3ffba05242b6@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -442,7 +286,7 @@ BEGIN:VEVENT
 SUMMARY:Dorothée Berryman
 DTSTART;TZID="UTC-04:00":20261027T200000
 DTEND;TZID="UTC-04:00":20261027T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:b7587065efe61d9dee02a4d9@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -456,7 +300,7 @@ SUMMARY:Jazz jam Rive-Sud avec le Mood Jazz Trio - Adel Jouini André Asse
  lin Pierre Goguen
 DTSTART;TZID="UTC-04:00":20261027T203000
 DTEND;TZID="UTC-04:00":20261027T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:fbfb5630921fd06e8725b465@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -472,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Bellegarde Trio avec invités + jam session
 DTSTART;TZID="UTC-04:00":20261027T213000
 DTEND;TZID="UTC-04:00":20261027T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:6c76703f106d26ec5038b285@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -486,7 +330,7 @@ BEGIN:VEVENT
 SUMMARY:A&P Jazz - André Asselin et Paul Serralheiro
 DTSTART;TZID="UTC-04:00":20261028T170000
 DTEND;TZID="UTC-04:00":20261028T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:2312fb5587eae0870284b435@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -500,7 +344,7 @@ BEGIN:VEVENT
 SUMMARY:Mat Jon 4tet
 DTSTART;TZID="UTC-04:00":20261028T173000
 DTEND;TZID="UTC-04:00":20261028T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:354854df9f0563864f3dc32c@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -514,7 +358,7 @@ BEGIN:VEVENT
 SUMMARY:John Klepko Trio
 DTSTART;TZID="UTC-04:00":20261028T183000
 DTEND;TZID="UTC-04:00":20261028T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:67a09c9f63d83d8dbacfbfce@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -529,7 +373,7 @@ SUMMARY:Après la pluie - Daniel Mille Yves Léveillé Frank Lozano Guy Bo
  isvert Pierre Tanguay
 DTSTART;TZID="UTC-04:00":20261028T200000
 DTEND;TZID="UTC-04:00":20261028T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:5cd2012ed40b72d2beae4ff2@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -544,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY:Ariane Racicot Trio - Danser avec le feu
 DTSTART;TZID="UTC-04:00":20261028T200000
 DTEND;TZID="UTC-04:00":20261028T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:d6b2640a075481077b04ae14@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -559,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Jean-Sébastien Williams + invités
 DTSTART;TZID="UTC-04:00":20261028T200000
 DTEND;TZID="UTC-04:00":20261028T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:40b6e422112121f762e660cd@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -573,7 +417,7 @@ SUMMARY:Après la pluie - Daniel Mille Yves Léveillé Frank Lozano Guy Bo
  isvert Pierre Tanguay
 DTSTART;TZID="UTC-04:00":20261029T173000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:87c50ad3acf868f353bd1a5e@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -589,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Apéro Jazz avec Christine Tassan et invités
 DTSTART;TZID="UTC-04:00":20261029T183000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:b5059d1404b82f02fcfb219d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -604,7 +448,7 @@ SUMMARY:Benny Goodman : du jazz au classique avec Pierre Génisson et Brun
  o Fontaine
 DTSTART;TZID="UTC-04:00":20261029T193000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:bcfab80eee20d80c47ca0021@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -620,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Danser avec le feu - Ariane Racicot - Jeudis Jazz
 DTSTART;TZID="UTC-04:00":20261029T193000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:1bcdc5a2218298bcc78b7115@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -635,7 +479,7 @@ SUMMARY:Jef Neve et Teus Nobel / Félix Stüssi Trio Nuovo - plateau doubl
  e Jazz@Vue
 DTSTART;TZID="UTC-04:00":20261029T200000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:a883accd375589e0501c3d9f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -649,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:David Occhipinti/Terry Clarke 5tet +21h30
 DTSTART;TZID="UTC-04:00":20261030T190000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:62cded23a46aae543c1c560c@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -663,7 +507,7 @@ SUMMARY:Emie R Roussel / Yves Léveillé et Daniel Mille (Après la pluie)
   - plateau double Jazz@Vue
 DTSTART;TZID="UTC-04:00":20261030T200000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:85fd63d3a625c1fa410d13b6@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -677,7 +521,7 @@ BEGIN:VEVENT
 SUMMARY:NNORDY - concert de lancement
 DTSTART;TZID="UTC-04:00":20261030T200000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:a8f4176c3601f83339cf891d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -690,7 +534,7 @@ BEGIN:VEVENT
 SUMMARY:Ashley Maher - Dakar Réunion + jam
 DTSTART;TZID="UTC-04:00":20261030T203000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:711dba6523cacde48fbff24d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -703,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:David Occhipinti/Terry Clarke 5tet +21h30
 DTSTART;TZID="UTC-04:00":20261031T190000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:090ee4ca6f732467719be7a3@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -717,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:Carl Mayotte Mark Kelso et Francis Grégoire +21h45
 DTSTART;TZID="UTC-04:00":20261031T193000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:ee161da49220ecfdf2a3e53b@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -732,7 +576,7 @@ SUMMARY:Gentiane MG Trio / LéNo : Arnaud Dolmen Leonardo Montana - platea
  u double Jazz@Vue
 DTSTART;TZID="UTC-04:00":20261031T200000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:476cc9fb13c3ecff8d3f2620@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -747,7 +591,7 @@ SUMMARY:L'Orchestre national de jazz de Montréal - Miles Smiles - Wayne S
  hines
 DTSTART;TZID="UTC-04:00":20261031T200000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261024T113319Z
+DTSTAMP:20261024T161321Z
 UID:a640e2d12130289a9446411f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
