@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T12:47:14.467447-04:00",
+  "updated": "2026-10-25T17:11:59.362486-04:00",
   "events": {
     "4b0cda553457343859dc3aae@montreal-jazz-calendar": {
       "source_id": "event_68417_0",
@@ -394,8 +394,8 @@
       "venue": "Bar Le West",
       "address": "1562 Mont-Royal E/438-386-1110",
       "url": "https://sortiesjazznights.com/events/ap-jazz-andre-asselin-et-paul-serralheiro-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
