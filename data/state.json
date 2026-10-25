@@ -1,83 +1,6 @@
 {
-  "updated": "2026-10-24T17:08:59.353680-04:00",
+  "updated": "2026-10-25T01:14:02.908332-04:00",
   "events": {
-    "6f19d2c3c08ae83a5d8d8ad7@montreal-jazz-calendar": {
-      "source_id": "event_69663_0",
-      "title": "Classe de maître et causerie : John Hollenbeck",
-      "start": "2026-10-24T10:30:00-04:00",
-      "end": "2026-10-24T23:59:00-04:00",
-      "venue": "École de musique Vincent d'Indy",
-      "address": "628 Chemin de la Côte-Sainte-Catherine 514-735-5261",
-      "url": "https://sortiesjazznights.com/events/classe-de-maitre-et-causerie-john-hollenbeck/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "dcf005f2fd253491b89e8e70@montreal-jazz-calendar": {
-      "source_id": "event_69088_0",
-      "title": "Hommage à Michel Legrand - Sonia Johnson et Lorraine Desmarais Trio",
-      "start": "2026-10-24T19:00:00-04:00",
-      "end": "2026-10-24T23:59:00-04:00",
-      "venue": "Upstairs Jazz Bar et Grill",
-      "address": "1254 Mackay 514-931-6808",
-      "url": "https://sortiesjazznights.com/events/hommage-a-michel-legrand-sonia-johnson-et-lorraine-desmarais-trio-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "50c67029adbb094a4115c8f7@montreal-jazz-calendar": {
-      "source_id": "event_69957_0",
-      "title": "Marianne Trudel Trio +21h",
-      "start": "2026-10-24T19:00:00-04:00",
-      "end": "2026-10-24T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/marianne-trudel-trio-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "33fc0e28b6c3df9a15da9aa5@montreal-jazz-calendar": {
-      "source_id": "event_70002_0",
-      "title": "Le Tour des Îles : Jean-François Fabiano et Transit + Jocelyn Ménard",
-      "start": "2026-10-24T19:30:00-04:00",
-      "end": "2026-10-24T23:59:00-04:00",
-      "venue": "Collège Ahuntsic",
-      "address": "9155 St-Hubert 514-389-5921",
-      "url": "https://sortiesjazznights.com/events/le-tour-des-iles-jean-francois-fabiano-et-transit-jocelyn-menard/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "279fd3ae2ffc868691a58e52@montreal-jazz-calendar": {
-      "source_id": "event_67625_0",
-      "title": "Rafael Salazar Levi Dover Tommy Crane",
-      "start": "2026-10-24T20:00:00-04:00",
-      "end": "2026-10-24T23:59:00-04:00",
-      "venue": "Magpie Magique",
-      "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/rafael-salazar-trio/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "afabecec79446f26ccf55ead@montreal-jazz-calendar": {
-      "source_id": "event_69972_0",
-      "title": "Le Jager - concert de lancement de « 9 »",
-      "start": "2026-10-24T20:30:00-04:00",
-      "end": "2026-10-24T23:59:00-04:00",
-      "venue": "Verre Bouteille",
-      "address": "2112 Mont-Royal E / 514-521-9409",
-      "url": "https://sortiesjazznights.com/events/le-jager-concert-de-lancement-de-9/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f7835cbc70d58466f92b07eb@montreal-jazz-calendar": {
-      "source_id": "event_69451_0",
-      "title": "Mike Herriott Big Band - Tales Of Tricksters & Vagabonds",
-      "start": "2026-10-24T20:30:00-04:00",
-      "end": "2026-10-24T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/mike-herriott-big-band-tales-of-tricksters-vagabonds-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "4b0cda553457343859dc3aae@montreal-jazz-calendar": {
       "source_id": "event_68417_0",
       "title": "Classe de maître : LéNo - Arnaud Dolmen Leonardo Montana",
@@ -473,6 +396,83 @@
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-special-halloween-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "6f19d2c3c08ae83a5d8d8ad7@montreal-jazz-calendar": {
+      "source_id": "event_69663_0",
+      "title": "Classe de maître et causerie : John Hollenbeck",
+      "start": "2026-10-24T10:30:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "École de musique Vincent d'Indy",
+      "address": "628 Chemin de la Côte-Sainte-Catherine 514-735-5261",
+      "url": "https://sortiesjazznights.com/events/classe-de-maitre-et-causerie-john-hollenbeck/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "dcf005f2fd253491b89e8e70@montreal-jazz-calendar": {
+      "source_id": "event_69088_0",
+      "title": "Hommage à Michel Legrand - Sonia Johnson et Lorraine Desmarais Trio",
+      "start": "2026-10-24T19:00:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Upstairs Jazz Bar et Grill",
+      "address": "1254 Mackay 514-931-6808",
+      "url": "https://sortiesjazznights.com/events/hommage-a-michel-legrand-sonia-johnson-et-lorraine-desmarais-trio-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "50c67029adbb094a4115c8f7@montreal-jazz-calendar": {
+      "source_id": "event_69957_0",
+      "title": "Marianne Trudel Trio +21h",
+      "start": "2026-10-24T19:00:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/marianne-trudel-trio-21h/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "33fc0e28b6c3df9a15da9aa5@montreal-jazz-calendar": {
+      "source_id": "event_70002_0",
+      "title": "Le Tour des Îles : Jean-François Fabiano et Transit + Jocelyn Ménard",
+      "start": "2026-10-24T19:30:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Collège Ahuntsic",
+      "address": "9155 St-Hubert 514-389-5921",
+      "url": "https://sortiesjazznights.com/events/le-tour-des-iles-jean-francois-fabiano-et-transit-jocelyn-menard/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "279fd3ae2ffc868691a58e52@montreal-jazz-calendar": {
+      "source_id": "event_67625_0",
+      "title": "Rafael Salazar Levi Dover Tommy Crane",
+      "start": "2026-10-24T20:00:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/rafael-salazar-trio/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "afabecec79446f26ccf55ead@montreal-jazz-calendar": {
+      "source_id": "event_69972_0",
+      "title": "Le Jager - concert de lancement de « 9 »",
+      "start": "2026-10-24T20:30:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Verre Bouteille",
+      "address": "2112 Mont-Royal E / 514-521-9409",
+      "url": "https://sortiesjazznights.com/events/le-jager-concert-de-lancement-de-9/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "f7835cbc70d58466f92b07eb@montreal-jazz-calendar": {
+      "source_id": "event_69451_0",
+      "title": "Mike Herriott Big Band - Tales Of Tricksters & Vagabonds",
+      "start": "2026-10-24T20:30:00-04:00",
+      "end": "2026-10-24T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/mike-herriott-big-band-tales-of-tricksters-vagabonds-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
