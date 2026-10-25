@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T01:14:02.908332-04:00",
+  "updated": "2026-10-25T07:57:21.398254-04:00",
   "events": {
     "4b0cda553457343859dc3aae@montreal-jazz-calendar": {
       "source_id": "event_68417_0",
@@ -405,8 +405,8 @@
       "venue": "École de musique Vincent d'Indy",
       "address": "628 Chemin de la Côte-Sainte-Catherine 514-735-5261",
       "url": "https://sortiesjazznights.com/events/classe-de-maitre-et-causerie-john-hollenbeck/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "dcf005f2fd253491b89e8e70@montreal-jazz-calendar": {
       "source_id": "event_69088_0",
@@ -416,8 +416,8 @@
       "venue": "Upstairs Jazz Bar et Grill",
       "address": "1254 Mackay 514-931-6808",
       "url": "https://sortiesjazznights.com/events/hommage-a-michel-legrand-sonia-johnson-et-lorraine-desmarais-trio-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "50c67029adbb094a4115c8f7@montreal-jazz-calendar": {
       "source_id": "event_69957_0",
@@ -427,8 +427,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/marianne-trudel-trio-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "33fc0e28b6c3df9a15da9aa5@montreal-jazz-calendar": {
       "source_id": "event_70002_0",
@@ -438,8 +438,8 @@
       "venue": "Collège Ahuntsic",
       "address": "9155 St-Hubert 514-389-5921",
       "url": "https://sortiesjazznights.com/events/le-tour-des-iles-jean-francois-fabiano-et-transit-jocelyn-menard/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "279fd3ae2ffc868691a58e52@montreal-jazz-calendar": {
       "source_id": "event_67625_0",
@@ -449,8 +449,8 @@
       "venue": "Magpie Magique",
       "address": "4670 rue Saint-Denis 514-759-6247",
       "url": "https://sortiesjazznights.com/events/rafael-salazar-trio/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "afabecec79446f26ccf55ead@montreal-jazz-calendar": {
       "source_id": "event_69972_0",
@@ -460,8 +460,8 @@
       "venue": "Verre Bouteille",
       "address": "2112 Mont-Royal E / 514-521-9409",
       "url": "https://sortiesjazznights.com/events/le-jager-concert-de-lancement-de-9/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f7835cbc70d58466f92b07eb@montreal-jazz-calendar": {
       "source_id": "event_69451_0",
@@ -471,8 +471,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/mike-herriott-big-band-tales-of-tricksters-vagabonds-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
