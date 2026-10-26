@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T01:14:10.686676-04:00",
+  "updated": "2026-10-26T09:29:54.417995-04:00",
   "events": {
     "6f7a6fe31917376783a87718@montreal-jazz-calendar": {
       "source_id": "event_68290_8",
@@ -339,8 +339,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/leno-arnaud-dolmen-leonardo-montana-avec-jocelyn-menard/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "5efd105bd230b0605dc4c64c@montreal-jazz-calendar": {
       "source_id": "event_69950_0",
@@ -350,8 +350,8 @@
       "venue": "Chez Roger",
       "address": "2300 Rue Beaubien E 514-593-4200",
       "url": "https://sortiesjazznights.com/events/robert-menard-yvon-plouffe-laureat-cormier-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "db5091deedafcd628b302143@montreal-jazz-calendar": {
       "source_id": "event_69365_0",
@@ -361,8 +361,8 @@
       "venue": "Les Soeurs Grises",
       "address": "3188 Rue Masson 514-508-1615",
       "url": "https://sortiesjazznights.com/events/felix-stussi-invite-rachel-therrien-4/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "02a11618c3b992df57786e38@montreal-jazz-calendar": {
       "source_id": "event_69958_0",
@@ -372,8 +372,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/benoit-charest-trio-21h-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f7c7e61ffc4ff17748adaf7c@montreal-jazz-calendar": {
       "source_id": "event_69953_0",
@@ -383,8 +383,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/caribbean-jazz-group-jocelyn-menard-leno-leonardo-montana-arnaud-dolmen-ira-coleman/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
