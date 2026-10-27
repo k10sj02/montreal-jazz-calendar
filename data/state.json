@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T08:38:10.823965-04:00",
+  "updated": "2026-10-27T18:34:50.205067-04:00",
   "events": {
     "f0514795550e1dc74c2da9e3@montreal-jazz-calendar": {
       "source_id": "event_70176_0",
@@ -286,50 +286,6 @@
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-special-halloween-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
-    },
-    "6f7a6fe31917376783a87718@montreal-jazz-calendar": {
-      "source_id": "event_68290_8",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-10-26T19:00:00-04:00",
-      "end": "2026-10-26T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-8.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "9124083f032acdfa19c7079a@montreal-jazz-calendar": {
-      "source_id": "event_68521_0",
-      "title": "Orchestre de jazz de McGill I - Marianne Trudel (dir)",
-      "start": "2026-10-26T19:30:00-04:00",
-      "end": "2026-10-26T23:59:00-04:00",
-      "venue": "Université McGill - Salle Tanna Schulich",
-      "address": "527 Sherbrooke O / 514-398-4547",
-      "url": "https://sortiesjazznights.com/events/orchestre-de-jazz-de-mcgill-i-marianne-trudel-dir/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "800afdf303157df100754703@montreal-jazz-calendar": {
-      "source_id": "event_69954_0",
-      "title": "Charlotte Van Duke 4tet + jam",
-      "start": "2026-10-26T20:30:00-04:00",
-      "end": "2026-10-26T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/charlotte-van-duke-4tet-jam/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "4049b2f9c55d8c25ab84e76d@montreal-jazz-calendar": {
-      "source_id": "event_60783_15",
-      "title": "Jam session du St-Graal avec Maxime Racicot, Jonathan Arseneau, invités, et +",
-      "start": "2026-10-26T21:00:00-04:00",
-      "end": "2026-10-26T23:59:00-04:00",
-      "venue": "Brasserie Artisanale Le Saint-Graal",
-      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
-      "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-15.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
     }
   }
 }
