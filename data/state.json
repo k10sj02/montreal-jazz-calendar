@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T02:14:14.018599-04:00",
+  "updated": "2026-10-28T09:28:40.236593-04:00",
   "events": {
     "354854df9f0563864f3dc32c@montreal-jazz-calendar": {
       "source_id": "event_67814_10",
@@ -75,6 +75,17 @@
       "venue": "La Brassée",
       "address": "2522 Beaubien E",
       "url": "https://sortiesjazznights.com/events/apero-jazz-avec-christine-tassan-et-marie-cauchon/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "c6a1c2483bc93a3b96e85615@montreal-jazz-calendar": {
+      "source_id": "event_70286_0",
+      "title": "Najib Trio",
+      "start": "2026-10-29T19:00:00-04:00",
+      "end": "2026-10-29T23:59:00-04:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/najib-trio-2/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -218,8 +229,8 @@
       "venue": "Centre des musiciens du monde",
       "address": "5043 St-Dominique / 514-397-9226",
       "url": "https://sortiesjazznights.com/events/conference-musicale-aux-racines-de-la-samba-avec-fabio-nin/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f5d87380f4ce421768490464@montreal-jazz-calendar": {
       "source_id": "event_69128_0",
@@ -229,8 +240,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/mardis-big-band-taylor-donaldson-big-band/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f1aac9c7e072dbcda9feadc2@montreal-jazz-calendar": {
       "source_id": "event_69388_0",
@@ -240,8 +251,8 @@
       "venue": "Place des Arts - Cinquième Salle",
       "address": "175 Ste-Catherine O / 514-842-8112",
       "url": "https://sortiesjazznights.com/events/dawn-tyler-watson-djely-tapa-cecile-doo-kingue-rachel-therrien-rachel-dara-gala-douverture-du-festival-stella-musica/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "e9bbc1af4ece3ffba05242b6@montreal-jazz-calendar": {
       "source_id": "event_70145_0",
@@ -251,8 +262,8 @@
       "venue": "La Brassée",
       "address": "2522 Beaubien E",
       "url": "https://sortiesjazznights.com/events/la-touche-manouche-jam-manouche-mensuel-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b7587065efe61d9dee02a4d9@montreal-jazz-calendar": {
       "source_id": "event_67509_0",
@@ -262,8 +273,8 @@
       "venue": "Espace St-Denis / Studio St-Denis",
       "address": "1594 St-Denis 514-849-4211",
       "url": "https://sortiesjazznights.com/events/dorothee-berryman-et-son-trio/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "fbfb5630921fd06e8725b465@montreal-jazz-calendar": {
       "source_id": "event_67868_0",
@@ -273,8 +284,8 @@
       "venue": "Pub Le Vieux (Boucherville)",
       "address": "650 Boul. du Fort-Saint-Louis Boucherville 450-655-9117",
       "url": "https://sortiesjazznights.com/events/jazz-jam-rive-sud-avec-le-mood-jazz-trio-adel-jouini-andre-asselin-pierre-goguen-5/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6c76703f106d26ec5038b285@montreal-jazz-calendar": {
       "source_id": "event_61330_13",
@@ -284,8 +295,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-13.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
