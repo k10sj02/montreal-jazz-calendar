@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T09:28:40.236593-04:00",
+  "updated": "2026-10-28T18:49:58.713003-04:00",
   "events": {
     "354854df9f0563864f3dc32c@montreal-jazz-calendar": {
       "source_id": "event_67814_10",
@@ -89,6 +89,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "9e0d466b017fc8ae24c7bc7e@montreal-jazz-calendar": {
+      "source_id": "event_70290_0",
+      "title": "Peter Madsen 4tet +21h30",
+      "start": "2026-10-29T19:00:00-04:00",
+      "end": "2026-10-29T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/peter-madsen-4tet-21h30-3/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "bcfab80eee20d80c47ca0021@montreal-jazz-calendar": {
       "source_id": "event_68717_0",
       "title": "Benny Goodman : du jazz au classique avec Pierre Génisson et Bruno Fontaine",
@@ -122,6 +133,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "a0fabd2a0b1ffb40eb88d0d4@montreal-jazz-calendar": {
+      "source_id": "event_70291_0",
+      "title": "Julian Gutierrez's Project - Goldstream",
+      "start": "2026-10-29T20:30:00-04:00",
+      "end": "2026-10-29T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/julian-gutierrezs-project-goldstream/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "62cded23a46aae543c1c560c@montreal-jazz-calendar": {
       "source_id": "event_69133_0",
       "title": "David Occhipinti/Terry Clarke 5tet +21h30",
@@ -152,6 +174,17 @@
       "venue": "Théâtre Plaza",
       "address": "6505, rue St-Hubert 514-278-6419",
       "url": "https://sortiesjazznights.com/events/nnordy-concert-de-lancement/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4f8fd80fb94548a00b5adb26@montreal-jazz-calendar": {
+      "source_id": "event_70287_0",
+      "title": "Najib 4tet",
+      "start": "2026-10-30T20:00:00-04:00",
+      "end": "2026-10-30T23:59:00-04:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/najib-4tet/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -210,6 +243,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ea4fffa612f307fecb97e04c@montreal-jazz-calendar": {
+      "source_id": "event_70294_0",
+      "title": "Mr. Pinstripes - Halloween Blues Special",
+      "start": "2026-10-31T20:00:00-04:00",
+      "end": "2026-10-31T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/mr-pinstripes-halloween-blues-special/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "1bbf580550d992ae5825d756@montreal-jazz-calendar": {
       "source_id": "event_70197_0",
       "title": "Rafael Salazar Devon Gillingham Tommy Crane - Hommage Monk / spécial Halloween + jam",
@@ -220,83 +264,6 @@
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-special-halloween-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
-    },
-    "f0514795550e1dc74c2da9e3@montreal-jazz-calendar": {
-      "source_id": "event_70176_0",
-      "title": "Conférence musicale : aux racines de la samba avec Fabio Nin",
-      "start": "2026-10-27T18:00:00-04:00",
-      "end": "2026-10-27T23:59:00-04:00",
-      "venue": "Centre des musiciens du monde",
-      "address": "5043 St-Dominique / 514-397-9226",
-      "url": "https://sortiesjazznights.com/events/conference-musicale-aux-racines-de-la-samba-avec-fabio-nin/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "f5d87380f4ce421768490464@montreal-jazz-calendar": {
-      "source_id": "event_69128_0",
-      "title": "Mardis Big Band - Taylor Donaldson Big Band",
-      "start": "2026-10-27T19:00:00-04:00",
-      "end": "2026-10-27T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/mardis-big-band-taylor-donaldson-big-band/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "f1aac9c7e072dbcda9feadc2@montreal-jazz-calendar": {
-      "source_id": "event_69388_0",
-      "title": "Dawn Tyler Watson Djely Tapa Cécile Doo-Kingué Rachel Therrien Rachel Dara - Gala d'ouverture du Festival Stella Musica",
-      "start": "2026-10-27T19:30:00-04:00",
-      "end": "2026-10-27T23:59:00-04:00",
-      "venue": "Place des Arts - Cinquième Salle",
-      "address": "175 Ste-Catherine O / 514-842-8112",
-      "url": "https://sortiesjazznights.com/events/dawn-tyler-watson-djely-tapa-cecile-doo-kingue-rachel-therrien-rachel-dara-gala-douverture-du-festival-stella-musica/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "e9bbc1af4ece3ffba05242b6@montreal-jazz-calendar": {
-      "source_id": "event_70145_0",
-      "title": "La Touche Manouche - jam manouche mensuel",
-      "start": "2026-10-27T19:30:00-04:00",
-      "end": "2026-10-27T23:59:00-04:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/la-touche-manouche-jam-manouche-mensuel-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "b7587065efe61d9dee02a4d9@montreal-jazz-calendar": {
-      "source_id": "event_67509_0",
-      "title": "Dorothée Berryman",
-      "start": "2026-10-27T20:00:00-04:00",
-      "end": "2026-10-27T23:59:00-04:00",
-      "venue": "Espace St-Denis / Studio St-Denis",
-      "address": "1594 St-Denis 514-849-4211",
-      "url": "https://sortiesjazznights.com/events/dorothee-berryman-et-son-trio/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "fbfb5630921fd06e8725b465@montreal-jazz-calendar": {
-      "source_id": "event_67868_0",
-      "title": "Jazz jam Rive-Sud avec le Mood Jazz Trio - Adel Jouini André Asselin Pierre Goguen",
-      "start": "2026-10-27T20:30:00-04:00",
-      "end": "2026-10-27T23:59:00-04:00",
-      "venue": "Pub Le Vieux (Boucherville)",
-      "address": "650 Boul. du Fort-Saint-Louis Boucherville 450-655-9117",
-      "url": "https://sortiesjazznights.com/events/jazz-jam-rive-sud-avec-le-mood-jazz-trio-adel-jouini-andre-asselin-pierre-goguen-5/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "6c76703f106d26ec5038b285@montreal-jazz-calendar": {
-      "source_id": "event_61330_13",
-      "title": "Alex Bellegarde Trio avec invités + jam session",
-      "start": "2026-10-27T21:30:00-04:00",
-      "end": "2026-10-27T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-13.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
     }
   }
 }
