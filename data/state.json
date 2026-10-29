@@ -1,61 +1,6 @@
 {
-  "updated": "2026-10-28T18:49:58.713003-04:00",
+  "updated": "2026-10-29T02:24:24.164868-04:00",
   "events": {
-    "354854df9f0563864f3dc32c@montreal-jazz-calendar": {
-      "source_id": "event_67814_10",
-      "title": "Mat Jon 4tet",
-      "start": "2026-10-28T17:30:00-04:00",
-      "end": "2026-10-28T23:59:00-04:00",
-      "venue": "Marcus Restaurant - Hotel Four Seasons",
-      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
-      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-10.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "67a09c9f63d83d8dbacfbfce@montreal-jazz-calendar": {
-      "source_id": "event_55012_19",
-      "title": "John Klepko Trio",
-      "start": "2026-10-28T18:30:00-04:00",
-      "end": "2026-10-28T23:59:00-04:00",
-      "venue": "Café Passion",
-      "address": "476 Victoria / Saint-Lambert 450-671-1405",
-      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-19.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "5cd2012ed40b72d2beae4ff2@montreal-jazz-calendar": {
-      "source_id": "event_69557_0",
-      "title": "Après la pluie - Daniel Mille Yves Léveillé Frank Lozano Guy Boisvert Pierre Tanguay",
-      "start": "2026-10-28T20:00:00-04:00",
-      "end": "2026-10-28T23:59:00-04:00",
-      "venue": "Salle Pauline-Julien",
-      "address": "15615 boul. Gouin O / 514-626-1616",
-      "url": "https://sortiesjazznights.com/events/apres-la-pluie-daniel-mille-yves-leveille-frank-lozano-guy-boisvert-pierre-tanguay-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "d6b2640a075481077b04ae14@montreal-jazz-calendar": {
-      "source_id": "event_67009_0",
-      "title": "Ariane Racicot Trio - Danser avec le feu",
-      "start": "2026-10-28T20:00:00-04:00",
-      "end": "2026-10-28T23:59:00-04:00",
-      "venue": "Maison de la culture Rosemont - La Petite Patrie",
-      "address": "6707 Ave. de Lorimier 514-872-1730",
-      "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "40b6e422112121f762e660cd@montreal-jazz-calendar": {
-      "source_id": "event_69229_0",
-      "title": "Jean-Sébastien Williams + invités",
-      "start": "2026-10-28T20:00:00-04:00",
-      "end": "2026-10-28T23:59:00-04:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/jean-sebastien-williams-invites/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "87c50ad3acf868f353bd1a5e@montreal-jazz-calendar": {
       "source_id": "event_69556_0",
       "title": "Après la pluie - Daniel Mille Yves Léveillé Frank Lozano Guy Boisvert Pierre Tanguay",
@@ -119,6 +64,17 @@
       "venue": "Maison de la culture Ahuntsic",
       "address": "10300 Lajeunesse 514-872-8749",
       "url": "https://sortiesjazznights.com/events/danser-avec-le-feu-ariane-racicot-jeudis-jazz/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "4eedcb7f34b24b891601623a@montreal-jazz-calendar": {
+      "source_id": "event_70300_0",
+      "title": "Jazz jam avec Mélodie Vanier et ses ami(e)s",
+      "start": "2026-10-29T20:00:00-04:00",
+      "end": "2026-10-29T23:59:00-04:00",
+      "venue": "Verre Bouteille",
+      "address": "2112 Mont-Royal E / 514-521-9409",
+      "url": "https://sortiesjazznights.com/events/jazz-jam-avec-melodie-vanier-et-ses-amies-27/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -264,6 +220,61 @@
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-special-halloween-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "354854df9f0563864f3dc32c@montreal-jazz-calendar": {
+      "source_id": "event_67814_10",
+      "title": "Mat Jon 4tet",
+      "start": "2026-10-28T17:30:00-04:00",
+      "end": "2026-10-28T23:59:00-04:00",
+      "venue": "Marcus Restaurant - Hotel Four Seasons",
+      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
+      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-10.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "67a09c9f63d83d8dbacfbfce@montreal-jazz-calendar": {
+      "source_id": "event_55012_19",
+      "title": "John Klepko Trio",
+      "start": "2026-10-28T18:30:00-04:00",
+      "end": "2026-10-28T23:59:00-04:00",
+      "venue": "Café Passion",
+      "address": "476 Victoria / Saint-Lambert 450-671-1405",
+      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-19.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "5cd2012ed40b72d2beae4ff2@montreal-jazz-calendar": {
+      "source_id": "event_69557_0",
+      "title": "Après la pluie - Daniel Mille Yves Léveillé Frank Lozano Guy Boisvert Pierre Tanguay",
+      "start": "2026-10-28T20:00:00-04:00",
+      "end": "2026-10-28T23:59:00-04:00",
+      "venue": "Salle Pauline-Julien",
+      "address": "15615 boul. Gouin O / 514-626-1616",
+      "url": "https://sortiesjazznights.com/events/apres-la-pluie-daniel-mille-yves-leveille-frank-lozano-guy-boisvert-pierre-tanguay-3/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "d6b2640a075481077b04ae14@montreal-jazz-calendar": {
+      "source_id": "event_67009_0",
+      "title": "Ariane Racicot Trio - Danser avec le feu",
+      "start": "2026-10-28T20:00:00-04:00",
+      "end": "2026-10-28T23:59:00-04:00",
+      "venue": "Maison de la culture Rosemont - La Petite Patrie",
+      "address": "6707 Ave. de Lorimier 514-872-1730",
+      "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "40b6e422112121f762e660cd@montreal-jazz-calendar": {
+      "source_id": "event_69229_0",
+      "title": "Jean-Sébastien Williams + invités",
+      "start": "2026-10-28T20:00:00-04:00",
+      "end": "2026-10-28T23:59:00-04:00",
+      "venue": "Brasserie Beaubien",
+      "address": "73 Beaubien E 514-495-8141",
+      "url": "https://sortiesjazznights.com/events/jean-sebastien-williams-invites/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
