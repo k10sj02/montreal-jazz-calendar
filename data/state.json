@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T09:28:38.909227-04:00",
+  "updated": "2026-10-30T18:37:32.163363-04:00",
   "events": {
     "c5059b3a225a12b2a85e68c0@montreal-jazz-calendar": {
       "source_id": "event_70369_0",
@@ -132,105 +132,6 @@
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-special-halloween-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
-    },
-    "87c50ad3acf868f353bd1a5e@montreal-jazz-calendar": {
-      "source_id": "event_69556_0",
-      "title": "Après la pluie - Daniel Mille Yves Léveillé Frank Lozano Guy Boisvert Pierre Tanguay",
-      "start": "2026-10-29T17:30:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "aramusique @ Théâtre Alphonse-Desjardins",
-      "address": "25 Allée de la Création Repentigny 450-589-9198 877-589-9198",
-      "url": "https://sortiesjazznights.com/events/apres-la-pluie-daniel-mille-yves-leveille-frank-lozano-guy-boisvert-pierre-tanguay-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "b5059d1404b82f02fcfb219d@montreal-jazz-calendar": {
-      "source_id": "event_63947_0",
-      "title": "Apéro Jazz avec Christine Tassan et invités",
-      "start": "2026-10-29T18:30:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/apero-jazz-avec-christine-tassan-et-marie-cauchon/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "c6a1c2483bc93a3b96e85615@montreal-jazz-calendar": {
-      "source_id": "event_70286_0",
-      "title": "Najib Trio",
-      "start": "2026-10-29T19:00:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "Magpie Magique",
-      "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/najib-trio-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "9e0d466b017fc8ae24c7bc7e@montreal-jazz-calendar": {
-      "source_id": "event_70290_0",
-      "title": "Peter Madsen 4tet +21h30",
-      "start": "2026-10-29T19:00:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/peter-madsen-4tet-21h30-3/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "bcfab80eee20d80c47ca0021@montreal-jazz-calendar": {
-      "source_id": "event_68717_0",
-      "title": "Benny Goodman : du jazz au classique avec Pierre Génisson et Bruno Fontaine",
-      "start": "2026-10-29T19:30:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "Musée des beaux-arts de Montréal - Salle Bourgie",
-      "address": "1339 Sherbrooke O 514-285-2000",
-      "url": "https://sortiesjazznights.com/events/benny-goodman-du-jazz-au-classique-avec-pierre-genisson-et-bruno-fontaine/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "1bcdc5a2218298bcc78b7115@montreal-jazz-calendar": {
-      "source_id": "event_68970_0",
-      "title": "Danser avec le feu - Ariane Racicot - Jeudis Jazz",
-      "start": "2026-10-29T19:30:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "Maison de la culture Ahuntsic",
-      "address": "10300 Lajeunesse 514-872-8749",
-      "url": "https://sortiesjazznights.com/events/danser-avec-le-feu-ariane-racicot-jeudis-jazz/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "4eedcb7f34b24b891601623a@montreal-jazz-calendar": {
-      "source_id": "event_70300_0",
-      "title": "Jazz jam avec Mélodie Vanier et ses ami(e)s",
-      "start": "2026-10-29T20:00:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "Verre Bouteille",
-      "address": "2112 Mont-Royal E / 514-521-9409",
-      "url": "https://sortiesjazznights.com/events/jazz-jam-avec-melodie-vanier-et-ses-amies-27/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "a883accd375589e0501c3d9f@montreal-jazz-calendar": {
-      "source_id": "event_66965_0",
-      "title": "Jef Neve et Teus Nobel / Félix Stüssi Trio Nuovo - plateau double Jazz@Vue",
-      "start": "2026-10-29T20:00:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "Théâtre Outremont",
-      "address": "1248 Bernard O 514-495-9444",
-      "url": "https://sortiesjazznights.com/events/jef-neve-et-teus-nobel-felix-stussi-trio-nuovo-plateau-double-jazzvue/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "a0fabd2a0b1ffb40eb88d0d4@montreal-jazz-calendar": {
-      "source_id": "event_70291_0",
-      "title": "Julian Gutierrez's Project - Goldstream",
-      "start": "2026-10-29T20:30:00-04:00",
-      "end": "2026-10-29T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/julian-gutierrezs-project-goldstream/",
-      "status": "CANCELLED",
-      "missing_runs": 2
     }
   }
 }
