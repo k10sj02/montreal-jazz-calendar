@@ -11,7 +11,7 @@ SUMMARY:Après la pluie - Daniel Mille Yves Léveillé Frank Lozano Guy Bo
  isvert Pierre Tanguay
 DTSTART;TZID="UTC-04:00":20261029T173000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:87c50ad3acf868f353bd1a5e@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -19,7 +19,7 @@ DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  re-tanguay-2/
 LOCATION:aramusique @ Théâtre Alphonse-Desjardins\, 25 Allée de la Cré
  ation Repentigny 450-589-9198 877-589-9198
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/apres-la-pluie-daniel-mille-yves-
  leveille-frank-lozano-guy-boisvert-pierre-tanguay-2/
 END:VEVENT
@@ -27,13 +27,13 @@ BEGIN:VEVENT
 SUMMARY:Apéro Jazz avec Christine Tassan et invités
 DTSTART;TZID="UTC-04:00":20261029T183000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:b5059d1404b82f02fcfb219d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/apero-jazz-avec-christine-tassan-et-marie-cauchon/
 LOCATION:La Brassée\, 2522 Beaubien E
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/apero-jazz-avec-christine-tassan-
  et-marie-cauchon/
 END:VEVENT
@@ -41,26 +41,26 @@ BEGIN:VEVENT
 SUMMARY:Najib Trio
 DTSTART;TZID="UTC-04:00":20261029T190000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:c6a1c2483bc93a3b96e85615@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/najib-trio-2/
 LOCATION:Magpie Magique\, 4670 rue Saint-Denis 514-759-6247
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/najib-trio-2/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peter Madsen 4tet +21h30
 DTSTART;TZID="UTC-04:00":20261029T190000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:9e0d466b017fc8ae24c7bc7e@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/peter-madsen-4tet-21h30-3/
 LOCATION:Dièse Onze Jazz Resto\, 4115A St-Denis 514-223-3543
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/peter-madsen-4tet-21h30-3/
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +68,7 @@ SUMMARY:Benny Goodman : du jazz au classique avec Pierre Génisson et Brun
  o Fontaine
 DTSTART;TZID="UTC-04:00":20261029T193000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:bcfab80eee20d80c47ca0021@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -76,7 +76,7 @@ DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  e/
 LOCATION:Musée des beaux-arts de Montréal - Salle Bourgie\, 1339 Sherbro
  oke O 514-285-2000
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/benny-goodman-du-jazz-au-classiqu
  e-avec-pierre-genisson-et-bruno-fontaine/
 END:VEVENT
@@ -84,13 +84,13 @@ BEGIN:VEVENT
 SUMMARY:Danser avec le feu - Ariane Racicot - Jeudis Jazz
 DTSTART;TZID="UTC-04:00":20261029T193000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:1bcdc5a2218298bcc78b7115@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/danser-avec-le-feu-ariane-racicot-jeudis-jazz/
 LOCATION:Maison de la culture Ahuntsic\, 10300 Lajeunesse 514-872-8749
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/danser-avec-le-feu-ariane-racicot
  -jeudis-jazz/
 END:VEVENT
@@ -98,13 +98,13 @@ BEGIN:VEVENT
 SUMMARY:Jazz jam avec Mélodie Vanier et ses ami(e)s
 DTSTART;TZID="UTC-04:00":20261029T200000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:4eedcb7f34b24b891601623a@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/jazz-jam-avec-melodie-vanier-et-ses-amies-27/
 LOCATION:Verre Bouteille\, 2112 Mont-Royal E / 514-521-9409
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/jazz-jam-avec-melodie-vanier-et-s
  es-amies-27/
 END:VEVENT
@@ -113,13 +113,13 @@ SUMMARY:Jef Neve et Teus Nobel / Félix Stüssi Trio Nuovo - plateau doubl
  e Jazz@Vue
 DTSTART;TZID="UTC-04:00":20261029T200000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:a883accd375589e0501c3d9f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/jef-neve-et-teus-nobel-felix-stussi-trio-nuovo-plateau-double-jazzvue/
 LOCATION:Théâtre Outremont\, 1248 Bernard O 514-495-9444
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/jef-neve-et-teus-nobel-felix-stus
  si-trio-nuovo-plateau-double-jazzvue/
 END:VEVENT
@@ -127,21 +127,34 @@ BEGIN:VEVENT
 SUMMARY:Julian Gutierrez's Project - Goldstream
 DTSTART;TZID="UTC-04:00":20261029T203000
 DTEND;TZID="UTC-04:00":20261029T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:a0fabd2a0b1ffb40eb88d0d4@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/julian-gutierrezs-project-goldstream/
 LOCATION:Le Cabaret Jazz L'Entracte\, 1112 Ste-Catherine O
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/julian-gutierrezs-project-goldstr
  eam/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Reno De Stefano
+DTSTART;TZID="UTC-04:00":20261030T183000
+DTEND;TZID="UTC-04:00":20261030T235900
+DTSTAMP:20261030T132838Z
+UID:c5059b3a225a12b2a85e68c0@montreal-jazz-calendar
+CATEGORIES:Jazz
+DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
+ s/reno-de-stefano-9/
+LOCATION:MaBrasserie\, 2300 Rue Holt 514-508-3309
+STATUS:CONFIRMED
+URL:https://sortiesjazznights.com/events/reno-de-stefano-9/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:David Occhipinti/Terry Clarke 5tet +21h30
 DTSTART;TZID="UTC-04:00":20261030T190000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:62cded23a46aae543c1c560c@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -155,7 +168,7 @@ SUMMARY:Emie R Roussel / Yves Léveillé et Daniel Mille (Après la pluie)
   - plateau double Jazz@Vue
 DTSTART;TZID="UTC-04:00":20261030T200000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:85fd63d3a625c1fa410d13b6@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -169,7 +182,7 @@ BEGIN:VEVENT
 SUMMARY:NNORDY - concert de lancement
 DTSTART;TZID="UTC-04:00":20261030T200000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:a8f4176c3601f83339cf891d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -182,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY:Najib 4tet
 DTSTART;TZID="UTC-04:00":20261030T200000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:4f8fd80fb94548a00b5adb26@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -195,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:Ashley Maher - Dakar Réunion + jam
 DTSTART;TZID="UTC-04:00":20261030T203000
 DTEND;TZID="UTC-04:00":20261030T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:711dba6523cacde48fbff24d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -208,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:David Occhipinti/Terry Clarke 5tet +21h30
 DTSTART;TZID="UTC-04:00":20261031T190000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:090ee4ca6f732467719be7a3@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -222,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Carl Mayotte Mark Kelso et Francis Grégoire +21h45
 DTSTART;TZID="UTC-04:00":20261031T193000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:ee161da49220ecfdf2a3e53b@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -237,7 +250,7 @@ SUMMARY:Gentiane MG Trio / LéNo : Arnaud Dolmen Leonardo Montana - platea
  u double Jazz@Vue
 DTSTART;TZID="UTC-04:00":20261031T200000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:476cc9fb13c3ecff8d3f2620@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -252,7 +265,7 @@ SUMMARY:L'Orchestre national de jazz de Montréal - Miles Smiles - Wayne S
  hines
 DTSTART;TZID="UTC-04:00":20261031T200000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:a640e2d12130289a9446411f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -267,7 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Mr. Pinstripes - Halloween Blues Special
 DTSTART;TZID="UTC-04:00":20261031T200000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:ea4fffa612f307fecb97e04c@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -282,7 +295,7 @@ SUMMARY:Rafael Salazar Devon Gillingham Tommy Crane - Hommage Monk / spéc
  ial Halloween + jam
 DTSTART;TZID="UTC-04:00":20261031T200000
 DTEND;TZID="UTC-04:00":20261031T235900
-DTSTAMP:20261030T062319Z
+DTSTAMP:20261030T132838Z
 UID:1bbf580550d992ae5825d756@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
