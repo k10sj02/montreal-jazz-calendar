@@ -1,72 +1,6 @@
 {
-  "updated": "2026-10-30T18:37:32.163363-04:00",
+  "updated": "2026-10-31T02:14:05.218792-04:00",
   "events": {
-    "c5059b3a225a12b2a85e68c0@montreal-jazz-calendar": {
-      "source_id": "event_70369_0",
-      "title": "Reno De Stefano",
-      "start": "2026-10-30T18:30:00-04:00",
-      "end": "2026-10-30T23:59:00-04:00",
-      "venue": "MaBrasserie",
-      "address": "2300 Rue Holt 514-508-3309",
-      "url": "https://sortiesjazznights.com/events/reno-de-stefano-9/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "62cded23a46aae543c1c560c@montreal-jazz-calendar": {
-      "source_id": "event_69133_0",
-      "title": "David Occhipinti/Terry Clarke 5tet +21h30",
-      "start": "2026-10-30T19:00:00-04:00",
-      "end": "2026-10-30T23:59:00-04:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/benoit-charest-trio-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "85fd63d3a625c1fa410d13b6@montreal-jazz-calendar": {
-      "source_id": "event_66966_0",
-      "title": "Emie R Roussel / Yves Léveillé et Daniel Mille (Après la pluie) - plateau double Jazz@Vue",
-      "start": "2026-10-30T20:00:00-04:00",
-      "end": "2026-10-30T23:59:00-04:00",
-      "venue": "Théâtre Outremont",
-      "address": "1248 Bernard O 514-495-9444",
-      "url": "https://sortiesjazznights.com/events/emie-r-roussel-yves-leveille-et-daniel-mille-plateau-double-jazzvue/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "a8f4176c3601f83339cf891d@montreal-jazz-calendar": {
-      "source_id": "event_69063_0",
-      "title": "NNORDY - concert de lancement",
-      "start": "2026-10-30T20:00:00-04:00",
-      "end": "2026-10-30T23:59:00-04:00",
-      "venue": "Théâtre Plaza",
-      "address": "6505, rue St-Hubert 514-278-6419",
-      "url": "https://sortiesjazznights.com/events/nnordy-concert-de-lancement/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4f8fd80fb94548a00b5adb26@montreal-jazz-calendar": {
-      "source_id": "event_70287_0",
-      "title": "Najib 4tet",
-      "start": "2026-10-30T20:00:00-04:00",
-      "end": "2026-10-30T23:59:00-04:00",
-      "venue": "Magpie Magique",
-      "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/najib-4tet/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "711dba6523cacde48fbff24d@montreal-jazz-calendar": {
-      "source_id": "event_69686_0",
-      "title": "Ashley Maher - Dakar Réunion + jam",
-      "start": "2026-10-30T20:30:00-04:00",
-      "end": "2026-10-30T23:59:00-04:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/ashley-maher-dakar-reunion-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "090ee4ca6f732467719be7a3@montreal-jazz-calendar": {
       "source_id": "event_69134_0",
       "title": "David Occhipinti/Terry Clarke 5tet +21h30",
@@ -132,6 +66,72 @@
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-special-halloween-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "c5059b3a225a12b2a85e68c0@montreal-jazz-calendar": {
+      "source_id": "event_70369_0",
+      "title": "Reno De Stefano",
+      "start": "2026-10-30T18:30:00-04:00",
+      "end": "2026-10-30T23:59:00-04:00",
+      "venue": "MaBrasserie",
+      "address": "2300 Rue Holt 514-508-3309",
+      "url": "https://sortiesjazznights.com/events/reno-de-stefano-9/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "62cded23a46aae543c1c560c@montreal-jazz-calendar": {
+      "source_id": "event_69133_0",
+      "title": "David Occhipinti/Terry Clarke 5tet +21h30",
+      "start": "2026-10-30T19:00:00-04:00",
+      "end": "2026-10-30T23:59:00-04:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/benoit-charest-trio-21h/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "85fd63d3a625c1fa410d13b6@montreal-jazz-calendar": {
+      "source_id": "event_66966_0",
+      "title": "Emie R Roussel / Yves Léveillé et Daniel Mille (Après la pluie) - plateau double Jazz@Vue",
+      "start": "2026-10-30T20:00:00-04:00",
+      "end": "2026-10-30T23:59:00-04:00",
+      "venue": "Théâtre Outremont",
+      "address": "1248 Bernard O 514-495-9444",
+      "url": "https://sortiesjazznights.com/events/emie-r-roussel-yves-leveille-et-daniel-mille-plateau-double-jazzvue/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "a8f4176c3601f83339cf891d@montreal-jazz-calendar": {
+      "source_id": "event_69063_0",
+      "title": "NNORDY - concert de lancement",
+      "start": "2026-10-30T20:00:00-04:00",
+      "end": "2026-10-30T23:59:00-04:00",
+      "venue": "Théâtre Plaza",
+      "address": "6505, rue St-Hubert 514-278-6419",
+      "url": "https://sortiesjazznights.com/events/nnordy-concert-de-lancement/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "4f8fd80fb94548a00b5adb26@montreal-jazz-calendar": {
+      "source_id": "event_70287_0",
+      "title": "Najib 4tet",
+      "start": "2026-10-30T20:00:00-04:00",
+      "end": "2026-10-30T23:59:00-04:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/najib-4tet/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "711dba6523cacde48fbff24d@montreal-jazz-calendar": {
+      "source_id": "event_69686_0",
+      "title": "Ashley Maher - Dakar Réunion + jam",
+      "start": "2026-10-30T20:30:00-04:00",
+      "end": "2026-10-30T23:59:00-04:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/ashley-maher-dakar-reunion-jam/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
