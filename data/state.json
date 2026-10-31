@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T02:14:05.218792-04:00",
+  "updated": "2026-10-31T09:00:17.396177-04:00",
   "events": {
     "090ee4ca6f732467719be7a3@montreal-jazz-calendar": {
       "source_id": "event_69134_0",
@@ -75,8 +75,8 @@
       "venue": "MaBrasserie",
       "address": "2300 Rue Holt 514-508-3309",
       "url": "https://sortiesjazznights.com/events/reno-de-stefano-9/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "62cded23a46aae543c1c560c@montreal-jazz-calendar": {
       "source_id": "event_69133_0",
@@ -86,8 +86,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/benoit-charest-trio-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "85fd63d3a625c1fa410d13b6@montreal-jazz-calendar": {
       "source_id": "event_66966_0",
@@ -97,8 +97,8 @@
       "venue": "Théâtre Outremont",
       "address": "1248 Bernard O 514-495-9444",
       "url": "https://sortiesjazznights.com/events/emie-r-roussel-yves-leveille-et-daniel-mille-plateau-double-jazzvue/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a8f4176c3601f83339cf891d@montreal-jazz-calendar": {
       "source_id": "event_69063_0",
@@ -108,8 +108,8 @@
       "venue": "Théâtre Plaza",
       "address": "6505, rue St-Hubert 514-278-6419",
       "url": "https://sortiesjazznights.com/events/nnordy-concert-de-lancement/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4f8fd80fb94548a00b5adb26@montreal-jazz-calendar": {
       "source_id": "event_70287_0",
@@ -119,8 +119,8 @@
       "venue": "Magpie Magique",
       "address": "4670 rue Saint-Denis 514-759-6247",
       "url": "https://sortiesjazznights.com/events/najib-4tet/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "711dba6523cacde48fbff24d@montreal-jazz-calendar": {
       "source_id": "event_69686_0",
@@ -130,8 +130,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/ashley-maher-dakar-reunion-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
