@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T01:31:54.870117-05:00",
+  "updated": "2026-11-07T08:29:54.027335-05:00",
   "events": {
     "b2beab53d84f688a6ab98ce6@montreal-jazz-calendar": {
       "source_id": "event_70478_0",
@@ -988,8 +988,8 @@
       "venue": "Bar Le West",
       "address": "1562 Mont-Royal E/438-386-1110",
       "url": "https://sortiesjazznights.com/events/la-touche-manouche-22/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "53172bb9fedf72037c86d25a@montreal-jazz-calendar": {
       "source_id": "event_70359_0",
@@ -999,8 +999,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "7d4baea353bfd0178f1c096c@montreal-jazz-calendar": {
       "source_id": "event_69263_0",
@@ -1010,8 +1010,8 @@
       "venue": "Upstairs Jazz Bar et Grill",
       "address": "1254 Mackay 514-931-6808",
       "url": "https://sortiesjazznights.com/events/jaleel-shaw-avec-andres-vial-trio-ira-coleman-et-tommy-crane/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8a8f81948994e85ab5ecc93a@montreal-jazz-calendar": {
       "source_id": "event_70152_0",
@@ -1021,8 +1021,8 @@
       "venue": "La Brassée",
       "address": "2522 Beaubien E",
       "url": "https://sortiesjazznights.com/events/george-serafini-trio-8/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6080a2c8af9946b2a2707f6e@montreal-jazz-calendar": {
       "source_id": "event_68718_0",
@@ -1032,8 +1032,8 @@
       "venue": "Musée des beaux-arts de Montréal - Salle Bourgie",
       "address": "1339 Sherbrooke O 514-285-2000",
       "url": "https://sortiesjazznights.com/events/masmoudi-quartette-vibrations-universelles/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "afc3e853883abec77a81a9ab@montreal-jazz-calendar": {
       "source_id": "event_70483_0",
@@ -1043,8 +1043,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/step-one/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
