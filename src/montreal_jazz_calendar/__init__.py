@@ -35,6 +35,11 @@ class JazzEvent:
 
 
 def _parse_datetime(value: str) -> datetime:
+    # EventON sometimes omits zero padding from month or day components.
+    date_match = re.match(r"^(\d{4})-(\d{1,2})-(\d{1,2})(.*)$", value)
+    if date_match:
+        year, month, day, remainder = date_match.groups()
+        value = f"{year}-{int(month):02d}-{int(day):02d}{remainder}"
     # EventON emits offsets such as -4:00; ISO 8601 requires -04:00.
     value = re.sub(r"([+-])(\d):(\d{2})$", r"\g<1>0\2:\3", value)
     parsed = datetime.fromisoformat(value)

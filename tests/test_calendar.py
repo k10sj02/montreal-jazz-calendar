@@ -19,6 +19,11 @@ def test_parse_structured_event():
     assert event.address == "123 St-Denis Montréal"
 
 
+def test_parse_event_with_unpadded_day():
+    event = parse_events(SAMPLE.replace("2026-10-12", "2026-11-6").replace("-4:00", "-5:00"))[0]
+    assert event.start == "2026-11-06T20:30:00-05:00"
+
+
 def test_ics_and_stable_uid(tmp_path: Path):
     event = parse_events(SAMPLE)[0]
     now = datetime(2026, 10, 10, 12, tzinfo=ZoneInfo("America/Toronto"))
