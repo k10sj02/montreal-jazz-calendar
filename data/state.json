@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T01:39:07.211181-05:00",
+  "updated": "2026-11-08T13:03:37.994845-05:00",
   "events": {
     "67c220d3483f7122ccbdaef9@montreal-jazz-calendar": {
       "source_id": "event_67371_1",
@@ -210,6 +210,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "6ee9fe4677ea1f3026333206@montreal-jazz-calendar": {
+      "source_id": "event_70675_0",
+      "title": "Swing Machin - Michel Gaudette François Guay Lise-Anne Ross Marcelo Luiz Barbosa",
+      "start": "2026-11-13T19:00:00-05:00",
+      "end": "2026-11-13T23:59:00-05:00",
+      "venue": "FineFineFine Café",
+      "address": "4268 St-Laurent",
+      "url": "https://sortiesjazznights.com/events/swing-machin-michel-gaudette-francois-guay-lise-anne-ross-marcelo-luiz-barbosa/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "25d127477222470431755226@montreal-jazz-calendar": {
       "source_id": "event_70654_0",
       "title": "Yannick Rieu 4tet +21h",
@@ -372,6 +383,17 @@
       "venue": "Restaurant Au 14",
       "address": "14 Prince-Arthur O",
       "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies-3/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "a55e272224d9bfc1ec01ff9f@montreal-jazz-calendar": {
+      "source_id": "event_70679_0",
+      "title": "Soirée Communauté pour en savoir plus sur le Cabaret Jazz L'Entracte - entrée et consommations gratuits",
+      "start": "2026-11-17T18:00:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/soiree-communaute-pour-en-savoir-plus-sur-le-cabaret-jazz-lentracte-entree-et-consommations-gratuits/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -903,17 +925,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "b2beab53d84f688a6ab98ce6@montreal-jazz-calendar": {
-      "source_id": "event_70478_0",
-      "title": "Colin Perry",
-      "start": "2026-11-07T11:00:00-05:00",
-      "end": "2026-11-07T23:59:00-05:00",
-      "venue": "Café La Place Commune",
-      "address": "7669 Querbes",
-      "url": "https://sortiesjazznights.com/events/colin-perry-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
     "077486c179fef1626983cb6c@montreal-jazz-calendar": {
       "source_id": "event_69818_0",
       "title": "Christian Cardinal Trio",
@@ -922,8 +933,8 @@
       "venue": "Bar Le West",
       "address": "1562 Mont-Royal E/438-386-1110",
       "url": "https://sortiesjazznights.com/events/christian-cardinal-trio-35/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9397d76564e9862f9899494c@montreal-jazz-calendar": {
       "source_id": "event_70361_0",
@@ -933,8 +944,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4fdcda1935c7433eca2c0219@montreal-jazz-calendar": {
       "source_id": "event_70153_0",
@@ -944,8 +955,8 @@
       "venue": "La Brassée",
       "address": "2522 Beaubien E",
       "url": "https://sortiesjazznights.com/events/cafe-lumiere/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a0b70258088f9fe472754b24@montreal-jazz-calendar": {
       "source_id": "event_70198_0",
@@ -955,8 +966,8 @@
       "venue": "Magpie Magique",
       "address": "4670 rue Saint-Denis 514-759-6247",
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c04403966feff41f2dc34ea0@montreal-jazz-calendar": {
       "source_id": "event_70484_0",
@@ -966,8 +977,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/serie-compositeurs-jazz-rachel-therrien-edouard-touchette-andre-galamba-cole-birney-stewart-maude-bastien/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ee526896122aa94d8506c042@montreal-jazz-calendar": {
       "source_id": "event_69938_0",
@@ -977,8 +988,8 @@
       "venue": "Brasserie Artisanale Le Saint-Graal",
       "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
       "url": "https://sortiesjazznights.com/events/sophianne-girard-si-vivante-2026-crescendo/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
