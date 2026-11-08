@@ -1,83 +1,6 @@
 {
-  "updated": "2026-11-07T17:15:43.635230-05:00",
+  "updated": "2026-11-08T01:39:07.211181-05:00",
   "events": {
-    "b2beab53d84f688a6ab98ce6@montreal-jazz-calendar": {
-      "source_id": "event_70478_0",
-      "title": "Colin Perry",
-      "start": "2026-11-07T11:00:00-05:00",
-      "end": "2026-11-07T23:59:00-05:00",
-      "venue": "Café La Place Commune",
-      "address": "7669 Querbes",
-      "url": "https://sortiesjazznights.com/events/colin-perry-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "077486c179fef1626983cb6c@montreal-jazz-calendar": {
-      "source_id": "event_69818_0",
-      "title": "Christian Cardinal Trio",
-      "start": "2026-11-07T17:00:00-05:00",
-      "end": "2026-11-07T23:59:00-05:00",
-      "venue": "Bar Le West",
-      "address": "1562 Mont-Royal E/438-386-1110",
-      "url": "https://sortiesjazznights.com/events/christian-cardinal-trio-35/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9397d76564e9862f9899494c@montreal-jazz-calendar": {
-      "source_id": "event_70361_0",
-      "title": "Jean-Marc Hébert 4tet +21h",
-      "start": "2026-11-07T19:00:00-05:00",
-      "end": "2026-11-07T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "4fdcda1935c7433eca2c0219@montreal-jazz-calendar": {
-      "source_id": "event_70153_0",
-      "title": "Café Lumière",
-      "start": "2026-11-07T19:30:00-05:00",
-      "end": "2026-11-07T23:59:00-05:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/cafe-lumiere/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "a0b70258088f9fe472754b24@montreal-jazz-calendar": {
-      "source_id": "event_70198_0",
-      "title": "Rafael Salazar Devon Gillingham Tommy Crane",
-      "start": "2026-11-07T20:00:00-05:00",
-      "end": "2026-11-07T23:59:00-05:00",
-      "venue": "Magpie Magique",
-      "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c04403966feff41f2dc34ea0@montreal-jazz-calendar": {
-      "source_id": "event_70484_0",
-      "title": "Série Compositeurs Jazz : Rachel Therrien Édouard Touchette André Galamba Cole Birney-Stewart Maude Bastien",
-      "start": "2026-11-07T20:30:00-05:00",
-      "end": "2026-11-07T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/serie-compositeurs-jazz-rachel-therrien-edouard-touchette-andre-galamba-cole-birney-stewart-maude-bastien/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ee526896122aa94d8506c042@montreal-jazz-calendar": {
-      "source_id": "event_69938_0",
-      "title": "Sophianne Girard - Si vivante (2026) / Crescendo",
-      "start": "2026-11-07T21:00:00-05:00",
-      "end": "2026-11-07T23:59:00-05:00",
-      "venue": "Brasserie Artisanale Le Saint-Graal",
-      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
-      "url": "https://sortiesjazznights.com/events/sophianne-girard-si-vivante-2026-crescendo/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "67c220d3483f7122ccbdaef9@montreal-jazz-calendar": {
       "source_id": "event_67371_1",
       "title": "Coral Egan Trio +21h",
@@ -979,6 +902,83 @@
       "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies-4/",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "b2beab53d84f688a6ab98ce6@montreal-jazz-calendar": {
+      "source_id": "event_70478_0",
+      "title": "Colin Perry",
+      "start": "2026-11-07T11:00:00-05:00",
+      "end": "2026-11-07T23:59:00-05:00",
+      "venue": "Café La Place Commune",
+      "address": "7669 Querbes",
+      "url": "https://sortiesjazznights.com/events/colin-perry-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "077486c179fef1626983cb6c@montreal-jazz-calendar": {
+      "source_id": "event_69818_0",
+      "title": "Christian Cardinal Trio",
+      "start": "2026-11-07T17:00:00-05:00",
+      "end": "2026-11-07T23:59:00-05:00",
+      "venue": "Bar Le West",
+      "address": "1562 Mont-Royal E/438-386-1110",
+      "url": "https://sortiesjazznights.com/events/christian-cardinal-trio-35/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "9397d76564e9862f9899494c@montreal-jazz-calendar": {
+      "source_id": "event_70361_0",
+      "title": "Jean-Marc Hébert 4tet +21h",
+      "start": "2026-11-07T19:00:00-05:00",
+      "end": "2026-11-07T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "4fdcda1935c7433eca2c0219@montreal-jazz-calendar": {
+      "source_id": "event_70153_0",
+      "title": "Café Lumière",
+      "start": "2026-11-07T19:30:00-05:00",
+      "end": "2026-11-07T23:59:00-05:00",
+      "venue": "La Brassée",
+      "address": "2522 Beaubien E",
+      "url": "https://sortiesjazznights.com/events/cafe-lumiere/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "a0b70258088f9fe472754b24@montreal-jazz-calendar": {
+      "source_id": "event_70198_0",
+      "title": "Rafael Salazar Devon Gillingham Tommy Crane",
+      "start": "2026-11-07T20:00:00-05:00",
+      "end": "2026-11-07T23:59:00-05:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-tommy-crane-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "c04403966feff41f2dc34ea0@montreal-jazz-calendar": {
+      "source_id": "event_70484_0",
+      "title": "Série Compositeurs Jazz : Rachel Therrien Édouard Touchette André Galamba Cole Birney-Stewart Maude Bastien",
+      "start": "2026-11-07T20:30:00-05:00",
+      "end": "2026-11-07T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/serie-compositeurs-jazz-rachel-therrien-edouard-touchette-andre-galamba-cole-birney-stewart-maude-bastien/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "ee526896122aa94d8506c042@montreal-jazz-calendar": {
+      "source_id": "event_69938_0",
+      "title": "Sophianne Girard - Si vivante (2026) / Crescendo",
+      "start": "2026-11-07T21:00:00-05:00",
+      "end": "2026-11-07T23:59:00-05:00",
+      "venue": "Brasserie Artisanale Le Saint-Graal",
+      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
+      "url": "https://sortiesjazznights.com/events/sophianne-girard-si-vivante-2026-crescendo/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
