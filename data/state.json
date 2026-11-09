@@ -1,28 +1,6 @@
 {
-  "updated": "2026-11-08T17:26:21.935306-05:00",
+  "updated": "2026-11-09T02:07:31.716687-05:00",
   "events": {
-    "ced1f0dde687ccad4fc9032a@montreal-jazz-calendar": {
-      "source_id": "event_69664_0",
-      "title": "Bogdan Gumenyuk - concert de lancement « Stream of Hope »",
-      "start": "2026-11-08T19:30:00-05:00",
-      "end": "2026-11-08T23:59:00-05:00",
-      "venue": "Le Belmont",
-      "address": "4483 Boul. Saint-Laurent 514-845-8443",
-      "url": "https://sortiesjazznights.com/events/bogdan-gumenyuk-concert-de-lancement-stream-of-hope/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "79820f3842cf6c0095d8dc27@montreal-jazz-calendar": {
-      "source_id": "event_70485_0",
-      "title": "Samuel Lechasseur 4tet - Gagnant du Concours de la Relève Jazz@Vue",
-      "start": "2026-11-08T20:30:00-05:00",
-      "end": "2026-11-08T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-4tet-gagnant-du-concours-de-la-releve-jazzvue/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "8f525376fc7e9d6023fc175b@montreal-jazz-calendar": {
       "source_id": "event_68290_10",
       "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
@@ -265,14 +243,14 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "d22d651b5bf7ee5e4efb3da7@montreal-jazz-calendar": {
-      "source_id": "event_70361_1",
-      "title": "Jean-Marc Hébert 4tet +21h",
+    "6e5d26a97599a50121ebfef1@montreal-jazz-calendar": {
+      "source_id": "event_70681_0",
+      "title": "Jean-Michel Pilc Trio avec Walter Stinson Tommy Crane +21h30",
       "start": "2026-11-14T19:00:00-05:00",
       "end": "2026-11-14T23:59:00-05:00",
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-1.l-L1",
+      "url": "https://sortiesjazznights.com/events/jean-michel-pilc-trio-avec-walter-stinson-tommy-crane-21h30/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -548,17 +526,6 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/charlotte-desilets-le-continuum-et-salome-perli-plateau-double/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "28a5e3a119ecebe8ec27c24e@montreal-jazz-calendar": {
-      "source_id": "event_70361_2",
-      "title": "Jean-Marc Hébert 4tet +21h",
-      "start": "2026-11-21T19:00:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-2.l-L1",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -848,17 +815,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "e8910bfb4939b30581a13325@montreal-jazz-calendar": {
-      "source_id": "event_70361_3",
-      "title": "Jean-Marc Hébert 4tet +21h",
-      "start": "2026-11-28T19:00:00-05:00",
-      "end": "2026-11-28T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-3.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "95263b6be8936e010fbe0eb5@montreal-jazz-calendar": {
       "source_id": "event_70199_0",
       "title": "Rafael Salazar Devon Gillingham Tommy Crane + jam",
@@ -914,6 +870,61 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ced1f0dde687ccad4fc9032a@montreal-jazz-calendar": {
+      "source_id": "event_69664_0",
+      "title": "Bogdan Gumenyuk - concert de lancement « Stream of Hope »",
+      "start": "2026-11-08T19:30:00-05:00",
+      "end": "2026-11-08T23:59:00-05:00",
+      "venue": "Le Belmont",
+      "address": "4483 Boul. Saint-Laurent 514-845-8443",
+      "url": "https://sortiesjazznights.com/events/bogdan-gumenyuk-concert-de-lancement-stream-of-hope/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "79820f3842cf6c0095d8dc27@montreal-jazz-calendar": {
+      "source_id": "event_70485_0",
+      "title": "Samuel Lechasseur 4tet - Gagnant du Concours de la Relève Jazz@Vue",
+      "start": "2026-11-08T20:30:00-05:00",
+      "end": "2026-11-08T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-4tet-gagnant-du-concours-de-la-releve-jazzvue/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "d22d651b5bf7ee5e4efb3da7@montreal-jazz-calendar": {
+      "source_id": "event_70361_1",
+      "title": "Jean-Marc Hébert 4tet +21h",
+      "start": "2026-11-14T19:00:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-1.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "28a5e3a119ecebe8ec27c24e@montreal-jazz-calendar": {
+      "source_id": "event_70361_2",
+      "title": "Jean-Marc Hébert 4tet +21h",
+      "start": "2026-11-21T19:00:00-05:00",
+      "end": "2026-11-21T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-2.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "e8910bfb4939b30581a13325@montreal-jazz-calendar": {
+      "source_id": "event_70361_3",
+      "title": "Jean-Marc Hébert 4tet +21h",
+      "start": "2026-11-28T19:00:00-05:00",
+      "end": "2026-11-28T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-3.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "67c220d3483f7122ccbdaef9@montreal-jazz-calendar": {
       "source_id": "event_67371_1",
       "title": "Coral Egan Trio +21h",
@@ -922,8 +933,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/var/ri-1.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0c5ea838e0b33c1f4ab08e84@montreal-jazz-calendar": {
       "source_id": "event_67371_2",
@@ -933,8 +944,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/var/ri-2.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "97f052acb7056e37bd285a62@montreal-jazz-calendar": {
       "source_id": "event_67371_3",
@@ -944,8 +955,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/var/ri-3.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d6a994c861e5956e4957e694@montreal-jazz-calendar": {
       "source_id": "event_67371_4",
@@ -955,8 +966,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/var/ri-4.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
