@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T02:42:32.961241-05:00",
+  "updated": "2026-11-10T14:58:57.293503-05:00",
   "events": {
     "082c67e515239a3d0ca02aae@montreal-jazz-calendar": {
       "source_id": "event_70298_0",
@@ -100,6 +100,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "9289d58b7854cca42044f8bd@montreal-jazz-calendar": {
+      "source_id": "event_66572_13",
+      "title": "Samuel Lechasseur Trio",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Nevski",
+      "address": "75 rue Queen 514-397-0743",
+      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-13.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "acb70aa8f34468fc4e1f0184@montreal-jazz-calendar": {
       "source_id": "event_70149_0",
       "title": "Apéro Jazz avec Christine Tassan et Samuel Bonnet",
@@ -130,6 +141,17 @@
       "venue": "Maison de la culture Côte-des-Neiges",
       "address": "5290 Côte-des-Neiges 514-872-6889",
       "url": "https://sortiesjazznights.com/events/diwane-abdel-grooz-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "f8a971d0c3846f7fd51717eb@montreal-jazz-calendar": {
+      "source_id": "event_70743_0",
+      "title": "Colin Perry & The Tin Pan Troubadours",
+      "start": "2026-11-12T20:00:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Chez Ernest",
+      "address": "6596 St-Hubert 514-317-6175",
+      "url": "https://sortiesjazznights.com/events/colin-perry-the-tin-pan-troubadours/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -441,6 +463,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "85bb4a0e25c86f44aab8efd0@montreal-jazz-calendar": {
+      "source_id": "event_66572_14",
+      "title": "Samuel Lechasseur Trio",
+      "start": "2026-11-19T18:00:00-05:00",
+      "end": "2026-11-19T23:59:00-05:00",
+      "venue": "Nevski",
+      "address": "75 rue Queen 514-397-0743",
+      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-14.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "696fe2030aaa505f89dec5a8@montreal-jazz-calendar": {
       "source_id": "event_60082_2",
       "title": "Combos Jazz de l'Université de Montréal",
@@ -482,6 +515,17 @@
       "venue": "Espace St-Denis / Trattoria Dell'Arte",
       "address": "1594 St-Denis 514-849-4211",
       "url": "https://sortiesjazznights.com/events/trio-nuovo-felix-stussi-alex-le-blanc-jules-payette-3/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "edb7c6778729ed846ce5a6e4@montreal-jazz-calendar": {
+      "source_id": "event_70742_0",
+      "title": "Everybody Digs Bill Evans",
+      "start": "2026-11-20T19:30:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
+      "venue": "BBAM! Gallery",
+      "address": "808 Atwater 514-952-6190",
+      "url": "https://sortiesjazznights.com/events/everybody-digs-bill-evans/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -716,6 +760,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "3bc7cfc53732d5feb5fc4af0@montreal-jazz-calendar": {
+      "source_id": "event_66572_15",
+      "title": "Samuel Lechasseur Trio",
+      "start": "2026-11-26T18:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Nevski",
+      "address": "75 rue Queen 514-397-0743",
+      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-15.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "ff2ea7792976f8a9ac6a0e4b@montreal-jazz-calendar": {
       "source_id": "event_60082_3",
       "title": "Combos Jazz de l'Université de Montréal",
@@ -900,8 +955,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-10.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "fc59ba77ccf3976bc899d064@montreal-jazz-calendar": {
       "source_id": "event_70486_0",
@@ -911,8 +966,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/maia-prasad-de-ami-e-s-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "2197e601f768400f6c44b0f5@montreal-jazz-calendar": {
       "source_id": "event_60783_17",
@@ -922,8 +977,8 @@
       "venue": "Brasserie Artisanale Le Saint-Graal",
       "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
       "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-17.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
