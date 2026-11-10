@@ -1,39 +1,6 @@
 {
-  "updated": "2026-11-09T17:40:19.452709-05:00",
+  "updated": "2026-11-10T02:42:32.961241-05:00",
   "events": {
-    "8f525376fc7e9d6023fc175b@montreal-jazz-calendar": {
-      "source_id": "event_68290_10",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-11-09T19:00:00-05:00",
-      "end": "2026-11-09T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-10.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "fc59ba77ccf3976bc899d064@montreal-jazz-calendar": {
-      "source_id": "event_70486_0",
-      "title": "Maia Prasad de ami.e.s + jam",
-      "start": "2026-11-09T20:30:00-05:00",
-      "end": "2026-11-09T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/maia-prasad-de-ami-e-s-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "2197e601f768400f6c44b0f5@montreal-jazz-calendar": {
-      "source_id": "event_60783_17",
-      "title": "Jam session du St-Graal avec Maxime Racicot, Jonathan Arseneau, invités, et +",
-      "start": "2026-11-09T21:00:00-05:00",
-      "end": "2026-11-09T23:59:00-05:00",
-      "venue": "Brasserie Artisanale Le Saint-Graal",
-      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
-      "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-17.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "082c67e515239a3d0ca02aae@montreal-jazz-calendar": {
       "source_id": "event_70298_0",
       "title": "Jazz sessions - deux groupes en collaboration avec l'Université de Montréal",
@@ -925,60 +892,38 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ced1f0dde687ccad4fc9032a@montreal-jazz-calendar": {
-      "source_id": "event_69664_0",
-      "title": "Bogdan Gumenyuk - concert de lancement « Stream of Hope »",
-      "start": "2026-11-08T19:30:00-05:00",
-      "end": "2026-11-08T23:59:00-05:00",
-      "venue": "Le Belmont",
-      "address": "4483 Boul. Saint-Laurent 514-845-8443",
-      "url": "https://sortiesjazznights.com/events/bogdan-gumenyuk-concert-de-lancement-stream-of-hope/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "8f525376fc7e9d6023fc175b@montreal-jazz-calendar": {
+      "source_id": "event_68290_10",
+      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
+      "start": "2026-11-09T19:00:00-05:00",
+      "end": "2026-11-09T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-10.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "79820f3842cf6c0095d8dc27@montreal-jazz-calendar": {
-      "source_id": "event_70485_0",
-      "title": "Samuel Lechasseur 4tet - Gagnant du Concours de la Relève Jazz@Vue",
-      "start": "2026-11-08T20:30:00-05:00",
-      "end": "2026-11-08T23:59:00-05:00",
+    "fc59ba77ccf3976bc899d064@montreal-jazz-calendar": {
+      "source_id": "event_70486_0",
+      "title": "Maia Prasad de ami.e.s + jam",
+      "start": "2026-11-09T20:30:00-05:00",
+      "end": "2026-11-09T23:59:00-05:00",
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-4tet-gagnant-du-concours-de-la-releve-jazzvue/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/maia-prasad-de-ami-e-s-jam/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "d22d651b5bf7ee5e4efb3da7@montreal-jazz-calendar": {
-      "source_id": "event_70361_1",
-      "title": "Jean-Marc Hébert 4tet +21h",
-      "start": "2026-11-14T19:00:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-1.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "28a5e3a119ecebe8ec27c24e@montreal-jazz-calendar": {
-      "source_id": "event_70361_2",
-      "title": "Jean-Marc Hébert 4tet +21h",
-      "start": "2026-11-21T19:00:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-2.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "e8910bfb4939b30581a13325@montreal-jazz-calendar": {
-      "source_id": "event_70361_3",
-      "title": "Jean-Marc Hébert 4tet +21h",
-      "start": "2026-11-28T19:00:00-05:00",
-      "end": "2026-11-28T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/jean-marc-hebert-4tet-21h/var/ri-3.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "2197e601f768400f6c44b0f5@montreal-jazz-calendar": {
+      "source_id": "event_60783_17",
+      "title": "Jam session du St-Graal avec Maxime Racicot, Jonathan Arseneau, invités, et +",
+      "start": "2026-11-09T21:00:00-05:00",
+      "end": "2026-11-09T23:59:00-05:00",
+      "venue": "Brasserie Artisanale Le Saint-Graal",
+      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
+      "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-17.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
