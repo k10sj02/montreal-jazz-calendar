@@ -1,50 +1,6 @@
 {
-  "updated": "2026-11-10T14:58:57.293503-05:00",
+  "updated": "2026-11-11T02:02:16.649463-05:00",
   "events": {
-    "082c67e515239a3d0ca02aae@montreal-jazz-calendar": {
-      "source_id": "event_70298_0",
-      "title": "Jazz sessions - deux groupes en collaboration avec l'Université de Montréal",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T23:59:00-05:00",
-      "venue": "Le Balcon Cabaret Chic",
-      "address": "463 Ste-Catherine O 514-528-9766",
-      "url": "https://sortiesjazznights.com/events/jazz-sessions-deux-groupes-en-collaboration-avec-luniversite-de-montreal-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "00c983463e89a34fa00562b1@montreal-jazz-calendar": {
-      "source_id": "event_70362_0",
-      "title": "Mardis Big Band - Joe Sullivan Big Band",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/mardis-big-band-joe-sullivan-big-band-4/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "47f6ac4ad87467839a97729e@montreal-jazz-calendar": {
-      "source_id": "event_69415_0",
-      "title": "New Jazz Quartet - Rémi Bolduc",
-      "start": "2026-11-10T19:30:00-05:00",
-      "end": "2026-11-10T23:59:00-05:00",
-      "venue": "Maison de la culture Côte-des-Neiges",
-      "address": "5290 Côte-des-Neiges 514-872-6889",
-      "url": "https://sortiesjazznights.com/events/new-jazz-quartet-remi-bolduc/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "7c194a49564a01549b551717@montreal-jazz-calendar": {
-      "source_id": "event_61330_15",
-      "title": "Alex Bellegarde Trio avec invités + jam session",
-      "start": "2026-11-10T21:30:00-05:00",
-      "end": "2026-11-10T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-15.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "27785afa4ad571e2699a35de@montreal-jazz-calendar": {
       "source_id": "event_67814_12",
       "title": "Mat Jon 4tet",
@@ -947,38 +903,49 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "8f525376fc7e9d6023fc175b@montreal-jazz-calendar": {
-      "source_id": "event_68290_10",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-11-09T19:00:00-05:00",
-      "end": "2026-11-09T23:59:00-05:00",
+    "082c67e515239a3d0ca02aae@montreal-jazz-calendar": {
+      "source_id": "event_70298_0",
+      "title": "Jazz sessions - deux groupes en collaboration avec l'Université de Montréal",
+      "start": "2026-11-10T19:00:00-05:00",
+      "end": "2026-11-10T23:59:00-05:00",
+      "venue": "Le Balcon Cabaret Chic",
+      "address": "463 Ste-Catherine O 514-528-9766",
+      "url": "https://sortiesjazznights.com/events/jazz-sessions-deux-groupes-en-collaboration-avec-luniversite-de-montreal-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "00c983463e89a34fa00562b1@montreal-jazz-calendar": {
+      "source_id": "event_70362_0",
+      "title": "Mardis Big Band - Joe Sullivan Big Band",
+      "start": "2026-11-10T19:00:00-05:00",
+      "end": "2026-11-10T23:59:00-05:00",
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-10.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/mardis-big-band-joe-sullivan-big-band-4/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "fc59ba77ccf3976bc899d064@montreal-jazz-calendar": {
-      "source_id": "event_70486_0",
-      "title": "Maia Prasad de ami.e.s + jam",
-      "start": "2026-11-09T20:30:00-05:00",
-      "end": "2026-11-09T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/maia-prasad-de-ami-e-s-jam/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "47f6ac4ad87467839a97729e@montreal-jazz-calendar": {
+      "source_id": "event_69415_0",
+      "title": "New Jazz Quartet - Rémi Bolduc",
+      "start": "2026-11-10T19:30:00-05:00",
+      "end": "2026-11-10T23:59:00-05:00",
+      "venue": "Maison de la culture Côte-des-Neiges",
+      "address": "5290 Côte-des-Neiges 514-872-6889",
+      "url": "https://sortiesjazznights.com/events/new-jazz-quartet-remi-bolduc/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "2197e601f768400f6c44b0f5@montreal-jazz-calendar": {
-      "source_id": "event_60783_17",
-      "title": "Jam session du St-Graal avec Maxime Racicot, Jonathan Arseneau, invités, et +",
-      "start": "2026-11-09T21:00:00-05:00",
-      "end": "2026-11-09T23:59:00-05:00",
-      "venue": "Brasserie Artisanale Le Saint-Graal",
-      "address": "32 Turgeon / Ste-Thérèse / 450-818-6039",
-      "url": "https://sortiesjazznights.com/events/jam-session-du-st-graal-avec-maxime-racicot-jonathan-arseneau-invites-et/var/ri-17.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "7c194a49564a01549b551717@montreal-jazz-calendar": {
+      "source_id": "event_61330_15",
+      "title": "Alex Bellegarde Trio avec invités + jam session",
+      "start": "2026-11-10T21:30:00-05:00",
+      "end": "2026-11-10T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-15.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
