@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T02:02:16.649463-05:00",
+  "updated": "2026-11-11T14:50:09.131895-05:00",
   "events": {
     "27785afa4ad571e2699a35de@montreal-jazz-calendar": {
       "source_id": "event_67814_12",
@@ -31,6 +31,17 @@
       "venue": "Brasserie Beaubien",
       "address": "73 Beaubien E 514-495-8141",
       "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-jacob-wutzke-et-invites/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "63b2b390367104506fac4144@montreal-jazz-calendar": {
+      "source_id": "event_70748_0",
+      "title": "Cordâme - Déesses mystiques",
+      "start": "2026-11-11T21:30:00-05:00",
+      "end": "2026-11-11T23:59:00-05:00",
+      "venue": "Conservatoire de musique de Montréal",
+      "address": "4750 Henri-Julien 514-873-4031",
+      "url": "https://sortiesjazznights.com/events/cordame-deesses-mystiques-2/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -262,6 +273,17 @@
       "venue": "Chez Roger",
       "address": "2300 Rue Beaubien E 514-593-4200",
       "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-46/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "61982955d0c65fa27eca3840@montreal-jazz-calendar": {
+      "source_id": "event_70746_0",
+      "title": "Félix Stüssi invite Annie Dominique",
+      "start": "2026-11-15T18:30:00-05:00",
+      "end": "2026-11-15T23:59:00-05:00",
+      "venue": "Les Soeurs Grises",
+      "address": "3188 Rue Masson 514-508-1615",
+      "url": "https://sortiesjazznights.com/events/felix-stussi-invite-annie-dominique-4/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -617,6 +639,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "8dcc2a0990b9d065448e33df@montreal-jazz-calendar": {
+      "source_id": "event_70750_0",
+      "title": "Bellbird - Claire Devlin Allison Burik Eli Davidovici Mili Hong",
+      "start": "2026-11-23T20:30:00-05:00",
+      "end": "2026-11-23T23:59:00-05:00",
+      "venue": "P'tit Ours",
+      "address": "5589 Ave. Du Parc",
+      "url": "https://sortiesjazznights.com/events/bellbird-claire-devlin-allison-burik-eli-davidovici-mili-hong/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "04d7bacdf48dc9cdfb1366e8@montreal-jazz-calendar": {
       "source_id": "event_69425_0",
       "title": "Jazz et peinture en direct avec le Samuel Bonnet Trio",
@@ -859,6 +892,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "3427a00843bcfa1073493333@montreal-jazz-calendar": {
+      "source_id": "event_70747_0",
+      "title": "Félix Stüssi invite Pierre Tanguay",
+      "start": "2026-11-29T18:30:00-05:00",
+      "end": "2026-11-29T23:59:00-05:00",
+      "venue": "Les Soeurs Grises",
+      "address": "3188 Rue Masson 514-508-1615",
+      "url": "https://sortiesjazznights.com/events/felix-stussi-invite-pierre-tanguay-7/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "b675d228ed401ca164464ef1@montreal-jazz-calendar": {
       "source_id": "event_70737_0",
       "title": "Ariane Racicot - danser avec Bach (Festival International Bach Montréal)",
@@ -911,8 +955,8 @@
       "venue": "Le Balcon Cabaret Chic",
       "address": "463 Ste-Catherine O 514-528-9766",
       "url": "https://sortiesjazznights.com/events/jazz-sessions-deux-groupes-en-collaboration-avec-luniversite-de-montreal-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "00c983463e89a34fa00562b1@montreal-jazz-calendar": {
       "source_id": "event_70362_0",
@@ -922,8 +966,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/mardis-big-band-joe-sullivan-big-band-4/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "47f6ac4ad87467839a97729e@montreal-jazz-calendar": {
       "source_id": "event_69415_0",
@@ -933,8 +977,8 @@
       "venue": "Maison de la culture Côte-des-Neiges",
       "address": "5290 Côte-des-Neiges 514-872-6889",
       "url": "https://sortiesjazznights.com/events/new-jazz-quartet-remi-bolduc/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "7c194a49564a01549b551717@montreal-jazz-calendar": {
       "source_id": "event_61330_15",
@@ -944,8 +988,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-15.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
