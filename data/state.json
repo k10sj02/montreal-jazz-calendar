@@ -1,50 +1,6 @@
 {
-  "updated": "2026-11-11T14:50:09.131895-05:00",
+  "updated": "2026-11-12T02:40:47.336713-05:00",
   "events": {
-    "27785afa4ad571e2699a35de@montreal-jazz-calendar": {
-      "source_id": "event_67814_12",
-      "title": "Mat Jon 4tet",
-      "start": "2026-11-11T17:30:00-05:00",
-      "end": "2026-11-11T23:59:00-05:00",
-      "venue": "Marcus Restaurant - Hotel Four Seasons",
-      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
-      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-12.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "8c21c345dd08aa827bb698d8@montreal-jazz-calendar": {
-      "source_id": "event_55012_21",
-      "title": "John Klepko Trio",
-      "start": "2026-11-11T18:30:00-05:00",
-      "end": "2026-11-11T23:59:00-05:00",
-      "venue": "Café Passion",
-      "address": "476 Victoria / Saint-Lambert 450-671-1405",
-      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-21.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "64be792233940b16a3f85cbd@montreal-jazz-calendar": {
-      "source_id": "event_70266_0",
-      "title": "Mercredi soir jazz - Jacob Wutzke et invités",
-      "start": "2026-11-11T20:00:00-05:00",
-      "end": "2026-11-11T23:59:00-05:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-jacob-wutzke-et-invites/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "63b2b390367104506fac4144@montreal-jazz-calendar": {
-      "source_id": "event_70748_0",
-      "title": "Cordâme - Déesses mystiques",
-      "start": "2026-11-11T21:30:00-05:00",
-      "end": "2026-11-11T23:59:00-05:00",
-      "venue": "Conservatoire de musique de Montréal",
-      "address": "4750 Henri-Julien 514-873-4031",
-      "url": "https://sortiesjazznights.com/events/cordame-deesses-mystiques-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "568048d1a56f204a047dad51@montreal-jazz-calendar": {
       "source_id": "event_60744_1",
       "title": "MaB Jazz Trio : Thomas Durant et invités",
@@ -947,49 +903,49 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "082c67e515239a3d0ca02aae@montreal-jazz-calendar": {
-      "source_id": "event_70298_0",
-      "title": "Jazz sessions - deux groupes en collaboration avec l'Université de Montréal",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T23:59:00-05:00",
-      "venue": "Le Balcon Cabaret Chic",
-      "address": "463 Ste-Catherine O 514-528-9766",
-      "url": "https://sortiesjazznights.com/events/jazz-sessions-deux-groupes-en-collaboration-avec-luniversite-de-montreal-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "27785afa4ad571e2699a35de@montreal-jazz-calendar": {
+      "source_id": "event_67814_12",
+      "title": "Mat Jon 4tet",
+      "start": "2026-11-11T17:30:00-05:00",
+      "end": "2026-11-11T23:59:00-05:00",
+      "venue": "Marcus Restaurant - Hotel Four Seasons",
+      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
+      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-12.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "00c983463e89a34fa00562b1@montreal-jazz-calendar": {
-      "source_id": "event_70362_0",
-      "title": "Mardis Big Band - Joe Sullivan Big Band",
-      "start": "2026-11-10T19:00:00-05:00",
-      "end": "2026-11-10T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/mardis-big-band-joe-sullivan-big-band-4/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "8c21c345dd08aa827bb698d8@montreal-jazz-calendar": {
+      "source_id": "event_55012_21",
+      "title": "John Klepko Trio",
+      "start": "2026-11-11T18:30:00-05:00",
+      "end": "2026-11-11T23:59:00-05:00",
+      "venue": "Café Passion",
+      "address": "476 Victoria / Saint-Lambert 450-671-1405",
+      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-21.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "47f6ac4ad87467839a97729e@montreal-jazz-calendar": {
-      "source_id": "event_69415_0",
-      "title": "New Jazz Quartet - Rémi Bolduc",
-      "start": "2026-11-10T19:30:00-05:00",
-      "end": "2026-11-10T23:59:00-05:00",
-      "venue": "Maison de la culture Côte-des-Neiges",
-      "address": "5290 Côte-des-Neiges 514-872-6889",
-      "url": "https://sortiesjazznights.com/events/new-jazz-quartet-remi-bolduc/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "64be792233940b16a3f85cbd@montreal-jazz-calendar": {
+      "source_id": "event_70266_0",
+      "title": "Mercredi soir jazz - Jacob Wutzke et invités",
+      "start": "2026-11-11T20:00:00-05:00",
+      "end": "2026-11-11T23:59:00-05:00",
+      "venue": "Brasserie Beaubien",
+      "address": "73 Beaubien E 514-495-8141",
+      "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-jacob-wutzke-et-invites/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "7c194a49564a01549b551717@montreal-jazz-calendar": {
-      "source_id": "event_61330_15",
-      "title": "Alex Bellegarde Trio avec invités + jam session",
-      "start": "2026-11-10T21:30:00-05:00",
-      "end": "2026-11-10T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-15.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "63b2b390367104506fac4144@montreal-jazz-calendar": {
+      "source_id": "event_70748_0",
+      "title": "Cordâme - Déesses mystiques",
+      "start": "2026-11-11T21:30:00-05:00",
+      "end": "2026-11-11T23:59:00-05:00",
+      "venue": "Conservatoire de musique de Montréal",
+      "address": "4750 Henri-Julien 514-873-4031",
+      "url": "https://sortiesjazznights.com/events/cordame-deesses-mystiques-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
