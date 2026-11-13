@@ -1,105 +1,6 @@
 {
-  "updated": "2026-11-12T15:23:49.057441-05:00",
+  "updated": "2026-11-13T02:12:46.202222-05:00",
   "events": {
-    "568048d1a56f204a047dad51@montreal-jazz-calendar": {
-      "source_id": "event_60744_1",
-      "title": "MaB Jazz Trio : Thomas Durant et invités",
-      "start": "2026-11-12T18:00:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "MaBrasserie",
-      "address": "2300 Rue Holt 514-508-3309",
-      "url": "https://sortiesjazznights.com/events/mab-jazz-trio-thomas-durant-et-invites-3/var/ri-1.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9c52c972ae4fffde750940ea@montreal-jazz-calendar": {
-      "source_id": "event_68719_0",
-      "title": "Mike Bruzzese et Angelica Sanchez – Poèmes pour cordes",
-      "start": "2026-11-12T18:00:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "Musée des beaux-arts de Montréal - Salle Bourgie",
-      "address": "1339 Sherbrooke O 514-285-2000",
-      "url": "https://sortiesjazznights.com/events/mike-bruzzese-et-angelica-sanchez-poemes-pour-cordes/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9289d58b7854cca42044f8bd@montreal-jazz-calendar": {
-      "source_id": "event_66572_13",
-      "title": "Samuel Lechasseur Trio",
-      "start": "2026-11-12T18:00:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "Nevski",
-      "address": "75 rue Queen 514-397-0743",
-      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-13.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "acb70aa8f34468fc4e1f0184@montreal-jazz-calendar": {
-      "source_id": "event_70149_0",
-      "title": "Apéro Jazz avec Christine Tassan et Samuel Bonnet",
-      "start": "2026-11-12T18:30:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/apero-jazz-avec-christine-tassan-et-invites-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "173af957edd9bc839d6ece42@montreal-jazz-calendar": {
-      "source_id": "event_60082_1",
-      "title": "Combos Jazz de l'Université de Montréal",
-      "start": "2026-11-12T19:00:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/combo-jazz-de-l-universite-de-montreal/var/ri-1.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "18b2b0b0130e43b611baf3db@montreal-jazz-calendar": {
-      "source_id": "event_69419_0",
-      "title": "Diwane - Abdel Grooz",
-      "start": "2026-11-12T19:30:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "Maison de la culture Côte-des-Neiges",
-      "address": "5290 Côte-des-Neiges 514-872-6889",
-      "url": "https://sortiesjazznights.com/events/diwane-abdel-grooz-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f8a971d0c3846f7fd51717eb@montreal-jazz-calendar": {
-      "source_id": "event_70743_0",
-      "title": "Colin Perry & The Tin Pan Troubadours",
-      "start": "2026-11-12T20:00:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "Chez Ernest",
-      "address": "6596 St-Hubert 514-317-6175",
-      "url": "https://sortiesjazznights.com/events/colin-perry-the-tin-pan-troubadours/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c42e4c9ed2c5be04f7c18615@montreal-jazz-calendar": {
-      "source_id": "event_69635_0",
-      "title": "Thüryn Mitchell Trio",
-      "start": "2026-11-12T20:00:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "Espace St-Denis / Trattoria Dell'Arte",
-      "address": "1594 St-Denis 514-849-4211",
-      "url": "https://sortiesjazznights.com/events/thuryn-mitchell-trio/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "558602f71fa85c91fda6732e@montreal-jazz-calendar": {
-      "source_id": "event_70796_0",
-      "title": "L'Université McGill présente la relève",
-      "start": "2026-11-12T20:30:00-05:00",
-      "end": "2026-11-12T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/luniversite-mcgill-presente-la-releve/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "e4a656616d1f9de34d08f2d6@montreal-jazz-calendar": {
       "source_id": "event_70806_0",
       "title": "Ron Di Lauro Marianne Trudel 4tet jouent Chet Baker",
@@ -980,6 +881,105 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "568048d1a56f204a047dad51@montreal-jazz-calendar": {
+      "source_id": "event_60744_1",
+      "title": "MaB Jazz Trio : Thomas Durant et invités",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "MaBrasserie",
+      "address": "2300 Rue Holt 514-508-3309",
+      "url": "https://sortiesjazznights.com/events/mab-jazz-trio-thomas-durant-et-invites-3/var/ri-1.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "9c52c972ae4fffde750940ea@montreal-jazz-calendar": {
+      "source_id": "event_68719_0",
+      "title": "Mike Bruzzese et Angelica Sanchez – Poèmes pour cordes",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Musée des beaux-arts de Montréal - Salle Bourgie",
+      "address": "1339 Sherbrooke O 514-285-2000",
+      "url": "https://sortiesjazznights.com/events/mike-bruzzese-et-angelica-sanchez-poemes-pour-cordes/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "9289d58b7854cca42044f8bd@montreal-jazz-calendar": {
+      "source_id": "event_66572_13",
+      "title": "Samuel Lechasseur Trio",
+      "start": "2026-11-12T18:00:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Nevski",
+      "address": "75 rue Queen 514-397-0743",
+      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-13.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "acb70aa8f34468fc4e1f0184@montreal-jazz-calendar": {
+      "source_id": "event_70149_0",
+      "title": "Apéro Jazz avec Christine Tassan et Samuel Bonnet",
+      "start": "2026-11-12T18:30:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "La Brassée",
+      "address": "2522 Beaubien E",
+      "url": "https://sortiesjazznights.com/events/apero-jazz-avec-christine-tassan-et-invites-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "173af957edd9bc839d6ece42@montreal-jazz-calendar": {
+      "source_id": "event_60082_1",
+      "title": "Combos Jazz de l'Université de Montréal",
+      "start": "2026-11-12T19:00:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/combo-jazz-de-l-universite-de-montreal/var/ri-1.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "18b2b0b0130e43b611baf3db@montreal-jazz-calendar": {
+      "source_id": "event_69419_0",
+      "title": "Diwane - Abdel Grooz",
+      "start": "2026-11-12T19:30:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Maison de la culture Côte-des-Neiges",
+      "address": "5290 Côte-des-Neiges 514-872-6889",
+      "url": "https://sortiesjazznights.com/events/diwane-abdel-grooz-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "f8a971d0c3846f7fd51717eb@montreal-jazz-calendar": {
+      "source_id": "event_70743_0",
+      "title": "Colin Perry & The Tin Pan Troubadours",
+      "start": "2026-11-12T20:00:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Chez Ernest",
+      "address": "6596 St-Hubert 514-317-6175",
+      "url": "https://sortiesjazznights.com/events/colin-perry-the-tin-pan-troubadours/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "c42e4c9ed2c5be04f7c18615@montreal-jazz-calendar": {
+      "source_id": "event_69635_0",
+      "title": "Thüryn Mitchell Trio",
+      "start": "2026-11-12T20:00:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Espace St-Denis / Trattoria Dell'Arte",
+      "address": "1594 St-Denis 514-849-4211",
+      "url": "https://sortiesjazznights.com/events/thuryn-mitchell-trio/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "558602f71fa85c91fda6732e@montreal-jazz-calendar": {
+      "source_id": "event_70796_0",
+      "title": "L'Université McGill présente la relève",
+      "start": "2026-11-12T20:30:00-05:00",
+      "end": "2026-11-12T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/luniversite-mcgill-presente-la-releve/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
     "206be0cfe4620b1637c7d822@montreal-jazz-calendar": {
       "source_id": "event_67814_13",
       "title": "Mat Jon 4tet",
@@ -988,8 +988,8 @@
       "venue": "Marcus Restaurant - Hotel Four Seasons",
       "address": "1440 Rue de la Montagne Montréal 514-843-2525",
       "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-13.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "72be5c21b8008ec38916f510@montreal-jazz-calendar": {
       "source_id": "event_67814_14",
@@ -999,50 +999,6 @@
       "venue": "Marcus Restaurant - Hotel Four Seasons",
       "address": "1440 Rue de la Montagne Montréal 514-843-2525",
       "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-14.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "27785afa4ad571e2699a35de@montreal-jazz-calendar": {
-      "source_id": "event_67814_12",
-      "title": "Mat Jon 4tet",
-      "start": "2026-11-11T17:30:00-05:00",
-      "end": "2026-11-11T23:59:00-05:00",
-      "venue": "Marcus Restaurant - Hotel Four Seasons",
-      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
-      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-12.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "8c21c345dd08aa827bb698d8@montreal-jazz-calendar": {
-      "source_id": "event_55012_21",
-      "title": "John Klepko Trio",
-      "start": "2026-11-11T18:30:00-05:00",
-      "end": "2026-11-11T23:59:00-05:00",
-      "venue": "Café Passion",
-      "address": "476 Victoria / Saint-Lambert 450-671-1405",
-      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-21.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "64be792233940b16a3f85cbd@montreal-jazz-calendar": {
-      "source_id": "event_70266_0",
-      "title": "Mercredi soir jazz - Jacob Wutzke et invités",
-      "start": "2026-11-11T20:00:00-05:00",
-      "end": "2026-11-11T23:59:00-05:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-jacob-wutzke-et-invites/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "63b2b390367104506fac4144@montreal-jazz-calendar": {
-      "source_id": "event_70748_0",
-      "title": "Cordâme - Déesses mystiques",
-      "start": "2026-11-11T21:30:00-05:00",
-      "end": "2026-11-11T23:59:00-05:00",
-      "venue": "Conservatoire de musique de Montréal",
-      "address": "4750 Henri-Julien 514-873-4031",
-      "url": "https://sortiesjazznights.com/events/cordame-deesses-mystiques-2/",
       "status": "CANCELLED",
       "missing_runs": 2
     }
