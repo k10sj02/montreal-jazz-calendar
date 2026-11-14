@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T13:27:30.027613-05:00",
+  "updated": "2026-11-14T17:42:59.175360-05:00",
   "events": {
     "6e5d26a97599a50121ebfef1@montreal-jazz-calendar": {
       "source_id": "event_70681_0",
@@ -836,83 +836,6 @@
       "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies-4/",
       "status": "CONFIRMED",
       "missing_runs": 0
-    },
-    "e4a656616d1f9de34d08f2d6@montreal-jazz-calendar": {
-      "source_id": "event_70806_0",
-      "title": "Ron Di Lauro Marianne Trudel 4tet jouent Chet Baker",
-      "start": "2026-11-13T19:00:00-05:00",
-      "end": "2026-11-13T23:59:00-05:00",
-      "venue": "Upstairs Jazz Bar et Grill",
-      "address": "1254 Mackay 514-931-6808",
-      "url": "https://sortiesjazznights.com/events/ron-di-lauro-marianne-trudel-4tet-jouent-chet-baker/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "6ee9fe4677ea1f3026333206@montreal-jazz-calendar": {
-      "source_id": "event_70675_0",
-      "title": "Swing Machin - Michel Gaudette François Guay Lise-Anne Ross Marcelo Luiz Barbosa",
-      "start": "2026-11-13T19:00:00-05:00",
-      "end": "2026-11-13T23:59:00-05:00",
-      "venue": "FineFineFine Café",
-      "address": "4268 St-Laurent",
-      "url": "https://sortiesjazznights.com/events/swing-machin-michel-gaudette-francois-guay-lise-anne-ross-marcelo-luiz-barbosa/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "25d127477222470431755226@montreal-jazz-calendar": {
-      "source_id": "event_70654_0",
-      "title": "Yannick Rieu 4tet +21h",
-      "start": "2026-11-13T19:00:00-05:00",
-      "end": "2026-11-13T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/yannick-rieu-4tet-21h-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "5a0820ef40826bde305003fc@montreal-jazz-calendar": {
-      "source_id": "event_70154_0",
-      "title": "Off Brasil",
-      "start": "2026-11-13T19:30:00-05:00",
-      "end": "2026-11-13T23:59:00-05:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/off-brasil-9/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "b701784d6de436e5b943ebf2@montreal-jazz-calendar": {
-      "source_id": "event_69856_0",
-      "title": "Emilie-Claire Barlow - La plus belle saison",
-      "start": "2026-11-13T20:00:00-05:00",
-      "end": "2026-11-13T23:59:00-05:00",
-      "venue": "Théâtre Desjardins",
-      "address": "1111 Lapierre 514-367-6373",
-      "url": "https://sortiesjazznights.com/events/emilie-claire-barlow-la-plus-belle-saison-9/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "2550b286eb157f0d7865c2ec@montreal-jazz-calendar": {
-      "source_id": "event_68788_0",
-      "title": "Fraser Hollins et Carlos Jiménez",
-      "start": "2026-11-13T20:30:00-05:00",
-      "end": "2026-11-13T23:59:00-05:00",
-      "venue": "Édifice Gover",
-      "address": "2065 Parthenais #403",
-      "url": "https://sortiesjazznights.com/events/fraser-hollins-et-carlos-jimenez/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "8c5d86e0a5b327082ddb8917@montreal-jazz-calendar": {
-      "source_id": "event_69452_0",
-      "title": "Jacob Do - Lancement d'album : First Chorus",
-      "start": "2026-11-13T20:30:00-05:00",
-      "end": "2026-11-13T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/jacob-do-lancement-dalbum-first-chorus/",
-      "status": "CANCELLED",
-      "missing_runs": 2
     }
   }
 }
