@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T02:07:32.428292-05:00",
+  "updated": "2026-11-15T14:04:44.364066-05:00",
   "events": {
     "2d1e10a90f962a2bd0bb3eb2@montreal-jazz-calendar": {
       "source_id": "event_70202_0",
@@ -287,6 +287,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "b908c6ae51f1744ce96043f0@montreal-jazz-calendar": {
+      "source_id": "event_70879_0",
+      "title": "Joe Sullivan 6tet",
+      "start": "2026-11-20T19:00:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/joe-sullivan-6tet/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "edb7c6778729ed846ce5a6e4@montreal-jazz-calendar": {
       "source_id": "event_70742_0",
       "title": "Everybody Digs Bill Evans",
@@ -339,6 +350,17 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/charlotte-desilets-le-continuum-et-salome-perli-plateau-double/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "2ec1a595dcff5d932e1d5d68@montreal-jazz-calendar": {
+      "source_id": "event_70880_0",
+      "title": "Elizabeth Shepherd Michael Occhipinti Derek DiFillipo Tony Ferraro",
+      "start": "2026-11-21T19:00:00-05:00",
+      "end": "2026-11-21T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/elizabeth-shepherd-michael-occhipinti-derek-difillipo-tony-ferraro/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -520,7 +542,7 @@
     },
     "1d774ec7242f317a2cb81037@montreal-jazz-calendar": {
       "source_id": "event_70268_0",
-      "title": "Mercredi soir jazz - Nicolas Bond et invités",
+      "title": "Mercredi soir jazz - Nicolas Bond Frank Lozano Donald Meunier Christian Pamerleau",
       "start": "2026-11-25T20:00:00-05:00",
       "end": "2026-11-25T23:59:00-05:00",
       "venue": "Brasserie Beaubien",
@@ -650,6 +672,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "b88a11dc23871cd07c210424@montreal-jazz-calendar": {
+      "source_id": "event_70902_0",
+      "title": "Anne Duchesne Jazz Band",
+      "start": "2026-11-28T18:00:00-05:00",
+      "end": "2026-11-28T23:59:00-05:00",
+      "venue": "Café Sage - Les Sessions Sage",
+      "address": "52 Rue d'Aberdeen, Saint-Lambert 514-797-7981",
+      "url": "https://sortiesjazznights.com/events/anne-duchesne-jazz-band-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "3e69c7148575465f90088cf8@montreal-jazz-calendar": {
       "source_id": "event_69662_0",
       "title": "Donny Lives III - Clerel David Vandervort Charles-William Mpondo Fred Doston Ronny Désinor Hendry Massamba",
@@ -757,8 +790,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/jean-michel-pilc-trio-avec-walter-stinson-tommy-crane-21h30/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "23108a51cc2c8b520c3430d6@montreal-jazz-calendar": {
       "source_id": "event_70807_0",
@@ -768,8 +801,8 @@
       "venue": "Upstairs Jazz Bar et Grill",
       "address": "1254 Mackay 514-931-6808",
       "url": "https://sortiesjazznights.com/events/ron-di-lauro-marianne-trudel-4tet-jouent-chet-baker-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "855e90d9873ed5b3914081bc@montreal-jazz-calendar": {
       "source_id": "event_70479_0",
@@ -779,8 +812,8 @@
       "venue": "École de musique Vincent-d'Indy",
       "address": "628 Chemin de la Côte-Sainte-Catherine 514-735-5261",
       "url": "https://sortiesjazznights.com/events/les-profs-de-jazz-de-lemvi-en-action-samuel-blais-sonia-johnson-david-ryshpan-samuel-bonnet-alex-lefaivre-alain-bourgeois/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "429f7b32e38f2c85663be0dc@montreal-jazz-calendar": {
       "source_id": "event_70155_0",
@@ -790,8 +823,8 @@
       "venue": "La Brassée",
       "address": "2522 Beaubien E",
       "url": "https://sortiesjazznights.com/events/trio-choro-de-quintal/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6749ed93095db072b4da3ed6@montreal-jazz-calendar": {
       "source_id": "event_69857_0",
@@ -801,8 +834,8 @@
       "venue": "Théâtre de la Ville (Longueuil)",
       "address": "150 Gentilly E / 450-670-1616",
       "url": "https://sortiesjazznights.com/events/emilie-claire-barlow-la-plus-belle-saison-10/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "2fd519b5b9fe293f22b5fa6a@montreal-jazz-calendar": {
       "source_id": "event_70200_0",
@@ -812,8 +845,8 @@
       "venue": "Magpie Magique",
       "address": "4670 rue Saint-Denis 514-759-6247",
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-jacob-wutzke/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "c3935885f8a8d7451e0ba936@montreal-jazz-calendar": {
       "source_id": "event_70797_0",
@@ -823,8 +856,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/bonze-trio-lodyssee-de-lalbum-le-chiengue-et-le-poissongue-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9a7bba099a64916fc2841845@montreal-jazz-calendar": {
       "source_id": "event_70874_0",
@@ -834,8 +867,8 @@
       "venue": "Espace 215",
       "address": "215 Jean-Talon Ouest",
       "url": "https://sortiesjazznights.com/events/swing-the-couleurs-avec-le-early-jazz-band/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
