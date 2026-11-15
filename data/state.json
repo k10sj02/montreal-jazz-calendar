@@ -1,94 +1,6 @@
 {
-  "updated": "2026-11-14T17:42:59.175360-05:00",
+  "updated": "2026-11-15T02:07:32.428292-05:00",
   "events": {
-    "6e5d26a97599a50121ebfef1@montreal-jazz-calendar": {
-      "source_id": "event_70681_0",
-      "title": "Jean-Michel Pilc Trio avec Walter Stinson Tommy Crane +21h30",
-      "start": "2026-11-14T19:00:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/jean-michel-pilc-trio-avec-walter-stinson-tommy-crane-21h30/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "23108a51cc2c8b520c3430d6@montreal-jazz-calendar": {
-      "source_id": "event_70807_0",
-      "title": "Ron Di Lauro Marianne Trudel 4tet jouent Chet Baker",
-      "start": "2026-11-14T19:00:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "Upstairs Jazz Bar et Grill",
-      "address": "1254 Mackay 514-931-6808",
-      "url": "https://sortiesjazznights.com/events/ron-di-lauro-marianne-trudel-4tet-jouent-chet-baker-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "855e90d9873ed5b3914081bc@montreal-jazz-calendar": {
-      "source_id": "event_70479_0",
-      "title": "Les profs de jazz de l'EMVI en action : Samuel Blais Sonia Johnson David Ryshpan Samuel Bonnet Alex Lefaivre Alain Bourgeois",
-      "start": "2026-11-14T19:30:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "École de musique Vincent-d'Indy",
-      "address": "628 Chemin de la Côte-Sainte-Catherine 514-735-5261",
-      "url": "https://sortiesjazznights.com/events/les-profs-de-jazz-de-lemvi-en-action-samuel-blais-sonia-johnson-david-ryshpan-samuel-bonnet-alex-lefaivre-alain-bourgeois/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "429f7b32e38f2c85663be0dc@montreal-jazz-calendar": {
-      "source_id": "event_70155_0",
-      "title": "Trio Choro de Quintal",
-      "start": "2026-11-14T19:30:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/trio-choro-de-quintal/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "6749ed93095db072b4da3ed6@montreal-jazz-calendar": {
-      "source_id": "event_69857_0",
-      "title": "Emilie-Claire Barlow - La plus belle saison",
-      "start": "2026-11-14T20:00:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "Théâtre de la Ville (Longueuil)",
-      "address": "150 Gentilly E / 450-670-1616",
-      "url": "https://sortiesjazznights.com/events/emilie-claire-barlow-la-plus-belle-saison-10/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "2fd519b5b9fe293f22b5fa6a@montreal-jazz-calendar": {
-      "source_id": "event_70200_0",
-      "title": "Rafael Salazar Joel Bracken Ethan Robertson Ariq Rahman",
-      "start": "2026-11-14T20:00:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "Magpie Magique",
-      "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-jacob-wutzke/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c3935885f8a8d7451e0ba936@montreal-jazz-calendar": {
-      "source_id": "event_70797_0",
-      "title": "bONZE Trio - L'Odyssée de l'album « Le Chiengue et le Poissongue » + JAM!",
-      "start": "2026-11-14T20:30:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/bonze-trio-lodyssee-de-lalbum-le-chiengue-et-le-poissongue-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9a7bba099a64916fc2841845@montreal-jazz-calendar": {
-      "source_id": "event_70874_0",
-      "title": "Swing The Couleurs avec le Early Jazz Band",
-      "start": "2026-11-14T21:15:00-05:00",
-      "end": "2026-11-14T23:59:00-05:00",
-      "venue": "Espace 215",
-      "address": "215 Jean-Talon Ouest",
-      "url": "https://sortiesjazznights.com/events/swing-the-couleurs-avec-le-early-jazz-band/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "2d1e10a90f962a2bd0bb3eb2@montreal-jazz-calendar": {
       "source_id": "event_70202_0",
       "title": "Stéphanie Pothier Lorenzo Somma - Noël jazz et lyrique",
@@ -836,6 +748,94 @@
       "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies-4/",
       "status": "CONFIRMED",
       "missing_runs": 0
+    },
+    "6e5d26a97599a50121ebfef1@montreal-jazz-calendar": {
+      "source_id": "event_70681_0",
+      "title": "Jean-Michel Pilc Trio avec Walter Stinson Tommy Crane +21h30",
+      "start": "2026-11-14T19:00:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/jean-michel-pilc-trio-avec-walter-stinson-tommy-crane-21h30/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "23108a51cc2c8b520c3430d6@montreal-jazz-calendar": {
+      "source_id": "event_70807_0",
+      "title": "Ron Di Lauro Marianne Trudel 4tet jouent Chet Baker",
+      "start": "2026-11-14T19:00:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "Upstairs Jazz Bar et Grill",
+      "address": "1254 Mackay 514-931-6808",
+      "url": "https://sortiesjazznights.com/events/ron-di-lauro-marianne-trudel-4tet-jouent-chet-baker-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "855e90d9873ed5b3914081bc@montreal-jazz-calendar": {
+      "source_id": "event_70479_0",
+      "title": "Les profs de jazz de l'EMVI en action : Samuel Blais Sonia Johnson David Ryshpan Samuel Bonnet Alex Lefaivre Alain Bourgeois",
+      "start": "2026-11-14T19:30:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "École de musique Vincent-d'Indy",
+      "address": "628 Chemin de la Côte-Sainte-Catherine 514-735-5261",
+      "url": "https://sortiesjazznights.com/events/les-profs-de-jazz-de-lemvi-en-action-samuel-blais-sonia-johnson-david-ryshpan-samuel-bonnet-alex-lefaivre-alain-bourgeois/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "429f7b32e38f2c85663be0dc@montreal-jazz-calendar": {
+      "source_id": "event_70155_0",
+      "title": "Trio Choro de Quintal",
+      "start": "2026-11-14T19:30:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "La Brassée",
+      "address": "2522 Beaubien E",
+      "url": "https://sortiesjazznights.com/events/trio-choro-de-quintal/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "6749ed93095db072b4da3ed6@montreal-jazz-calendar": {
+      "source_id": "event_69857_0",
+      "title": "Emilie-Claire Barlow - La plus belle saison",
+      "start": "2026-11-14T20:00:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "Théâtre de la Ville (Longueuil)",
+      "address": "150 Gentilly E / 450-670-1616",
+      "url": "https://sortiesjazznights.com/events/emilie-claire-barlow-la-plus-belle-saison-10/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "2fd519b5b9fe293f22b5fa6a@montreal-jazz-calendar": {
+      "source_id": "event_70200_0",
+      "title": "Rafael Salazar Joel Bracken Ethan Robertson Ariq Rahman",
+      "start": "2026-11-14T20:00:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-jacob-wutzke/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "c3935885f8a8d7451e0ba936@montreal-jazz-calendar": {
+      "source_id": "event_70797_0",
+      "title": "bONZE Trio - L'Odyssée de l'album « Le Chiengue et le Poissongue » + JAM!",
+      "start": "2026-11-14T20:30:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/bonze-trio-lodyssee-de-lalbum-le-chiengue-et-le-poissongue-jam/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "9a7bba099a64916fc2841845@montreal-jazz-calendar": {
+      "source_id": "event_70874_0",
+      "title": "Swing The Couleurs avec le Early Jazz Band",
+      "start": "2026-11-14T21:15:00-05:00",
+      "end": "2026-11-14T23:59:00-05:00",
+      "venue": "Espace 215",
+      "address": "215 Jean-Talon Ouest",
+      "url": "https://sortiesjazznights.com/events/swing-the-couleurs-avec-le-early-jazz-band/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
