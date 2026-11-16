@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T02:13:04.530139-05:00",
+  "updated": "2026-11-16T17:28:44.182214-05:00",
   "events": {
     "1bcc2d78ab4c09772d6f2d88@montreal-jazz-calendar": {
       "source_id": "event_68290_11",
@@ -562,6 +562,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "1fb57ed568c52b35f299e41f@montreal-jazz-calendar": {
+      "source_id": "event_70907_0",
+      "title": "Kawandak",
+      "start": "2026-11-26T20:30:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Jeudis Jazz - Kafé Étudiant du Collège Lionel-Groulx",
+      "address": "100 Duquet / Ste-Thérèse / 450-430-3120 ext 2569 / entrée : portes 5-6 rue St-Louis",
+      "url": "https://sortiesjazznights.com/events/kawandak/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "21c5a0525d5b9ab5ff1f673d@montreal-jazz-calendar": {
       "source_id": "event_69241_0",
       "title": "Charlotte Désilets en duo",
@@ -614,6 +625,17 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/donny-lives-iii-clerel-david-vandervort-charles-william-mpondo-fred-doston-ronny-desinor-hendry-massamba/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "36c0ade91308939becdc19ad@montreal-jazz-calendar": {
+      "source_id": "event_70905_0",
+      "title": "Jean-Nicolas Trottier's Acid Bunny - concert de lancement : « Mirage » (2026)",
+      "start": "2026-11-28T20:00:00-05:00",
+      "end": "2026-11-28T23:59:00-05:00",
+      "venue": "O Patro Vys",
+      "address": "356 Mont-Royal E 514-845-3855",
+      "url": "https://sortiesjazznights.com/events/acid-bunny-concert-de-lancement-mirage-2026/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -705,28 +727,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "2d1e10a90f962a2bd0bb3eb2@montreal-jazz-calendar": {
-      "source_id": "event_70202_0",
-      "title": "Stéphanie Pothier Lorenzo Somma - Noël jazz et lyrique",
-      "start": "2026-11-15T15:00:00-05:00",
-      "end": "2026-11-15T23:59:00-05:00",
-      "venue": "Centre culturel Stewart Hall (Pointe-Claire)",
-      "address": "176 Chemin du Bord-du-Lac 514-630-1220",
-      "url": "https://sortiesjazznights.com/events/stephanie-pothier-lorenzo-somma-noel-jazz-et-lyrique/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "9033bd15e4e10e897f219d3d@montreal-jazz-calendar": {
-      "source_id": "event_70686_0",
-      "title": "Robert Ménard Frédéric Darveau Alain Bastien",
-      "start": "2026-11-15T17:00:00-05:00",
-      "end": "2026-11-15T23:59:00-05:00",
-      "venue": "Chez Roger",
-      "address": "2300 Rue Beaubien E 514-593-4200",
-      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-46/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
     "61982955d0c65fa27eca3840@montreal-jazz-calendar": {
       "source_id": "event_70746_0",
       "title": "Félix Stüssi invite Annie Dominique",
@@ -735,8 +735,8 @@
       "venue": "Les Soeurs Grises",
       "address": "3188 Rue Masson 514-508-1615",
       "url": "https://sortiesjazznights.com/events/felix-stussi-invite-annie-dominique-4/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "335186decdc17a0378be8451@montreal-jazz-calendar": {
       "source_id": "event_67995_0",
@@ -746,8 +746,8 @@
       "venue": "Brasserie artisanale Les sans-taverne",
       "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
       "url": "https://sortiesjazznights.com/events/jazz-vocal-avec-annie-gagne-et-denis-campeau-9/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ff99685f51cdc0213b361e4a@montreal-jazz-calendar": {
       "source_id": "event_67371_0",
@@ -757,8 +757,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4c5d0e5e2b5ef953a4e112f4@montreal-jazz-calendar": {
       "source_id": "event_70800_0",
@@ -768,8 +768,8 @@
       "venue": "Upstairs Jazz Bar et Grill",
       "address": "1254 Mackay 514-931-6808",
       "url": "https://sortiesjazznights.com/events/manoel-vieira-et-joao-lenhari-concert-de-lancement-reflexions/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "513408d6ca47b9469b14f3c4@montreal-jazz-calendar": {
       "source_id": "event_70798_0",
@@ -779,8 +779,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/kevin-dean-et-ami-e-s-jouent-le-repertoire-blue-note/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }

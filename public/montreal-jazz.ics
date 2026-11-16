@@ -7,45 +7,16 @@ X-WR-CALNAME:Greater Montréal Jazz
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-WR-TIMEZONE:America/Toronto
 BEGIN:VEVENT
-SUMMARY:Stéphanie Pothier Lorenzo Somma - Noël jazz et lyrique
-DTSTART;TZID="UTC-05:00":20261115T150000
-DTEND;TZID="UTC-05:00":20261115T235900
-DTSTAMP:20261116T071304Z
-UID:2d1e10a90f962a2bd0bb3eb2@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/stephanie-pothier-lorenzo-somma-noel-jazz-et-lyrique/
-LOCATION:Centre culturel Stewart Hall (Pointe-Claire)\, 176 Chemin du Bord
- -du-Lac 514-630-1220
-STATUS:CONFIRMED
-URL:https://sortiesjazznights.com/events/stephanie-pothier-lorenzo-somma-n
- oel-jazz-et-lyrique/
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Robert Ménard Frédéric Darveau Alain Bastien
-DTSTART;TZID="UTC-05:00":20261115T170000
-DTEND;TZID="UTC-05:00":20261115T235900
-DTSTAMP:20261116T071304Z
-UID:9033bd15e4e10e897f219d3d@montreal-jazz-calendar
-CATEGORIES:Jazz
-DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
- s/robert-menard-frederic-darveau-alain-bastien-46/
-LOCATION:Chez Roger\, 2300 Rue Beaubien E 514-593-4200
-STATUS:CONFIRMED
-URL:https://sortiesjazznights.com/events/robert-menard-frederic-darveau-al
- ain-bastien-46/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Félix Stüssi invite Annie Dominique
 DTSTART;TZID="UTC-05:00":20261115T183000
 DTEND;TZID="UTC-05:00":20261115T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:61982955d0c65fa27eca3840@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/felix-stussi-invite-annie-dominique-4/
 LOCATION:Les Soeurs Grises\, 3188 Rue Masson 514-508-1615
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/felix-stussi-invite-annie-dominiq
  ue-4/
 END:VEVENT
@@ -53,14 +24,14 @@ BEGIN:VEVENT
 SUMMARY:Jazz vocal avec Annie Gagné et Denis Campeau
 DTSTART;TZID="UTC-05:00":20261115T183000
 DTEND;TZID="UTC-05:00":20261115T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:335186decdc17a0378be8451@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/jazz-vocal-avec-annie-gagne-et-denis-campeau-9/
 LOCATION:Brasserie artisanale Les sans-taverne\, Bâtiment 7 - 1900 rue Le
   Ber Pointe-St-Charles 514-536-0134
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/jazz-vocal-avec-annie-gagne-et-de
  nis-campeau-9/
 END:VEVENT
@@ -68,26 +39,26 @@ BEGIN:VEVENT
 SUMMARY:Coral Egan Trio +21h
 DTSTART;TZID="UTC-05:00":20261115T190000
 DTEND;TZID="UTC-05:00":20261115T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:ff99685f51cdc0213b361e4a@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/coral-egan-trio-21h-13/
 LOCATION:Dièse Onze Jazz Resto\, 4115A St-Denis 514-223-3543
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/coral-egan-trio-21h-13/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manoel Vieira et Joao Lenhari - concert de lancement Réflexions
 DTSTART;TZID="UTC-05:00":20261115T190000
 DTEND;TZID="UTC-05:00":20261115T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:4c5d0e5e2b5ef953a4e112f4@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/manoel-vieira-et-joao-lenhari-concert-de-lancement-reflexions/
 LOCATION:Upstairs Jazz Bar et Grill\, 1254 Mackay 514-931-6808
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/manoel-vieira-et-joao-lenhari-con
  cert-de-lancement-reflexions/
 END:VEVENT
@@ -95,13 +66,13 @@ BEGIN:VEVENT
 SUMMARY:Kevin Dean et ami.e.s jouent le répertoire Blue Note
 DTSTART;TZID="UTC-05:00":20261115T203000
 DTEND;TZID="UTC-05:00":20261115T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:513408d6ca47b9469b14f3c4@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
  s/kevin-dean-et-ami-e-s-jouent-le-repertoire-blue-note/
 LOCATION:Le Cabaret Jazz L'Entracte\, 1112 Ste-Catherine O
-STATUS:CONFIRMED
+STATUS:CANCELLED
 URL:https://sortiesjazznights.com/events/kevin-dean-et-ami-e-s-jouent-le-r
  epertoire-blue-note/
 END:VEVENT
@@ -109,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Bellegarde Jazz Latin 4tet +21h30
 DTSTART;TZID="UTC-05:00":20261116T190000
 DTEND;TZID="UTC-05:00":20261116T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:1bcc2d78ab4c09772d6f2d88@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -123,7 +94,7 @@ BEGIN:VEVENT
 SUMMARY:Sapporo Jazz Jam avec Thuryn Mitchell et ami(e)s
 DTSTART;TZID="UTC-05:00":20261116T190000
 DTEND;TZID="UTC-05:00":20261116T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:02cd4e4ca38b30d1d55241e5@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -137,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Julie Morisod 4tet + jam
 DTSTART;TZID="UTC-05:00":20261116T203000
 DTEND;TZID="UTC-05:00":20261116T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:b97db4612a24f5d1de02010c@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -151,7 +122,7 @@ SUMMARY:Soirée Communauté pour en savoir plus sur le Cabaret Jazz L'Entr
  acte - entrée et consommations gratuits
 DTSTART;TZID="UTC-05:00":20261117T180000
 DTEND;TZID="UTC-05:00":20261117T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:a55e272224d9bfc1ec01ff9f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -166,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Robert Ménard Frédéric Darveau
 DTSTART;TZID="UTC-05:00":20261117T183000
 DTEND;TZID="UTC-05:00":20261117T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:9d5c51ce3ce2546dedb4a074@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -180,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Mardis Big Band - Altsys Orchestra
 DTSTART;TZID="UTC-05:00":20261117T190000
 DTEND;TZID="UTC-05:00":20261117T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:fca3fcb3cd5f23ceef985fc2@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -194,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:Rémi Bolduc et Geoffrey Keezer
 DTSTART;TZID="UTC-05:00":20261117T193000
 DTEND;TZID="UTC-05:00":20261117T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:aa1b1706642f5b4c898117de@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -208,7 +179,7 @@ BEGIN:VEVENT
 SUMMARY:Surprise Chef avec Ben Hackett - Frogs In A Pond
 DTSTART;TZID="UTC-05:00":20261117T200000
 DTEND;TZID="UTC-05:00":20261117T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:6ed1bd68e077153e4d430066@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -222,7 +193,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Bellegarde Trio avec invités + jam session
 DTSTART;TZID="UTC-05:00":20261117T213000
 DTEND;TZID="UTC-05:00":20261117T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:123d7738229b95a519e97e98@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -236,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:John Klepko Trio
 DTSTART;TZID="UTC-05:00":20261118T183000
 DTEND;TZID="UTC-05:00":20261118T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:c7bd01d56a7e90b31e8d927f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -250,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:Mat Jon 4tet
 DTSTART;TZID="UTC-05:00":20261118T183000
 DTEND;TZID="UTC-05:00":20261118T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:864b9b0406d9e3e63e50e1db@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -265,7 +236,7 @@ SUMMARY:Marianne Trudel Trio avec Étienne Lafrance et Sacha Daoud jouent
  Jobim
 DTSTART;TZID="UTC-05:00":20261118T200000
 DTEND;TZID="UTC-05:00":20261118T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:d85819ad60e3d85409213b67@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -280,7 +251,7 @@ BEGIN:VEVENT
 SUMMARY:Mercredi soir jazz - Griffin Linklater et invités
 DTSTART;TZID="UTC-05:00":20261118T200000
 DTEND;TZID="UTC-05:00":20261118T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:57898aa0bc71adb5ebbe0b1d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -294,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:MaB Jazz Trio : Thomas Durant et invités
 DTSTART;TZID="UTC-05:00":20261119T180000
 DTEND;TZID="UTC-05:00":20261119T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:2fedac3091b0ac8b8c65e863@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -308,7 +279,7 @@ BEGIN:VEVENT
 SUMMARY:Samuel Lechasseur Trio
 DTSTART;TZID="UTC-05:00":20261119T180000
 DTEND;TZID="UTC-05:00":20261119T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:85bb4a0e25c86f44aab8efd0@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -322,7 +293,7 @@ BEGIN:VEVENT
 SUMMARY:Combos Jazz de l'Université de Montréal
 DTSTART;TZID="UTC-05:00":20261119T190000
 DTEND;TZID="UTC-05:00":20261119T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:696fe2030aaa505f89dec5a8@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -336,7 +307,7 @@ BEGIN:VEVENT
 SUMMARY:JazzWorks jazz jam avec Adrian Vedady et plus
 DTSTART;TZID="UTC-05:00":20261119T193000
 DTEND;TZID="UTC-05:00":20261119T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:a266323be6f42ab0d7ad4e13@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -350,7 +321,7 @@ BEGIN:VEVENT
 SUMMARY:Ezra Collective - Here Because of Hope Tour
 DTSTART;TZID="UTC-05:00":20261119T200000
 DTEND;TZID="UTC-05:00":20261119T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:9f65b907dbc1dc4db9224215@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -364,7 +335,7 @@ BEGIN:VEVENT
 SUMMARY:Trio Nuovo - Félix Stüssi Alex Le Blanc Jules Payette
 DTSTART;TZID="UTC-05:00":20261119T200000
 DTEND;TZID="UTC-05:00":20261119T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:a3b4e4442a53532c32ea4c5e@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -379,7 +350,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Sullivan 6tet
 DTSTART;TZID="UTC-05:00":20261120T190000
 DTEND;TZID="UTC-05:00":20261120T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:b908c6ae51f1744ce96043f0@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -392,7 +363,7 @@ BEGIN:VEVENT
 SUMMARY:Everybody Digs Bill Evans
 DTSTART;TZID="UTC-05:00":20261120T193000
 DTEND;TZID="UTC-05:00":20261120T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:edb7c6778729ed846ce5a6e4@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -405,7 +376,7 @@ BEGIN:VEVENT
 SUMMARY:Isabella Hallia Trio
 DTSTART;TZID="UTC-05:00":20261120T200000
 DTEND;TZID="UTC-05:00":20261120T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:f3e1faa854bade8610d9ab11@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -419,7 +390,7 @@ SUMMARY:L. Shankar + Selvaganesh Vinayakram Swaminathan Selvaganesh Amit K
  avthekar (Traquen'Art/Centre Kabir)
 DTSTART;TZID="UTC-05:00":20261120T200000
 DTEND;TZID="UTC-05:00":20261120T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:d349a48a725fdcd52ed7ddd9@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -434,7 +405,7 @@ BEGIN:VEVENT
 SUMMARY:Renée Charron Jazz Project
 DTSTART;TZID="UTC-05:00":20261120T200000
 DTEND;TZID="UTC-05:00":20261120T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:edc965905c4a6f15c596c87c@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -448,7 +419,7 @@ SUMMARY:Charlotte Désilets - Le Continuum et Salomé Perli - plateau doub
  le
 DTSTART;TZID="UTC-05:00":20261120T203000
 DTEND;TZID="UTC-05:00":20261120T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:ebbb3ed6eba0858747234c97@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -462,7 +433,7 @@ BEGIN:VEVENT
 SUMMARY:Elizabeth Shepherd Michael Occhipinti Derek DiFillipo Tony Ferraro
 DTSTART;TZID="UTC-05:00":20261121T190000
 DTEND;TZID="UTC-05:00":20261121T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:2ec1a595dcff5d932e1d5d68@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -476,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:Trio Bossa Nova
 DTSTART;TZID="UTC-05:00":20261121T193000
 DTEND;TZID="UTC-05:00":20261121T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:96102c3f37a05ad6f8e7163e@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -490,7 +461,7 @@ SUMMARY:L'Orchestre national de jazz de Montréal - Marianne Trudel - Au c
  entre\, la lumière
 DTSTART;TZID="UTC-05:00":20261121T200000
 DTEND;TZID="UTC-05:00":20261121T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:2b37136916b63e54fb9edfbb@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -506,7 +477,7 @@ BEGIN:VEVENT
 SUMMARY:Rafael Salazar Devon Gillingham Jacob Wutzke
 DTSTART;TZID="UTC-05:00":20261121T200000
 DTEND;TZID="UTC-05:00":20261121T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:cb2709baec083b0f7e51b7b2@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -520,7 +491,7 @@ BEGIN:VEVENT
 SUMMARY:Robert Ménard Frédéric Darveau Alain Bastien
 DTSTART;TZID="UTC-05:00":20261122T170000
 DTEND;TZID="UTC-05:00":20261122T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:64ca2c8077d54d36b89675b1@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -534,7 +505,7 @@ BEGIN:VEVENT
 SUMMARY:Coral Egan Trio +21h
 DTSTART;TZID="UTC-05:00":20261122T190000
 DTEND;TZID="UTC-05:00":20261122T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:6d71fa1a2f77f3577bbc7b3f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -548,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Thierry Du Sablon 4tet + Laurent Perrault-Jolicoeur 5tet
 DTSTART;TZID="UTC-05:00":20261122T193000
 DTEND;TZID="UTC-05:00":20261122T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:c5575c36e0c469cada915958@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -562,7 +533,7 @@ BEGIN:VEVENT
 SUMMARY:The Versatile Sax 4tet & Rythm Section
 DTSTART;TZID="UTC-05:00":20261122T200000
 DTEND;TZID="UTC-05:00":20261122T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:ab6acffb99045e0371012114@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -576,7 +547,7 @@ BEGIN:VEVENT
 SUMMARY:Joe Sullivan Big Band - concert de lancement « Say Yes! »
 DTSTART;TZID="UTC-05:00":20261122T203000
 DTEND;TZID="UTC-05:00":20261122T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:23d94310a69813001678e5b8@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -590,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Bellegarde Jazz Latin 4tet +21h30
 DTSTART;TZID="UTC-05:00":20261123T190000
 DTEND;TZID="UTC-05:00":20261123T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:700e9422144191769a187d3d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -604,7 +575,7 @@ BEGIN:VEVENT
 SUMMARY:Bellbird - Claire Devlin Allison Burik Eli Davidovici Mili Hong
 DTSTART;TZID="UTC-05:00":20261123T203000
 DTEND;TZID="UTC-05:00":20261123T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:8dcc2a0990b9d065448e33df@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -618,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:Jazz et peinture en direct avec le Samuel Bonnet Trio
 DTSTART;TZID="UTC-05:00":20261124T170000
 DTEND;TZID="UTC-05:00":20261124T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:04d7bacdf48dc9cdfb1366e8@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -632,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:La Touche Manouche - jam manouche mensuel
 DTSTART;TZID="UTC-05:00":20261124T193000
 DTEND;TZID="UTC-05:00":20261124T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:0ce7f5b6d9572586f5935145@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -646,7 +617,7 @@ BEGIN:VEVENT
 SUMMARY:Rémi Bolduc - Les voix du souffle
 DTSTART;TZID="UTC-05:00":20261124T193000
 DTEND;TZID="UTC-05:00":20261124T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:81a989a090142ffdb67474ce@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -660,7 +631,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Bellegarde Trio avec invités + jam session
 DTSTART;TZID="UTC-05:00":20261124T213000
 DTEND;TZID="UTC-05:00":20261124T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:f9e83529f96a8bf2bd0277b7@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -674,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:John Klepko Trio
 DTSTART;TZID="UTC-05:00":20261125T183000
 DTEND;TZID="UTC-05:00":20261125T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:5ec25315ec7123d64c847c37@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -688,7 +659,7 @@ BEGIN:VEVENT
 SUMMARY:Mat Jon 4tet
 DTSTART;TZID="UTC-05:00":20261125T183000
 DTEND;TZID="UTC-05:00":20261125T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:a38cc9194b4e66f7e3ada423@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -703,7 +674,7 @@ SUMMARY:Mercredi soir jazz - Nicolas Bond Frank Lozano Donald Meunier Chri
  stian Pamerleau
 DTSTART;TZID="UTC-05:00":20261125T200000
 DTEND;TZID="UTC-05:00":20261125T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:1d774ec7242f317a2cb81037@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -717,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:MaB Jazz Trio : Thomas Durant et invités
 DTSTART;TZID="UTC-05:00":20261126T180000
 DTEND;TZID="UTC-05:00":20261126T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:e4326943d43b19e1b3fac73a@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -731,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:Rafael Zaldivar – Hommage au Buena Vista Social Club
 DTSTART;TZID="UTC-05:00":20261126T180000
 DTEND;TZID="UTC-05:00":20261126T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:f3ee382c3f1e1a6b68b98345@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -746,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:Samuel Lechasseur Trio
 DTSTART;TZID="UTC-05:00":20261126T180000
 DTEND;TZID="UTC-05:00":20261126T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:3bc7cfc53732d5feb5fc4af0@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -760,7 +731,7 @@ BEGIN:VEVENT
 SUMMARY:Combos Jazz de l'Université de Montréal
 DTSTART;TZID="UTC-05:00":20261126T190000
 DTEND;TZID="UTC-05:00":20261126T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:ff2ea7792976f8a9ac6a0e4b@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -774,7 +745,7 @@ BEGIN:VEVENT
 SUMMARY:Christine Tassan et Les Imposteures
 DTSTART;TZID="UTC-05:00":20261126T193000
 DTEND;TZID="UTC-05:00":20261126T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:bb03fb08485a68313836bc3f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -789,7 +760,7 @@ BEGIN:VEVENT
 SUMMARY:Ariane Racicot Trio - Danser avec le feu
 DTSTART;TZID="UTC-05:00":20261126T200000
 DTEND;TZID="UTC-05:00":20261126T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:5c6d5f05614ef24a8d9cb5a7@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -803,7 +774,7 @@ BEGIN:VEVENT
 SUMMARY:Dominique Fils‐Aimé - The Sunshine Tour
 DTSTART;TZID="UTC-05:00":20261126T200000
 DTEND;TZID="UTC-05:00":20261126T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:6f7abb43c33129b1404f6f93@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -818,7 +789,7 @@ BEGIN:VEVENT
 SUMMARY:Duncan Hunter-Neale Trio
 DTSTART;TZID="UTC-05:00":20261126T200000
 DTEND;TZID="UTC-05:00":20261126T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:5465d925e6cda347a7854cdb@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -829,10 +800,25 @@ STATUS:CONFIRMED
 URL:https://sortiesjazznights.com/events/trio-nuovo/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Kawandak
+DTSTART;TZID="UTC-05:00":20261126T203000
+DTEND;TZID="UTC-05:00":20261126T235900
+DTSTAMP:20261116T222844Z
+UID:1fb57ed568c52b35f299e41f@montreal-jazz-calendar
+CATEGORIES:Jazz
+DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
+ s/kawandak/
+LOCATION:Jeudis Jazz - Kafé Étudiant du Collège Lionel-Groulx\, 100 Duq
+ uet / Ste-Thérèse / 450-430-3120 ext 2569 / entrée : portes 5-6 rue St-
+ Louis
+STATUS:CONFIRMED
+URL:https://sortiesjazznights.com/events/kawandak/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Charlotte Désilets en duo
 DTSTART;TZID="UTC-05:00":20261127T193000
 DTEND;TZID="UTC-05:00":20261127T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:21c5a0525d5b9ab5ff1f673d@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -846,7 +832,7 @@ BEGIN:VEVENT
 SUMMARY:Isabella Hallia 4tet
 DTSTART;TZID="UTC-05:00":20261127T200000
 DTEND;TZID="UTC-05:00":20261127T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:feb1a73c67cbf73941b5a649@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -859,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:Élizabeth Cormier - Hommage à Dinah Washington
 DTSTART;TZID="UTC-05:00":20261127T200000
 DTEND;TZID="UTC-05:00":20261127T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:3efcef70ff3503c537a52b23@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -873,7 +859,7 @@ BEGIN:VEVENT
 SUMMARY:Anne Duchesne Jazz Band
 DTSTART;TZID="UTC-05:00":20261128T180000
 DTEND;TZID="UTC-05:00":20261128T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:b88a11dc23871cd07c210424@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -888,7 +874,7 @@ SUMMARY:Donny Lives III - Clerel David Vandervort Charles-William Mpondo F
  red Doston Ronny Désinor Hendry Massamba
 DTSTART;TZID="UTC-05:00":20261128T190000
 DTEND;TZID="UTC-05:00":20261128T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:3e69c7148575465f90088cf8@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -900,10 +886,25 @@ URL:https://sortiesjazznights.com/events/donny-lives-iii-clerel-david-vand
  ervort-charles-william-mpondo-fred-doston-ronny-desinor-hendry-massamba/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Jean-Nicolas Trottier's Acid Bunny - concert de lancement : « Mir
+ age » (2026)
+DTSTART;TZID="UTC-05:00":20261128T200000
+DTEND;TZID="UTC-05:00":20261128T235900
+DTSTAMP:20261116T222844Z
+UID:36c0ade91308939becdc19ad@montreal-jazz-calendar
+CATEGORIES:Jazz
+DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
+ s/acid-bunny-concert-de-lancement-mirage-2026/
+LOCATION:O Patro Vys\, 356 Mont-Royal E 514-845-3855
+STATUS:CONFIRMED
+URL:https://sortiesjazznights.com/events/acid-bunny-concert-de-lancement-m
+ irage-2026/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Rafael Salazar Devon Gillingham Tommy Crane + jam
 DTSTART;TZID="UTC-05:00":20261128T200000
 DTEND;TZID="UTC-05:00":20261128T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:95263b6be8936e010fbe0eb5@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -917,7 +918,7 @@ BEGIN:VEVENT
 SUMMARY:Rafael Salazar Jam Session
 DTSTART;TZID="UTC-05:00":20261128T200000
 DTEND;TZID="UTC-05:00":20261128T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:a8e1d727fbae6473305306cd@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -930,7 +931,7 @@ BEGIN:VEVENT
 SUMMARY:Robert Ménard Lauréat Cormier Yvon Plouffe
 DTSTART;TZID="UTC-05:00":20261129T170000
 DTEND;TZID="UTC-05:00":20261129T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:7f7af3202c63773450e66f2b@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -944,7 +945,7 @@ BEGIN:VEVENT
 SUMMARY:Félix Stüssi invite Pierre Tanguay
 DTSTART;TZID="UTC-05:00":20261129T183000
 DTEND;TZID="UTC-05:00":20261129T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:3427a00843bcfa1073493333@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -959,7 +960,7 @@ SUMMARY:Ariane Racicot - danser avec Bach (Festival International Bach Mon
  tréal)
 DTSTART;TZID="UTC-05:00":20261129T190000
 DTEND;TZID="UTC-05:00":20261129T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:b675d228ed401ca164464ef1@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -971,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:Coral Egan Trio +21h
 DTSTART;TZID="UTC-05:00":20261129T190000
 DTEND;TZID="UTC-05:00":20261129T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:d796507afcc2d8fad02cc1f8@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -985,7 +986,7 @@ BEGIN:VEVENT
 SUMMARY:Alex Bellegarde Jazz Latin 4tet +21h30
 DTSTART;TZID="UTC-05:00":20261130T190000
 DTEND;TZID="UTC-05:00":20261130T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:fdba0e2807629ae605f0035f@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
@@ -999,7 +1000,7 @@ BEGIN:VEVENT
 SUMMARY:Sapporo Jazz Jam avec Thuryn Mitchell et ami(e)s
 DTSTART;TZID="UTC-05:00":20261130T190000
 DTEND;TZID="UTC-05:00":20261130T235900
-DTSTAMP:20261116T071304Z
+DTSTAMP:20261116T222844Z
 UID:d324089e4b12c6157296b779@montreal-jazz-calendar
 CATEGORIES:Jazz
 DESCRIPTION:Source: sortiesJAZZnights\nhttps://sortiesjazznights.com/event
