@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T03:26:26.981102-05:00",
+  "updated": "2026-11-17T16:18:09.594093-05:00",
   "events": {
     "a55e272224d9bfc1ec01ff9f@montreal-jazz-calendar": {
       "source_id": "event_70679_0",
@@ -702,8 +702,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-11.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "02cd4e4ca38b30d1d55241e5@montreal-jazz-calendar": {
       "source_id": "event_68988_0",
@@ -713,8 +713,8 @@
       "venue": "Restaurant Au 14",
       "address": "14 Prince-Arthur O",
       "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "b97db4612a24f5d1de02010c@montreal-jazz-calendar": {
       "source_id": "event_70799_0",
@@ -724,8 +724,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/julie-morisod-4tet-jam-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
