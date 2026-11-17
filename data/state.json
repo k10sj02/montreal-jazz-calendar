@@ -1,39 +1,6 @@
 {
-  "updated": "2026-11-16T17:28:44.182214-05:00",
+  "updated": "2026-11-17T03:26:26.981102-05:00",
   "events": {
-    "1bcc2d78ab4c09772d6f2d88@montreal-jazz-calendar": {
-      "source_id": "event_68290_11",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-11-16T19:00:00-05:00",
-      "end": "2026-11-16T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-11.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "02cd4e4ca38b30d1d55241e5@montreal-jazz-calendar": {
-      "source_id": "event_68988_0",
-      "title": "Sapporo Jazz Jam avec Thuryn Mitchell et ami(e)s",
-      "start": "2026-11-16T19:00:00-05:00",
-      "end": "2026-11-16T23:59:00-05:00",
-      "venue": "Restaurant Au 14",
-      "address": "14 Prince-Arthur O",
-      "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "b97db4612a24f5d1de02010c@montreal-jazz-calendar": {
-      "source_id": "event_70799_0",
-      "title": "Julie Morisod 4tet + jam",
-      "start": "2026-11-16T20:30:00-05:00",
-      "end": "2026-11-16T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/julie-morisod-4tet-jam-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "a55e272224d9bfc1ec01ff9f@montreal-jazz-calendar": {
       "source_id": "event_70679_0",
       "title": "Soirée Communauté pour en savoir plus sur le Cabaret Jazz L'Entracte - entrée et consommations gratuits",
@@ -727,60 +694,38 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "61982955d0c65fa27eca3840@montreal-jazz-calendar": {
-      "source_id": "event_70746_0",
-      "title": "Félix Stüssi invite Annie Dominique",
-      "start": "2026-11-15T18:30:00-05:00",
-      "end": "2026-11-15T23:59:00-05:00",
-      "venue": "Les Soeurs Grises",
-      "address": "3188 Rue Masson 514-508-1615",
-      "url": "https://sortiesjazznights.com/events/felix-stussi-invite-annie-dominique-4/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "335186decdc17a0378be8451@montreal-jazz-calendar": {
-      "source_id": "event_67995_0",
-      "title": "Jazz vocal avec Annie Gagné et Denis Campeau",
-      "start": "2026-11-15T18:30:00-05:00",
-      "end": "2026-11-15T23:59:00-05:00",
-      "venue": "Brasserie artisanale Les sans-taverne",
-      "address": "Bâtiment 7 - 1900 rue Le Ber Pointe-St-Charles 514-536-0134",
-      "url": "https://sortiesjazznights.com/events/jazz-vocal-avec-annie-gagne-et-denis-campeau-9/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "ff99685f51cdc0213b361e4a@montreal-jazz-calendar": {
-      "source_id": "event_67371_0",
-      "title": "Coral Egan Trio +21h",
-      "start": "2026-11-15T19:00:00-05:00",
-      "end": "2026-11-15T23:59:00-05:00",
+    "1bcc2d78ab4c09772d6f2d88@montreal-jazz-calendar": {
+      "source_id": "event_68290_11",
+      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
+      "start": "2026-11-16T19:00:00-05:00",
+      "end": "2026-11-16T23:59:00-05:00",
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-11.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "4c5d0e5e2b5ef953a4e112f4@montreal-jazz-calendar": {
-      "source_id": "event_70800_0",
-      "title": "Manoel Vieira et Joao Lenhari - concert de lancement Réflexions",
-      "start": "2026-11-15T19:00:00-05:00",
-      "end": "2026-11-15T23:59:00-05:00",
-      "venue": "Upstairs Jazz Bar et Grill",
-      "address": "1254 Mackay 514-931-6808",
-      "url": "https://sortiesjazznights.com/events/manoel-vieira-et-joao-lenhari-concert-de-lancement-reflexions/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "02cd4e4ca38b30d1d55241e5@montreal-jazz-calendar": {
+      "source_id": "event_68988_0",
+      "title": "Sapporo Jazz Jam avec Thuryn Mitchell et ami(e)s",
+      "start": "2026-11-16T19:00:00-05:00",
+      "end": "2026-11-16T23:59:00-05:00",
+      "venue": "Restaurant Au 14",
+      "address": "14 Prince-Arthur O",
+      "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies-3/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "513408d6ca47b9469b14f3c4@montreal-jazz-calendar": {
-      "source_id": "event_70798_0",
-      "title": "Kevin Dean et ami.e.s jouent le répertoire Blue Note",
-      "start": "2026-11-15T20:30:00-05:00",
-      "end": "2026-11-15T23:59:00-05:00",
+    "b97db4612a24f5d1de02010c@montreal-jazz-calendar": {
+      "source_id": "event_70799_0",
+      "title": "Julie Morisod 4tet + jam",
+      "start": "2026-11-16T20:30:00-05:00",
+      "end": "2026-11-16T23:59:00-05:00",
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/kevin-dean-et-ami-e-s-jouent-le-repertoire-blue-note/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/julie-morisod-4tet-jam-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
