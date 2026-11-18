@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T02:54:01.049305-05:00",
+  "updated": "2026-11-18T15:51:52.449101-05:00",
   "events": {
     "c7bd01d56a7e90b31e8d927f@montreal-jazz-calendar": {
       "source_id": "event_55012_22",
@@ -111,6 +111,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "4fe30e9ebd1dcfa127c29bc0@montreal-jazz-calendar": {
+      "source_id": "event_70956_0",
+      "title": "L'Université McGill présente la relève + JAM!",
+      "start": "2026-11-19T20:30:00-05:00",
+      "end": "2026-11-19T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/luniversite-mcgill-presente-la-releve-jam/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "b908c6ae51f1744ce96043f0@montreal-jazz-calendar": {
       "source_id": "event_70879_0",
       "title": "Joe Sullivan 6tet",
@@ -119,6 +130,17 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/joe-sullivan-6tet/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "20149705ccc109d2fac083de@montreal-jazz-calendar": {
+      "source_id": "event_70961_0",
+      "title": "Roddy Elias Kate Wyatt 4tet avec Adrian Vedady and Louis-Vincent Hamel",
+      "start": "2026-11-20T19:00:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
+      "venue": "Upstairs Jazz Bar et Grill",
+      "address": "1254 Mackay 514-931-6808",
+      "url": "https://sortiesjazznights.com/events/roddy-elias-kate-wyatt-4tet-avec-adrian-vedady-and-louis-vincent-hamel/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -221,6 +243,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "d52778922bc3837324a6518c@montreal-jazz-calendar": {
+      "source_id": "event_70957_0",
+      "title": "Amrita Saini et Veronica Chasnoff Quintet",
+      "start": "2026-11-21T20:30:00-05:00",
+      "end": "2026-11-21T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/amrita-saini-et-veronica-chasnoff-quintet/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "64ca2c8077d54d36b89675b1@montreal-jazz-calendar": {
       "source_id": "event_70687_0",
       "title": "Robert Ménard Frédéric Darveau Alain Bastien",
@@ -245,7 +278,7 @@
     },
     "c5575c36e0c469cada915958@montreal-jazz-calendar": {
       "source_id": "event_70477_0",
-      "title": "Thierry Du Sablon 4tet + Laurent Perrault-Jolicoeur 5tet",
+      "title": "Laurent Perrault-Jolicoeur 5tet + Thierry Du Sablon 4tet",
       "start": "2026-11-22T19:30:00-05:00",
       "end": "2026-11-22T23:59:00-05:00",
       "venue": "Casa del Popolo",
@@ -295,6 +328,17 @@
       "venue": "P'tit Ours",
       "address": "5589 Ave. Du Parc",
       "url": "https://sortiesjazznights.com/events/bellbird-claire-devlin-allison-burik-eli-davidovici-mili-hong/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "a083550dd0e77974092c100b@montreal-jazz-calendar": {
+      "source_id": "event_70958_0",
+      "title": "Sarah Stevenson Quartet + JAM!",
+      "start": "2026-11-23T20:30:00-05:00",
+      "end": "2026-11-23T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/sarah-stevenson-quartet-jam/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -636,8 +680,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/soiree-communaute-pour-en-savoir-plus-sur-le-cabaret-jazz-lentracte-entree-et-consommations-gratuits/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9d5c51ce3ce2546dedb4a074@montreal-jazz-calendar": {
       "source_id": "event_70695_0",
@@ -647,8 +691,8 @@
       "venue": "Pizzeria Geppetto Beaubien",
       "address": "2510 Rue Beaubien E 514-439-8599",
       "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-14/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "fca3fcb3cd5f23ceef985fc2@montreal-jazz-calendar": {
       "source_id": "event_70655_0",
@@ -658,8 +702,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/mardis-big-band-altsys-orchestra-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "aa1b1706642f5b4c898117de@montreal-jazz-calendar": {
       "source_id": "event_69416_0",
@@ -669,8 +713,8 @@
       "venue": "Maison de la culture Côte-des-Neiges",
       "address": "5290 Côte-des-Neiges 514-872-6889",
       "url": "https://sortiesjazznights.com/events/remi-bolduc-et-geoffrey-keezer/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "6ed1bd68e077153e4d430066@montreal-jazz-calendar": {
       "source_id": "event_70827_0",
@@ -680,8 +724,8 @@
       "venue": "Théâtre Fairmount",
       "address": "5240 Ave. du Parc 514-563-1395",
       "url": "https://sortiesjazznights.com/events/surprise-chef-avec-ben-hackett-frogs-in-a-pond/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "123d7738229b95a519e97e98@montreal-jazz-calendar": {
       "source_id": "event_61330_16",
@@ -691,8 +735,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-16.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
