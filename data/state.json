@@ -1,72 +1,6 @@
 {
-  "updated": "2026-11-17T16:18:09.594093-05:00",
+  "updated": "2026-11-18T02:54:01.049305-05:00",
   "events": {
-    "a55e272224d9bfc1ec01ff9f@montreal-jazz-calendar": {
-      "source_id": "event_70679_0",
-      "title": "Soirée Communauté pour en savoir plus sur le Cabaret Jazz L'Entracte - entrée et consommations gratuits",
-      "start": "2026-11-17T18:00:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/soiree-communaute-pour-en-savoir-plus-sur-le-cabaret-jazz-lentracte-entree-et-consommations-gratuits/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "9d5c51ce3ce2546dedb4a074@montreal-jazz-calendar": {
-      "source_id": "event_70695_0",
-      "title": "Robert Ménard Frédéric Darveau",
-      "start": "2026-11-17T18:30:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Pizzeria Geppetto Beaubien",
-      "address": "2510 Rue Beaubien E 514-439-8599",
-      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-14/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "fca3fcb3cd5f23ceef985fc2@montreal-jazz-calendar": {
-      "source_id": "event_70655_0",
-      "title": "Mardis Big Band - Altsys Orchestra",
-      "start": "2026-11-17T19:00:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/mardis-big-band-altsys-orchestra-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "aa1b1706642f5b4c898117de@montreal-jazz-calendar": {
-      "source_id": "event_69416_0",
-      "title": "Rémi Bolduc et Geoffrey Keezer",
-      "start": "2026-11-17T19:30:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Maison de la culture Côte-des-Neiges",
-      "address": "5290 Côte-des-Neiges 514-872-6889",
-      "url": "https://sortiesjazznights.com/events/remi-bolduc-et-geoffrey-keezer/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "6ed1bd68e077153e4d430066@montreal-jazz-calendar": {
-      "source_id": "event_70827_0",
-      "title": "Surprise Chef avec Ben Hackett - Frogs In A Pond",
-      "start": "2026-11-17T20:00:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Théâtre Fairmount",
-      "address": "5240 Ave. du Parc 514-563-1395",
-      "url": "https://sortiesjazznights.com/events/surprise-chef-avec-ben-hackett-frogs-in-a-pond/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "123d7738229b95a519e97e98@montreal-jazz-calendar": {
-      "source_id": "event_61330_16",
-      "title": "Alex Bellegarde Trio avec invités + jam session",
-      "start": "2026-11-17T21:30:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-16.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "c7bd01d56a7e90b31e8d927f@montreal-jazz-calendar": {
       "source_id": "event_55012_22",
       "title": "John Klepko Trio",
@@ -694,38 +628,71 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "1bcc2d78ab4c09772d6f2d88@montreal-jazz-calendar": {
-      "source_id": "event_68290_11",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-11-16T19:00:00-05:00",
-      "end": "2026-11-16T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-11.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "02cd4e4ca38b30d1d55241e5@montreal-jazz-calendar": {
-      "source_id": "event_68988_0",
-      "title": "Sapporo Jazz Jam avec Thuryn Mitchell et ami(e)s",
-      "start": "2026-11-16T19:00:00-05:00",
-      "end": "2026-11-16T23:59:00-05:00",
-      "venue": "Restaurant Au 14",
-      "address": "14 Prince-Arthur O",
-      "url": "https://sortiesjazznights.com/events/sapporo-jazz-jam-avec-thuryn-mitchell-et-amies-3/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "b97db4612a24f5d1de02010c@montreal-jazz-calendar": {
-      "source_id": "event_70799_0",
-      "title": "Julie Morisod 4tet + jam",
-      "start": "2026-11-16T20:30:00-05:00",
-      "end": "2026-11-16T23:59:00-05:00",
+    "a55e272224d9bfc1ec01ff9f@montreal-jazz-calendar": {
+      "source_id": "event_70679_0",
+      "title": "Soirée Communauté pour en savoir plus sur le Cabaret Jazz L'Entracte - entrée et consommations gratuits",
+      "start": "2026-11-17T18:00:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/julie-morisod-4tet-jam-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/soiree-communaute-pour-en-savoir-plus-sur-le-cabaret-jazz-lentracte-entree-et-consommations-gratuits/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "9d5c51ce3ce2546dedb4a074@montreal-jazz-calendar": {
+      "source_id": "event_70695_0",
+      "title": "Robert Ménard Frédéric Darveau",
+      "start": "2026-11-17T18:30:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "venue": "Pizzeria Geppetto Beaubien",
+      "address": "2510 Rue Beaubien E 514-439-8599",
+      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-14/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "fca3fcb3cd5f23ceef985fc2@montreal-jazz-calendar": {
+      "source_id": "event_70655_0",
+      "title": "Mardis Big Band - Altsys Orchestra",
+      "start": "2026-11-17T19:00:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/mardis-big-band-altsys-orchestra-3/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "aa1b1706642f5b4c898117de@montreal-jazz-calendar": {
+      "source_id": "event_69416_0",
+      "title": "Rémi Bolduc et Geoffrey Keezer",
+      "start": "2026-11-17T19:30:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "venue": "Maison de la culture Côte-des-Neiges",
+      "address": "5290 Côte-des-Neiges 514-872-6889",
+      "url": "https://sortiesjazznights.com/events/remi-bolduc-et-geoffrey-keezer/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "6ed1bd68e077153e4d430066@montreal-jazz-calendar": {
+      "source_id": "event_70827_0",
+      "title": "Surprise Chef avec Ben Hackett - Frogs In A Pond",
+      "start": "2026-11-17T20:00:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "venue": "Théâtre Fairmount",
+      "address": "5240 Ave. du Parc 514-563-1395",
+      "url": "https://sortiesjazznights.com/events/surprise-chef-avec-ben-hackett-frogs-in-a-pond/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "123d7738229b95a519e97e98@montreal-jazz-calendar": {
+      "source_id": "event_61330_16",
+      "title": "Alex Bellegarde Trio avec invités + jam session",
+      "start": "2026-11-17T21:30:00-05:00",
+      "end": "2026-11-17T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-16.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
