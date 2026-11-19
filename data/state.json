@@ -1,50 +1,6 @@
 {
-  "updated": "2026-11-18T15:51:52.449101-05:00",
+  "updated": "2026-11-19T02:52:50.406792-05:00",
   "events": {
-    "c7bd01d56a7e90b31e8d927f@montreal-jazz-calendar": {
-      "source_id": "event_55012_22",
-      "title": "John Klepko Trio",
-      "start": "2026-11-18T18:30:00-05:00",
-      "end": "2026-11-18T23:59:00-05:00",
-      "venue": "Café Passion",
-      "address": "476 Victoria / Saint-Lambert 450-671-1405",
-      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-22.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "864b9b0406d9e3e63e50e1db@montreal-jazz-calendar": {
-      "source_id": "event_67814_13",
-      "title": "Mat Jon 4tet",
-      "start": "2026-11-18T18:30:00-05:00",
-      "end": "2026-11-18T23:59:00-05:00",
-      "venue": "Marcus Restaurant - Hotel Four Seasons",
-      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
-      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-13.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "d85819ad60e3d85409213b67@montreal-jazz-calendar": {
-      "source_id": "event_69848_0",
-      "title": "Marianne Trudel Trio avec Étienne Lafrance et Sacha Daoud jouent Jobim",
-      "start": "2026-11-18T20:00:00-05:00",
-      "end": "2026-11-18T23:59:00-05:00",
-      "venue": "Salle Désilets (Cégep Marie-Victorin)",
-      "address": "7000 Marie-Victorin 514-328-3878",
-      "url": "https://sortiesjazznights.com/events/marianne-trudel-trio-avec-etienne-lafrance-et-sacha-daoud-jouent-jobim/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "57898aa0bc71adb5ebbe0b1d@montreal-jazz-calendar": {
-      "source_id": "event_70267_0",
-      "title": "Mercredi soir jazz - Griffin Linklater et invités",
-      "start": "2026-11-18T20:00:00-05:00",
-      "end": "2026-11-18T23:59:00-05:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-griffin-linklater-et-invites/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "2fedac3091b0ac8b8c65e863@montreal-jazz-calendar": {
       "source_id": "event_60744_2",
       "title": "MaB Jazz Trio : Thomas Durant et invités",
@@ -672,71 +628,49 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "a55e272224d9bfc1ec01ff9f@montreal-jazz-calendar": {
-      "source_id": "event_70679_0",
-      "title": "Soirée Communauté pour en savoir plus sur le Cabaret Jazz L'Entracte - entrée et consommations gratuits",
-      "start": "2026-11-17T18:00:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/soiree-communaute-pour-en-savoir-plus-sur-le-cabaret-jazz-lentracte-entree-et-consommations-gratuits/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "c7bd01d56a7e90b31e8d927f@montreal-jazz-calendar": {
+      "source_id": "event_55012_22",
+      "title": "John Klepko Trio",
+      "start": "2026-11-18T18:30:00-05:00",
+      "end": "2026-11-18T23:59:00-05:00",
+      "venue": "Café Passion",
+      "address": "476 Victoria / Saint-Lambert 450-671-1405",
+      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-22.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "9d5c51ce3ce2546dedb4a074@montreal-jazz-calendar": {
-      "source_id": "event_70695_0",
-      "title": "Robert Ménard Frédéric Darveau",
-      "start": "2026-11-17T18:30:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Pizzeria Geppetto Beaubien",
-      "address": "2510 Rue Beaubien E 514-439-8599",
-      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-14/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "864b9b0406d9e3e63e50e1db@montreal-jazz-calendar": {
+      "source_id": "event_67814_13",
+      "title": "Mat Jon 4tet",
+      "start": "2026-11-18T18:30:00-05:00",
+      "end": "2026-11-18T23:59:00-05:00",
+      "venue": "Marcus Restaurant - Hotel Four Seasons",
+      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
+      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-13.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "fca3fcb3cd5f23ceef985fc2@montreal-jazz-calendar": {
-      "source_id": "event_70655_0",
-      "title": "Mardis Big Band - Altsys Orchestra",
-      "start": "2026-11-17T19:00:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/mardis-big-band-altsys-orchestra-3/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "d85819ad60e3d85409213b67@montreal-jazz-calendar": {
+      "source_id": "event_69848_0",
+      "title": "Marianne Trudel Trio avec Étienne Lafrance et Sacha Daoud jouent Jobim",
+      "start": "2026-11-18T20:00:00-05:00",
+      "end": "2026-11-18T23:59:00-05:00",
+      "venue": "Salle Désilets (Cégep Marie-Victorin)",
+      "address": "7000 Marie-Victorin 514-328-3878",
+      "url": "https://sortiesjazznights.com/events/marianne-trudel-trio-avec-etienne-lafrance-et-sacha-daoud-jouent-jobim/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "aa1b1706642f5b4c898117de@montreal-jazz-calendar": {
-      "source_id": "event_69416_0",
-      "title": "Rémi Bolduc et Geoffrey Keezer",
-      "start": "2026-11-17T19:30:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Maison de la culture Côte-des-Neiges",
-      "address": "5290 Côte-des-Neiges 514-872-6889",
-      "url": "https://sortiesjazznights.com/events/remi-bolduc-et-geoffrey-keezer/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "6ed1bd68e077153e4d430066@montreal-jazz-calendar": {
-      "source_id": "event_70827_0",
-      "title": "Surprise Chef avec Ben Hackett - Frogs In A Pond",
-      "start": "2026-11-17T20:00:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Théâtre Fairmount",
-      "address": "5240 Ave. du Parc 514-563-1395",
-      "url": "https://sortiesjazznights.com/events/surprise-chef-avec-ben-hackett-frogs-in-a-pond/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "123d7738229b95a519e97e98@montreal-jazz-calendar": {
-      "source_id": "event_61330_16",
-      "title": "Alex Bellegarde Trio avec invités + jam session",
-      "start": "2026-11-17T21:30:00-05:00",
-      "end": "2026-11-17T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-16.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "57898aa0bc71adb5ebbe0b1d@montreal-jazz-calendar": {
+      "source_id": "event_70267_0",
+      "title": "Mercredi soir jazz - Griffin Linklater et invités",
+      "start": "2026-11-18T20:00:00-05:00",
+      "end": "2026-11-18T23:59:00-05:00",
+      "venue": "Brasserie Beaubien",
+      "address": "73 Beaubien E 514-495-8141",
+      "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-griffin-linklater-et-invites/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
