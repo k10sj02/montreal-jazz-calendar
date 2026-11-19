@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T02:52:50.406792-05:00",
+  "updated": "2026-11-19T15:56:34.953886-05:00",
   "events": {
     "2fedac3091b0ac8b8c65e863@montreal-jazz-calendar": {
       "source_id": "event_60744_2",
@@ -562,6 +562,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ca1066f1506ae4bfb676383d@montreal-jazz-calendar": {
+      "source_id": "event_71009_0",
+      "title": "Aguila de Luz Trio - Géraldine Eguiluz Patrick Dostie Pierre Cartier",
+      "start": "2026-11-29T17:00:00-05:00",
+      "end": "2026-11-29T23:59:00-05:00",
+      "venue": "Vices & Versa",
+      "address": "6631, boul. St-Laurent 514-272-2498",
+      "url": "https://sortiesjazznights.com/events/aguila-de-luz-trio-geraldine-eguiluz-patrick-dostie-pierre-cartier/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "7f7af3202c63773450e66f2b@montreal-jazz-calendar": {
       "source_id": "event_70688_0",
       "title": "Robert Ménard Lauréat Cormier Yvon Plouffe",
@@ -636,8 +647,8 @@
       "venue": "Café Passion",
       "address": "476 Victoria / Saint-Lambert 450-671-1405",
       "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-22.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "864b9b0406d9e3e63e50e1db@montreal-jazz-calendar": {
       "source_id": "event_67814_13",
@@ -647,8 +658,8 @@
       "venue": "Marcus Restaurant - Hotel Four Seasons",
       "address": "1440 Rue de la Montagne Montréal 514-843-2525",
       "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-13.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d85819ad60e3d85409213b67@montreal-jazz-calendar": {
       "source_id": "event_69848_0",
@@ -658,8 +669,8 @@
       "venue": "Salle Désilets (Cégep Marie-Victorin)",
       "address": "7000 Marie-Victorin 514-328-3878",
       "url": "https://sortiesjazznights.com/events/marianne-trudel-trio-avec-etienne-lafrance-et-sacha-daoud-jouent-jobim/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "57898aa0bc71adb5ebbe0b1d@montreal-jazz-calendar": {
       "source_id": "event_70267_0",
@@ -669,8 +680,8 @@
       "venue": "Brasserie Beaubien",
       "address": "73 Beaubien E 514-495-8141",
       "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-griffin-linklater-et-invites/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
