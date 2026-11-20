@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T02:42:47.889532-05:00",
+  "updated": "2026-11-20T15:41:14.060125-05:00",
   "events": {
     "b908c6ae51f1744ce96043f0@montreal-jazz-calendar": {
       "source_id": "event_70879_0",
@@ -570,8 +570,8 @@
       "venue": "MaBrasserie",
       "address": "2300 Rue Holt 514-508-3309",
       "url": "https://sortiesjazznights.com/events/mab-jazz-trio-thomas-durant-et-invites-3/var/ri-2.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "85bb4a0e25c86f44aab8efd0@montreal-jazz-calendar": {
       "source_id": "event_66572_14",
@@ -581,8 +581,8 @@
       "venue": "Nevski",
       "address": "75 rue Queen 514-397-0743",
       "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-14.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "696fe2030aaa505f89dec5a8@montreal-jazz-calendar": {
       "source_id": "event_60082_2",
@@ -592,8 +592,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/combo-jazz-de-l-universite-de-montreal/var/ri-2.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a266323be6f42ab0d7ad4e13@montreal-jazz-calendar": {
       "source_id": "event_70270_0",
@@ -603,8 +603,8 @@
       "venue": "Brasserie Beaubien",
       "address": "73 Beaubien E 514-495-8141",
       "url": "https://sortiesjazznights.com/events/jazzworks-jazz-jam-avec-adrian-vedady-et-plus-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9f65b907dbc1dc4db9224215@montreal-jazz-calendar": {
       "source_id": "event_66797_0",
@@ -614,8 +614,8 @@
       "venue": "Théâtre Beanfield",
       "address": "2490 Notre-Dame O514-492-1775",
       "url": "https://sortiesjazznights.com/events/ezra-collective-here-because-of-hope-tour/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a3b4e4442a53532c32ea4c5e@montreal-jazz-calendar": {
       "source_id": "event_69661_0",
@@ -625,8 +625,8 @@
       "venue": "Espace St-Denis / Trattoria Dell'Arte",
       "address": "1594 St-Denis 514-849-4211",
       "url": "https://sortiesjazznights.com/events/trio-nuovo-felix-stussi-alex-le-blanc-jules-payette-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "4fe30e9ebd1dcfa127c29bc0@montreal-jazz-calendar": {
       "source_id": "event_70956_0",
@@ -636,8 +636,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/luniversite-mcgill-presente-la-releve-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
