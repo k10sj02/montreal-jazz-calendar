@@ -1,83 +1,6 @@
 {
-  "updated": "2026-11-20T15:41:14.060125-05:00",
+  "updated": "2026-11-21T02:39:32.695638-05:00",
   "events": {
-    "b908c6ae51f1744ce96043f0@montreal-jazz-calendar": {
-      "source_id": "event_70879_0",
-      "title": "Joe Sullivan 6tet",
-      "start": "2026-11-20T19:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/joe-sullivan-6tet/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "20149705ccc109d2fac083de@montreal-jazz-calendar": {
-      "source_id": "event_70961_0",
-      "title": "Roddy Elias Kate Wyatt 4tet avec Adrian Vedady and Louis-Vincent Hamel",
-      "start": "2026-11-20T19:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Upstairs Jazz Bar et Grill",
-      "address": "1254 Mackay 514-931-6808",
-      "url": "https://sortiesjazznights.com/events/roddy-elias-kate-wyatt-4tet-avec-adrian-vedady-and-louis-vincent-hamel/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "edb7c6778729ed846ce5a6e4@montreal-jazz-calendar": {
-      "source_id": "event_70742_0",
-      "title": "Everybody Digs Bill Evans",
-      "start": "2026-11-20T19:30:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "BBAM! Gallery",
-      "address": "808 Atwater 514-952-6190",
-      "url": "https://sortiesjazznights.com/events/everybody-digs-bill-evans/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f3e1faa854bade8610d9ab11@montreal-jazz-calendar": {
-      "source_id": "event_70604_0",
-      "title": "Isabella Hallia Trio",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Magpie Magique",
-      "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/isabelle-hallia-trio/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "d349a48a725fdcd52ed7ddd9@montreal-jazz-calendar": {
-      "source_id": "event_70873_0",
-      "title": "L. Shankar + Selvaganesh Vinayakram Swaminathan Selvaganesh Amit Kavthekar (Traquen'Art/Centre Kabir)",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Église Saint-Enfant-Jésus",
-      "address": "5039 St-Dominique / Montréal",
-      "url": "https://sortiesjazznights.com/events/l-shankar-selvaganesh-vinayakram-swaminathan-selvaganesh-amit-kavthekar-traquenart-centre-kabir/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "edc965905c4a6f15c596c87c@montreal-jazz-calendar": {
-      "source_id": "event_70349_0",
-      "title": "Renée Charron Jazz Project",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Café Roxane",
-      "address": "248 Rue Villeneuve O",
-      "url": "https://sortiesjazznights.com/events/renee-charron-jazz-project-4/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ebbb3ed6eba0858747234c97@montreal-jazz-calendar": {
-      "source_id": "event_70653_0",
-      "title": "Charlotte Désilets - Le Continuum et Salomé Perli - plateau double",
-      "start": "2026-11-20T20:30:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/charlotte-desilets-le-continuum-et-salome-perli-plateau-double/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "2ec1a595dcff5d932e1d5d68@montreal-jazz-calendar": {
       "source_id": "event_70880_0",
       "title": "Elizabeth Shepherd Michael Occhipinti Derek DiFillipo Tony Ferraro",
@@ -562,82 +485,82 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "2fedac3091b0ac8b8c65e863@montreal-jazz-calendar": {
-      "source_id": "event_60744_2",
-      "title": "MaB Jazz Trio : Thomas Durant et invités",
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": "2026-11-19T23:59:00-05:00",
-      "venue": "MaBrasserie",
-      "address": "2300 Rue Holt 514-508-3309",
-      "url": "https://sortiesjazznights.com/events/mab-jazz-trio-thomas-durant-et-invites-3/var/ri-2.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "85bb4a0e25c86f44aab8efd0@montreal-jazz-calendar": {
-      "source_id": "event_66572_14",
-      "title": "Samuel Lechasseur Trio",
-      "start": "2026-11-19T18:00:00-05:00",
-      "end": "2026-11-19T23:59:00-05:00",
-      "venue": "Nevski",
-      "address": "75 rue Queen 514-397-0743",
-      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-14.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "696fe2030aaa505f89dec5a8@montreal-jazz-calendar": {
-      "source_id": "event_60082_2",
-      "title": "Combos Jazz de l'Université de Montréal",
-      "start": "2026-11-19T19:00:00-05:00",
-      "end": "2026-11-19T23:59:00-05:00",
+    "b908c6ae51f1744ce96043f0@montreal-jazz-calendar": {
+      "source_id": "event_70879_0",
+      "title": "Joe Sullivan 6tet",
+      "start": "2026-11-20T19:00:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/combo-jazz-de-l-universite-de-montreal/var/ri-2.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/joe-sullivan-6tet/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "a266323be6f42ab0d7ad4e13@montreal-jazz-calendar": {
-      "source_id": "event_70270_0",
-      "title": "JazzWorks jazz jam avec Adrian Vedady et plus",
-      "start": "2026-11-19T19:30:00-05:00",
-      "end": "2026-11-19T23:59:00-05:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/jazzworks-jazz-jam-avec-adrian-vedady-et-plus-3/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "20149705ccc109d2fac083de@montreal-jazz-calendar": {
+      "source_id": "event_70961_0",
+      "title": "Roddy Elias Kate Wyatt 4tet avec Adrian Vedady and Louis-Vincent Hamel",
+      "start": "2026-11-20T19:00:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
+      "venue": "Upstairs Jazz Bar et Grill",
+      "address": "1254 Mackay 514-931-6808",
+      "url": "https://sortiesjazznights.com/events/roddy-elias-kate-wyatt-4tet-avec-adrian-vedady-and-louis-vincent-hamel/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "9f65b907dbc1dc4db9224215@montreal-jazz-calendar": {
-      "source_id": "event_66797_0",
-      "title": "Ezra Collective - Here Because of Hope Tour",
-      "start": "2026-11-19T20:00:00-05:00",
-      "end": "2026-11-19T23:59:00-05:00",
-      "venue": "Théâtre Beanfield",
-      "address": "2490 Notre-Dame O514-492-1775",
-      "url": "https://sortiesjazznights.com/events/ezra-collective-here-because-of-hope-tour/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "edb7c6778729ed846ce5a6e4@montreal-jazz-calendar": {
+      "source_id": "event_70742_0",
+      "title": "Everybody Digs Bill Evans",
+      "start": "2026-11-20T19:30:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
+      "venue": "BBAM! Gallery",
+      "address": "808 Atwater 514-952-6190",
+      "url": "https://sortiesjazznights.com/events/everybody-digs-bill-evans/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "a3b4e4442a53532c32ea4c5e@montreal-jazz-calendar": {
-      "source_id": "event_69661_0",
-      "title": "Trio Nuovo - Félix Stüssi Alex Le Blanc Jules Payette",
-      "start": "2026-11-19T20:00:00-05:00",
-      "end": "2026-11-19T23:59:00-05:00",
-      "venue": "Espace St-Denis / Trattoria Dell'Arte",
-      "address": "1594 St-Denis 514-849-4211",
-      "url": "https://sortiesjazznights.com/events/trio-nuovo-felix-stussi-alex-le-blanc-jules-payette-3/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "f3e1faa854bade8610d9ab11@montreal-jazz-calendar": {
+      "source_id": "event_70604_0",
+      "title": "Isabella Hallia Trio",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
+      "venue": "Magpie Magique",
+      "address": "4670 rue Saint-Denis 514-759-6247",
+      "url": "https://sortiesjazznights.com/events/isabelle-hallia-trio/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "4fe30e9ebd1dcfa127c29bc0@montreal-jazz-calendar": {
-      "source_id": "event_70956_0",
-      "title": "L'Université McGill présente la relève + JAM!",
-      "start": "2026-11-19T20:30:00-05:00",
-      "end": "2026-11-19T23:59:00-05:00",
+    "d349a48a725fdcd52ed7ddd9@montreal-jazz-calendar": {
+      "source_id": "event_70873_0",
+      "title": "L. Shankar + Selvaganesh Vinayakram Swaminathan Selvaganesh Amit Kavthekar (Traquen'Art/Centre Kabir)",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
+      "venue": "Église Saint-Enfant-Jésus",
+      "address": "5039 St-Dominique / Montréal",
+      "url": "https://sortiesjazznights.com/events/l-shankar-selvaganesh-vinayakram-swaminathan-selvaganesh-amit-kavthekar-traquenart-centre-kabir/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "edc965905c4a6f15c596c87c@montreal-jazz-calendar": {
+      "source_id": "event_70349_0",
+      "title": "Renée Charron Jazz Project",
+      "start": "2026-11-20T20:00:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
+      "venue": "Café Roxane",
+      "address": "248 Rue Villeneuve O",
+      "url": "https://sortiesjazznights.com/events/renee-charron-jazz-project-4/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "ebbb3ed6eba0858747234c97@montreal-jazz-calendar": {
+      "source_id": "event_70653_0",
+      "title": "Charlotte Désilets - Le Continuum et Salomé Perli - plateau double",
+      "start": "2026-11-20T20:30:00-05:00",
+      "end": "2026-11-20T23:59:00-05:00",
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/luniversite-mcgill-presente-la-releve-jam/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/charlotte-desilets-le-continuum-et-salome-perli-plateau-double/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
