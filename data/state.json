@@ -1,61 +1,6 @@
 {
-  "updated": "2026-11-21T14:44:35.619537-05:00",
+  "updated": "2026-11-22T02:24:18.714701-05:00",
   "events": {
-    "2ec1a595dcff5d932e1d5d68@montreal-jazz-calendar": {
-      "source_id": "event_70880_0",
-      "title": "Elizabeth Shepherd Michael Occhipinti Derek DiFillipo Tony Ferraro",
-      "start": "2026-11-21T19:00:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/elizabeth-shepherd-michael-occhipinti-derek-difillipo-tony-ferraro/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "96102c3f37a05ad6f8e7163e@montreal-jazz-calendar": {
-      "source_id": "event_70156_0",
-      "title": "Trio Bossa Nova",
-      "start": "2026-11-21T19:30:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/trio-bossa-nova/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "2b37136916b63e54fb9edfbb@montreal-jazz-calendar": {
-      "source_id": "event_67931_0",
-      "title": "L'Orchestre national de jazz de Montréal - Marianne Trudel - Au centre, la lumière",
-      "start": "2026-11-21T20:00:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "Place des Arts - Cinquième Salle",
-      "address": "175 Ste-Catherine O / 514-842-8112",
-      "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-marianne-trudel-au-centre-la-lumiere/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "cb2709baec083b0f7e51b7b2@montreal-jazz-calendar": {
-      "source_id": "event_70201_0",
-      "title": "Rafael Salazar Devon Gillingham Jacob Wutzke",
-      "start": "2026-11-21T20:00:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "Magpie Magique",
-      "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-jacob-wutzke-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "d52778922bc3837324a6518c@montreal-jazz-calendar": {
-      "source_id": "event_70957_0",
-      "title": "Amrita Saini et Veronica Chasnoff Quintet",
-      "start": "2026-11-21T20:30:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/amrita-saini-et-veronica-chasnoff-quintet/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "64ca2c8077d54d36b89675b1@montreal-jazz-calendar": {
       "source_id": "event_70687_0",
       "title": "Robert Ménard Frédéric Darveau Alain Bastien",
@@ -507,82 +452,60 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "b908c6ae51f1744ce96043f0@montreal-jazz-calendar": {
-      "source_id": "event_70879_0",
-      "title": "Joe Sullivan 6tet",
-      "start": "2026-11-20T19:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
+    "2ec1a595dcff5d932e1d5d68@montreal-jazz-calendar": {
+      "source_id": "event_70880_0",
+      "title": "Elizabeth Shepherd Michael Occhipinti Derek DiFillipo Tony Ferraro",
+      "start": "2026-11-21T19:00:00-05:00",
+      "end": "2026-11-21T23:59:00-05:00",
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/joe-sullivan-6tet/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/elizabeth-shepherd-michael-occhipinti-derek-difillipo-tony-ferraro/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "20149705ccc109d2fac083de@montreal-jazz-calendar": {
-      "source_id": "event_70961_0",
-      "title": "Roddy Elias Kate Wyatt 4tet avec Adrian Vedady and Louis-Vincent Hamel",
-      "start": "2026-11-20T19:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Upstairs Jazz Bar et Grill",
-      "address": "1254 Mackay 514-931-6808",
-      "url": "https://sortiesjazznights.com/events/roddy-elias-kate-wyatt-4tet-avec-adrian-vedady-and-louis-vincent-hamel/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "96102c3f37a05ad6f8e7163e@montreal-jazz-calendar": {
+      "source_id": "event_70156_0",
+      "title": "Trio Bossa Nova",
+      "start": "2026-11-21T19:30:00-05:00",
+      "end": "2026-11-21T23:59:00-05:00",
+      "venue": "La Brassée",
+      "address": "2522 Beaubien E",
+      "url": "https://sortiesjazznights.com/events/trio-bossa-nova/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "edb7c6778729ed846ce5a6e4@montreal-jazz-calendar": {
-      "source_id": "event_70742_0",
-      "title": "Everybody Digs Bill Evans",
-      "start": "2026-11-20T19:30:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "BBAM! Gallery",
-      "address": "808 Atwater 514-952-6190",
-      "url": "https://sortiesjazznights.com/events/everybody-digs-bill-evans/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "2b37136916b63e54fb9edfbb@montreal-jazz-calendar": {
+      "source_id": "event_67931_0",
+      "title": "L'Orchestre national de jazz de Montréal - Marianne Trudel - Au centre, la lumière",
+      "start": "2026-11-21T20:00:00-05:00",
+      "end": "2026-11-21T23:59:00-05:00",
+      "venue": "Place des Arts - Cinquième Salle",
+      "address": "175 Ste-Catherine O / 514-842-8112",
+      "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-marianne-trudel-au-centre-la-lumiere/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "f3e1faa854bade8610d9ab11@montreal-jazz-calendar": {
-      "source_id": "event_70604_0",
-      "title": "Isabella Hallia Trio",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
+    "cb2709baec083b0f7e51b7b2@montreal-jazz-calendar": {
+      "source_id": "event_70201_0",
+      "title": "Rafael Salazar Devon Gillingham Jacob Wutzke",
+      "start": "2026-11-21T20:00:00-05:00",
+      "end": "2026-11-21T23:59:00-05:00",
       "venue": "Magpie Magique",
       "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/isabelle-hallia-trio/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-jacob-wutzke-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "d349a48a725fdcd52ed7ddd9@montreal-jazz-calendar": {
-      "source_id": "event_70873_0",
-      "title": "L. Shankar + Selvaganesh Vinayakram Swaminathan Selvaganesh Amit Kavthekar (Traquen'Art/Centre Kabir)",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Église Saint-Enfant-Jésus",
-      "address": "5039 St-Dominique / Montréal",
-      "url": "https://sortiesjazznights.com/events/l-shankar-selvaganesh-vinayakram-swaminathan-selvaganesh-amit-kavthekar-traquenart-centre-kabir/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "edc965905c4a6f15c596c87c@montreal-jazz-calendar": {
-      "source_id": "event_70349_0",
-      "title": "Renée Charron Jazz Project",
-      "start": "2026-11-20T20:00:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
-      "venue": "Café Roxane",
-      "address": "248 Rue Villeneuve O",
-      "url": "https://sortiesjazznights.com/events/renee-charron-jazz-project-4/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "ebbb3ed6eba0858747234c97@montreal-jazz-calendar": {
-      "source_id": "event_70653_0",
-      "title": "Charlotte Désilets - Le Continuum et Salomé Perli - plateau double",
-      "start": "2026-11-20T20:30:00-05:00",
-      "end": "2026-11-20T23:59:00-05:00",
+    "d52778922bc3837324a6518c@montreal-jazz-calendar": {
+      "source_id": "event_70957_0",
+      "title": "Amrita Saini et Veronica Chasnoff Quintet",
+      "start": "2026-11-21T20:30:00-05:00",
+      "end": "2026-11-21T23:59:00-05:00",
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/charlotte-desilets-le-continuum-et-salome-perli-plateau-double/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/amrita-saini-et-veronica-chasnoff-quintet/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
