@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T02:24:18.714701-05:00",
+  "updated": "2026-11-22T14:56:38.461934-05:00",
   "events": {
     "64ca2c8077d54d36b89675b1@montreal-jazz-calendar": {
       "source_id": "event_70687_0",
@@ -460,8 +460,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/elizabeth-shepherd-michael-occhipinti-derek-difillipo-tony-ferraro/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "96102c3f37a05ad6f8e7163e@montreal-jazz-calendar": {
       "source_id": "event_70156_0",
@@ -471,8 +471,8 @@
       "venue": "La Brassée",
       "address": "2522 Beaubien E",
       "url": "https://sortiesjazznights.com/events/trio-bossa-nova/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "2b37136916b63e54fb9edfbb@montreal-jazz-calendar": {
       "source_id": "event_67931_0",
@@ -482,8 +482,8 @@
       "venue": "Place des Arts - Cinquième Salle",
       "address": "175 Ste-Catherine O / 514-842-8112",
       "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-marianne-trudel-au-centre-la-lumiere/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "cb2709baec083b0f7e51b7b2@montreal-jazz-calendar": {
       "source_id": "event_70201_0",
@@ -493,8 +493,8 @@
       "venue": "Magpie Magique",
       "address": "4670 rue Saint-Denis 514-759-6247",
       "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-jacob-wutzke-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "d52778922bc3837324a6518c@montreal-jazz-calendar": {
       "source_id": "event_70957_0",
@@ -504,8 +504,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/amrita-saini-et-veronica-chasnoff-quintet/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
