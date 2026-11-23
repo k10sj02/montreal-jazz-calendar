@@ -1,61 +1,6 @@
 {
-  "updated": "2026-11-22T14:56:38.461934-05:00",
+  "updated": "2026-11-23T03:08:15.220967-05:00",
   "events": {
-    "64ca2c8077d54d36b89675b1@montreal-jazz-calendar": {
-      "source_id": "event_70687_0",
-      "title": "Robert Ménard Frédéric Darveau Alain Bastien",
-      "start": "2026-11-22T17:00:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Chez Roger",
-      "address": "2300 Rue Beaubien E 514-593-4200",
-      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-47/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "6d71fa1a2f77f3577bbc7b3f@montreal-jazz-calendar": {
-      "source_id": "event_67371_1",
-      "title": "Coral Egan Trio +21h",
-      "start": "2026-11-22T19:00:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/var/ri-1.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c5575c36e0c469cada915958@montreal-jazz-calendar": {
-      "source_id": "event_70477_0",
-      "title": "Laurent Perrault-Jolicoeur 5tet + Thierry Du Sablon 4tet",
-      "start": "2026-11-22T19:30:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Casa del Popolo",
-      "address": "4873 St-Laurent 514-284-3804",
-      "url": "https://sortiesjazznights.com/events/thierry-du-sablon-4tet-laurent-perrault-jolicoeur/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "ab6acffb99045e0371012114@montreal-jazz-calendar": {
-      "source_id": "event_70480_0",
-      "title": "The Versatile Sax 4tet & Rythm Section",
-      "start": "2026-11-22T20:00:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Café La Ligne Verte",
-      "address": "2531 Rue Ontario E, 514-767-0477",
-      "url": "https://sortiesjazznights.com/events/the-versatile-sax-4tet-rythm-section/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "23d94310a69813001678e5b8@montreal-jazz-calendar": {
-      "source_id": "event_70299_0",
-      "title": "Joe Sullivan Big Band - concert de lancement « Say Yes! »",
-      "start": "2026-11-22T20:30:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/joe-sullivan-big-band-concert-de-lancement-say-yes/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "700e9422144191769a187d3d@montreal-jazz-calendar": {
       "source_id": "event_68290_12",
       "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
@@ -452,60 +397,60 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "2ec1a595dcff5d932e1d5d68@montreal-jazz-calendar": {
-      "source_id": "event_70880_0",
-      "title": "Elizabeth Shepherd Michael Occhipinti Derek DiFillipo Tony Ferraro",
-      "start": "2026-11-21T19:00:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
+    "64ca2c8077d54d36b89675b1@montreal-jazz-calendar": {
+      "source_id": "event_70687_0",
+      "title": "Robert Ménard Frédéric Darveau Alain Bastien",
+      "start": "2026-11-22T17:00:00-05:00",
+      "end": "2026-11-22T23:59:00-05:00",
+      "venue": "Chez Roger",
+      "address": "2300 Rue Beaubien E 514-593-4200",
+      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-47/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "6d71fa1a2f77f3577bbc7b3f@montreal-jazz-calendar": {
+      "source_id": "event_67371_1",
+      "title": "Coral Egan Trio +21h",
+      "start": "2026-11-22T19:00:00-05:00",
+      "end": "2026-11-22T23:59:00-05:00",
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/elizabeth-shepherd-michael-occhipinti-derek-difillipo-tony-ferraro/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/var/ri-1.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "96102c3f37a05ad6f8e7163e@montreal-jazz-calendar": {
-      "source_id": "event_70156_0",
-      "title": "Trio Bossa Nova",
-      "start": "2026-11-21T19:30:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/trio-bossa-nova/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "c5575c36e0c469cada915958@montreal-jazz-calendar": {
+      "source_id": "event_70477_0",
+      "title": "Laurent Perrault-Jolicoeur 5tet + Thierry Du Sablon 4tet",
+      "start": "2026-11-22T19:30:00-05:00",
+      "end": "2026-11-22T23:59:00-05:00",
+      "venue": "Casa del Popolo",
+      "address": "4873 St-Laurent 514-284-3804",
+      "url": "https://sortiesjazznights.com/events/thierry-du-sablon-4tet-laurent-perrault-jolicoeur/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "2b37136916b63e54fb9edfbb@montreal-jazz-calendar": {
-      "source_id": "event_67931_0",
-      "title": "L'Orchestre national de jazz de Montréal - Marianne Trudel - Au centre, la lumière",
-      "start": "2026-11-21T20:00:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "Place des Arts - Cinquième Salle",
-      "address": "175 Ste-Catherine O / 514-842-8112",
-      "url": "https://sortiesjazznights.com/events/lorchestre-national-de-jazz-de-montreal-marianne-trudel-au-centre-la-lumiere/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "ab6acffb99045e0371012114@montreal-jazz-calendar": {
+      "source_id": "event_70480_0",
+      "title": "The Versatile Sax 4tet & Rythm Section",
+      "start": "2026-11-22T20:00:00-05:00",
+      "end": "2026-11-22T23:59:00-05:00",
+      "venue": "Café La Ligne Verte",
+      "address": "2531 Rue Ontario E, 514-767-0477",
+      "url": "https://sortiesjazznights.com/events/the-versatile-sax-4tet-rythm-section/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "cb2709baec083b0f7e51b7b2@montreal-jazz-calendar": {
-      "source_id": "event_70201_0",
-      "title": "Rafael Salazar Devon Gillingham Jacob Wutzke",
-      "start": "2026-11-21T20:00:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
-      "venue": "Magpie Magique",
-      "address": "4670 rue Saint-Denis 514-759-6247",
-      "url": "https://sortiesjazznights.com/events/rafael-salazar-devon-gillingham-jacob-wutzke-2/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "d52778922bc3837324a6518c@montreal-jazz-calendar": {
-      "source_id": "event_70957_0",
-      "title": "Amrita Saini et Veronica Chasnoff Quintet",
-      "start": "2026-11-21T20:30:00-05:00",
-      "end": "2026-11-21T23:59:00-05:00",
+    "23d94310a69813001678e5b8@montreal-jazz-calendar": {
+      "source_id": "event_70299_0",
+      "title": "Joe Sullivan Big Band - concert de lancement « Say Yes! »",
+      "start": "2026-11-22T20:30:00-05:00",
+      "end": "2026-11-22T23:59:00-05:00",
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/amrita-saini-et-veronica-chasnoff-quintet/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/joe-sullivan-big-band-concert-de-lancement-say-yes/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
