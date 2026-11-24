@@ -1,47 +1,14 @@
 {
-  "updated": "2026-11-23T19:17:49.978900-05:00",
+  "updated": "2026-11-24T05:22:40.413954-05:00",
   "events": {
-    "700e9422144191769a187d3d@montreal-jazz-calendar": {
-      "source_id": "event_68290_12",
-      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
-      "start": "2026-11-23T19:00:00-05:00",
-      "end": "2026-11-23T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-12.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "8effa3234580461e427a2a71@montreal-jazz-calendar": {
-      "source_id": "event_71019_0",
-      "title": "August McKinney Duncan Hunter Neale Max Keller",
-      "start": "2026-11-23T19:00:00-05:00",
-      "end": "2026-11-23T23:59:00-05:00",
-      "venue": "",
-      "address": "",
-      "url": "https://sortiesjazznights.com/events/august-mckinney-duncan-hunter-neale-max-keller/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "8dcc2a0990b9d065448e33df@montreal-jazz-calendar": {
-      "source_id": "event_70750_0",
-      "title": "Bellbird - Claire Devlin Allison Burik Eli Davidovici Mili Hong",
-      "start": "2026-11-23T20:30:00-05:00",
-      "end": "2026-11-23T23:59:00-05:00",
-      "venue": "P'tit Ours",
-      "address": "5589 Ave. Du Parc",
-      "url": "https://sortiesjazznights.com/events/bellbird-claire-devlin-allison-burik-eli-davidovici-mili-hong/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "a083550dd0e77974092c100b@montreal-jazz-calendar": {
-      "source_id": "event_70958_0",
-      "title": "Sarah Stevenson Quartet + JAM!",
-      "start": "2026-11-23T20:30:00-05:00",
-      "end": "2026-11-23T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/sarah-stevenson-quartet-jam/",
+    "9cafc85db4e39280cb984439@montreal-jazz-calendar": {
+      "source_id": "event_71041_0",
+      "title": "Classe de maître : Pierre Côté",
+      "start": "2026-11-24T16:30:00-05:00",
+      "end": "2026-11-24T23:59:00-05:00",
+      "venue": "Université de Montréal - Salle Jean-Papineau-Couture (B-421)",
+      "address": "200 Vincent d'Indy 514-343-6427",
+      "url": "https://sortiesjazznights.com/events/classe-de-maitre-pierre-cote/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -53,6 +20,17 @@
       "venue": "Boutique George Laoun",
       "address": "4012 St-Denis",
       "url": "https://sortiesjazznights.com/events/jazz-et-peinture-en-direct-avec-le-samuel-bonnet-trio/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "9fb968fe72fa2fc03134c918@montreal-jazz-calendar": {
+      "source_id": "event_71040_0",
+      "title": "Les Mardis Big Band avec FS le P Invite",
+      "start": "2026-11-24T19:00:00-05:00",
+      "end": "2026-11-24T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/les-mardis-big-band-avec-fs-le-p-invite/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -155,14 +133,14 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "ff2ea7792976f8a9ac6a0e4b@montreal-jazz-calendar": {
-      "source_id": "event_60082_3",
-      "title": "Combos Jazz de l'Université de Montréal",
+    "c148145c989ac20b9cb23ea3@montreal-jazz-calendar": {
+      "source_id": "event_71038_0",
+      "title": "Marie Fatima Rudolph Trio +21h30",
       "start": "2026-11-26T19:00:00-05:00",
       "end": "2026-11-26T23:59:00-05:00",
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/combo-jazz-de-l-universite-de-montreal/var/ri-3.l-L1",
+      "url": "https://sortiesjazznights.com/events/marie-fatima-rudolph-trio-21h30-2/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -221,6 +199,28 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "136faf61dc0c357e3ad187fe@montreal-jazz-calendar": {
+      "source_id": "event_71042_0",
+      "title": "Rachel Therrien & Le Burning BRASs Band - Levée de fonds pour CUBANA BRA'SS!",
+      "start": "2026-11-26T20:30:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/rachel-therrien-le-burning-brass-band-levee-de-fonds-pour-cubana-brass/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "27a55ebde29edc1f7985e4e3@montreal-jazz-calendar": {
+      "source_id": "event_71039_0",
+      "title": "Jean-Pierre Zanella 4tet",
+      "start": "2026-11-27T19:00:00-05:00",
+      "end": "2026-11-27T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/jean-pierre-zanella-4tet-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "21c5a0525d5b9ab5ff1f673d@montreal-jazz-calendar": {
       "source_id": "event_69241_0",
       "title": "Charlotte Désilets en duo",
@@ -251,6 +251,17 @@
       "venue": "Brasserie Beaubien",
       "address": "73 Beaubien E 514-495-8141",
       "url": "https://sortiesjazznights.com/events/elizabeth-cormier-hommage-a-dinah-washington/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "1f0bea7c9f6e2800c35faeec@montreal-jazz-calendar": {
+      "source_id": "event_71043_0",
+      "title": "Raiz Viva Music",
+      "start": "2026-11-27T20:30:00-05:00",
+      "end": "2026-11-27T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/raiz-viva-music/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -309,6 +320,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "ed1ba62e0c1423af7dd15d7a@montreal-jazz-calendar": {
+      "source_id": "event_71044_0",
+      "title": "James Greer Trio",
+      "start": "2026-11-28T20:30:00-05:00",
+      "end": "2026-11-28T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/james-greer-trio-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "ca1066f1506ae4bfb676383d@montreal-jazz-calendar": {
       "source_id": "event_71009_0",
       "title": "Aguila de Luz Trio - Géraldine Eguiluz Patrick Dostie Pierre Cartier",
@@ -364,6 +386,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "b04e4dd40428967812868561@montreal-jazz-calendar": {
+      "source_id": "event_71045_0",
+      "title": "Hommage à Shirley Scott - Hammond Organ Sundays avec Kevin Dean!",
+      "start": "2026-11-29T20:30:00-05:00",
+      "end": "2026-11-29T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/hommage-a-shirley-scott-hammond-organ-sundays-avec-kevin-dean/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "fdba0e2807629ae605f0035f@montreal-jazz-calendar": {
       "source_id": "event_68290_13",
       "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
@@ -375,14 +408,14 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "0de4d4a2e698d90ce95b84c4@montreal-jazz-calendar": {
-      "source_id": "event_71019_1",
-      "title": "August McKinney Duncan Hunter Neale Max Keller",
+    "36c03966ffacf3574f7820f4@montreal-jazz-calendar": {
+      "source_id": "event_71019_0",
+      "title": "August McKinney Duncan Hunter-Neale Max Keller",
       "start": "2026-11-30T19:00:00-05:00",
       "end": "2026-11-30T23:59:00-05:00",
       "venue": "",
       "address": "",
-      "url": "https://sortiesjazznights.com/events/august-mckinney-duncan-hunter-neale-max-keller/var/ri-1.l-L1",
+      "url": "https://sortiesjazznights.com/events/august-mckinney-duncan-hunter-neale-max-keller/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -397,38 +430,82 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "c5575c36e0c469cada915958@montreal-jazz-calendar": {
-      "source_id": "event_70477_0",
-      "title": "Laurent Perrault-Jolicoeur 5tet + Thierry Du Sablon 4tet",
-      "start": "2026-11-22T19:30:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Casa del Popolo",
-      "address": "4873 St-Laurent 514-284-3804",
-      "url": "https://sortiesjazznights.com/events/thierry-du-sablon-4tet-laurent-perrault-jolicoeur/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "ab6acffb99045e0371012114@montreal-jazz-calendar": {
-      "source_id": "event_70480_0",
-      "title": "The Versatile Sax 4tet & Rythm Section",
-      "start": "2026-11-22T20:00:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Café La Ligne Verte",
-      "address": "2531 Rue Ontario E, 514-767-0477",
-      "url": "https://sortiesjazznights.com/events/the-versatile-sax-4tet-rythm-section/",
-      "status": "CANCELLED",
-      "missing_runs": 2
-    },
-    "23d94310a69813001678e5b8@montreal-jazz-calendar": {
-      "source_id": "event_70299_0",
-      "title": "Joe Sullivan Big Band - concert de lancement « Say Yes! »",
-      "start": "2026-11-22T20:30:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
+    "ed8068028a0a80427129ca3d@montreal-jazz-calendar": {
+      "source_id": "event_71046_0",
+      "title": "Stella White Quartet + jam !",
+      "start": "2026-11-30T20:30:00-05:00",
+      "end": "2026-11-30T23:59:00-05:00",
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/joe-sullivan-big-band-concert-de-lancement-say-yes/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "url": "https://sortiesjazznights.com/events/stella-white-quartet-jam/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "700e9422144191769a187d3d@montreal-jazz-calendar": {
+      "source_id": "event_68290_12",
+      "title": "Alex Bellegarde Jazz Latin 4tet +21h30",
+      "start": "2026-11-23T19:00:00-05:00",
+      "end": "2026-11-23T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-12.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "8effa3234580461e427a2a71@montreal-jazz-calendar": {
+      "source_id": "event_71019_0",
+      "title": "August McKinney Duncan Hunter Neale Max Keller",
+      "start": "2026-11-23T19:00:00-05:00",
+      "end": "2026-11-23T23:59:00-05:00",
+      "venue": "",
+      "address": "",
+      "url": "https://sortiesjazznights.com/events/august-mckinney-duncan-hunter-neale-max-keller/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "8dcc2a0990b9d065448e33df@montreal-jazz-calendar": {
+      "source_id": "event_70750_0",
+      "title": "Bellbird - Claire Devlin Allison Burik Eli Davidovici Mili Hong",
+      "start": "2026-11-23T20:30:00-05:00",
+      "end": "2026-11-23T23:59:00-05:00",
+      "venue": "P'tit Ours",
+      "address": "5589 Ave. Du Parc",
+      "url": "https://sortiesjazznights.com/events/bellbird-claire-devlin-allison-burik-eli-davidovici-mili-hong/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "a083550dd0e77974092c100b@montreal-jazz-calendar": {
+      "source_id": "event_70958_0",
+      "title": "Sarah Stevenson Quartet + JAM!",
+      "start": "2026-11-23T20:30:00-05:00",
+      "end": "2026-11-23T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/sarah-stevenson-quartet-jam/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "ff2ea7792976f8a9ac6a0e4b@montreal-jazz-calendar": {
+      "source_id": "event_60082_3",
+      "title": "Combos Jazz de l'Université de Montréal",
+      "start": "2026-11-26T19:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/combo-jazz-de-l-universite-de-montreal/var/ri-3.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "0de4d4a2e698d90ce95b84c4@montreal-jazz-calendar": {
+      "source_id": "event_71019_1",
+      "title": "August McKinney Duncan Hunter Neale Max Keller",
+      "start": "2026-11-30T19:00:00-05:00",
+      "end": "2026-11-30T23:59:00-05:00",
+      "venue": "",
+      "address": "",
+      "url": "https://sortiesjazznights.com/events/august-mckinney-duncan-hunter-neale-max-keller/var/ri-1.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
