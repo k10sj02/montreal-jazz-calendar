@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T05:22:40.413954-05:00",
+  "updated": "2026-11-24T17:44:00.838608-05:00",
   "events": {
     "9cafc85db4e39280cb984439@montreal-jazz-calendar": {
       "source_id": "event_71041_0",
@@ -86,6 +86,17 @@
       "venue": "Marcus Restaurant - Hotel Four Seasons",
       "address": "1440 Rue de la Montagne Montréal 514-843-2525",
       "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-14.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "73f311acba833984a94c1533@montreal-jazz-calendar": {
+      "source_id": "event_71047_0",
+      "title": "Ensemble de musique de chambre jazz de McGill I - Philippe Côté (dir)",
+      "start": "2026-11-25T19:30:00-05:00",
+      "end": "2026-11-25T23:59:00-05:00",
+      "venue": "Université McGill - Salle Tanna Schulich",
+      "address": "527 Sherbrooke O / 514-398-4547",
+      "url": "https://sortiesjazznights.com/events/ensemble-de-musique-de-chambre-jazz-de-mcgill-i-philippe-cote-dir/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -430,6 +441,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "80c8abba5aae41038e77d790@montreal-jazz-calendar": {
+      "source_id": "event_71048_0",
+      "title": "Orchestre de jazz de McGill I : Mary Lou Williams et Carla Bley : Des voix originales",
+      "start": "2026-11-30T19:30:00-05:00",
+      "end": "2026-11-30T23:59:00-05:00",
+      "venue": "Université McGill - Salle Tanna Schulich",
+      "address": "527 Sherbrooke O / 514-398-4547",
+      "url": "https://sortiesjazznights.com/events/orchestre-de-jazz-de-mcgill-i-mary-lou-williams-et-carla-bley-des-voix-originales/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "ed8068028a0a80427129ca3d@montreal-jazz-calendar": {
       "source_id": "event_71046_0",
       "title": "Stella White Quartet + jam !",
@@ -449,8 +471,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-jazz-latin-4tet-21h30/var/ri-12.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8effa3234580461e427a2a71@montreal-jazz-calendar": {
       "source_id": "event_71019_0",
@@ -460,8 +482,8 @@
       "venue": "",
       "address": "",
       "url": "https://sortiesjazznights.com/events/august-mckinney-duncan-hunter-neale-max-keller/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "8dcc2a0990b9d065448e33df@montreal-jazz-calendar": {
       "source_id": "event_70750_0",
@@ -471,8 +493,8 @@
       "venue": "P'tit Ours",
       "address": "5589 Ave. Du Parc",
       "url": "https://sortiesjazznights.com/events/bellbird-claire-devlin-allison-burik-eli-davidovici-mili-hong/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a083550dd0e77974092c100b@montreal-jazz-calendar": {
       "source_id": "event_70958_0",
@@ -482,8 +504,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/sarah-stevenson-quartet-jam/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ff2ea7792976f8a9ac6a0e4b@montreal-jazz-calendar": {
       "source_id": "event_60082_3",
@@ -493,8 +515,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/combo-jazz-de-l-universite-de-montreal/var/ri-3.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0de4d4a2e698d90ce95b84c4@montreal-jazz-calendar": {
       "source_id": "event_71019_1",
@@ -504,8 +526,8 @@
       "venue": "",
       "address": "",
       "url": "https://sortiesjazznights.com/events/august-mckinney-duncan-hunter-neale-max-keller/var/ri-1.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
