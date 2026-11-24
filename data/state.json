@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T03:08:15.220967-05:00",
+  "updated": "2026-11-23T19:17:49.978900-05:00",
   "events": {
     "700e9422144191769a187d3d@montreal-jazz-calendar": {
       "source_id": "event_68290_12",
@@ -397,28 +397,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "64ca2c8077d54d36b89675b1@montreal-jazz-calendar": {
-      "source_id": "event_70687_0",
-      "title": "Robert Ménard Frédéric Darveau Alain Bastien",
-      "start": "2026-11-22T17:00:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Chez Roger",
-      "address": "2300 Rue Beaubien E 514-593-4200",
-      "url": "https://sortiesjazznights.com/events/robert-menard-frederic-darveau-alain-bastien-47/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
-    "6d71fa1a2f77f3577bbc7b3f@montreal-jazz-calendar": {
-      "source_id": "event_67371_1",
-      "title": "Coral Egan Trio +21h",
-      "start": "2026-11-22T19:00:00-05:00",
-      "end": "2026-11-22T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/coral-egan-trio-21h-13/var/ri-1.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
     "c5575c36e0c469cada915958@montreal-jazz-calendar": {
       "source_id": "event_70477_0",
       "title": "Laurent Perrault-Jolicoeur 5tet + Thierry Du Sablon 4tet",
@@ -427,8 +405,8 @@
       "venue": "Casa del Popolo",
       "address": "4873 St-Laurent 514-284-3804",
       "url": "https://sortiesjazznights.com/events/thierry-du-sablon-4tet-laurent-perrault-jolicoeur/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "ab6acffb99045e0371012114@montreal-jazz-calendar": {
       "source_id": "event_70480_0",
@@ -438,8 +416,8 @@
       "venue": "Café La Ligne Verte",
       "address": "2531 Rue Ontario E, 514-767-0477",
       "url": "https://sortiesjazznights.com/events/the-versatile-sax-4tet-rythm-section/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "23d94310a69813001678e5b8@montreal-jazz-calendar": {
       "source_id": "event_70299_0",
@@ -449,8 +427,8 @@
       "venue": "Le Cabaret Jazz L'Entracte",
       "address": "1112 Ste-Catherine O",
       "url": "https://sortiesjazznights.com/events/joe-sullivan-big-band-concert-de-lancement-say-yes/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
