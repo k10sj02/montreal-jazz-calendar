@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T04:04:08.240409-05:00",
+  "updated": "2026-11-25T16:57:22.401327-05:00",
   "events": {
     "5ec25315ec7123d64c847c37@montreal-jazz-calendar": {
       "source_id": "event_55012_23",
@@ -397,17 +397,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "9cafc85db4e39280cb984439@montreal-jazz-calendar": {
-      "source_id": "event_71041_0",
-      "title": "Classe de maître : Pierre Côté",
-      "start": "2026-11-24T16:30:00-05:00",
-      "end": "2026-11-24T23:59:00-05:00",
-      "venue": "Université de Montréal - Salle Jean-Papineau-Couture (B-421)",
-      "address": "200 Vincent d'Indy 514-343-6427",
-      "url": "https://sortiesjazznights.com/events/classe-de-maitre-pierre-cote/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
-    },
     "04d7bacdf48dc9cdfb1366e8@montreal-jazz-calendar": {
       "source_id": "event_69425_0",
       "title": "Jazz et peinture en direct avec le Samuel Bonnet Trio",
@@ -416,8 +405,8 @@
       "venue": "Boutique George Laoun",
       "address": "4012 St-Denis",
       "url": "https://sortiesjazznights.com/events/jazz-et-peinture-en-direct-avec-le-samuel-bonnet-trio/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "9fb968fe72fa2fc03134c918@montreal-jazz-calendar": {
       "source_id": "event_71040_0",
@@ -427,8 +416,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/les-mardis-big-band-avec-fs-le-p-invite/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "0ce7f5b6d9572586f5935145@montreal-jazz-calendar": {
       "source_id": "event_70146_0",
@@ -438,8 +427,8 @@
       "venue": "La Brassée",
       "address": "2522 Beaubien E",
       "url": "https://sortiesjazznights.com/events/la-touche-manouche-jam-manouche-mensuel-3/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "81a989a090142ffdb67474ce@montreal-jazz-calendar": {
       "source_id": "event_69417_0",
@@ -449,8 +438,8 @@
       "venue": "Maison de la culture Côte-des-Neiges",
       "address": "5290 Côte-des-Neiges 514-872-6889",
       "url": "https://sortiesjazznights.com/events/remi-bolduc-les-voix-du-souffle/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "f9e83529f96a8bf2bd0277b7@montreal-jazz-calendar": {
       "source_id": "event_61330_17",
@@ -460,8 +449,8 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-17.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
