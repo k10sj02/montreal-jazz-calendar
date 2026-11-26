@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T03:51:34.002866-05:00",
+  "updated": "2026-11-26T16:53:19.525704-05:00",
   "events": {
     "e4326943d43b19e1b3fac73a@montreal-jazz-calendar": {
       "source_id": "event_60744_3",
@@ -53,6 +53,17 @@
       "venue": "Café centre d'art de Boucherville",
       "address": "536, boulevard Marie-Victorin 450-449-8640",
       "url": "https://sortiesjazznights.com/events/christine-tassan-et-les-imposteures-13/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "7add5a5097c758e2b278f3fa@montreal-jazz-calendar": {
+      "source_id": "event_71225_0",
+      "title": "Taurey Butler Trio",
+      "start": "2026-11-26T19:30:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Upstairs Jazz Bar et Grill",
+      "address": "1254 Mackay 514-931-6808",
+      "url": "https://sortiesjazznights.com/events/taurey-butler-trio-6/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -119,6 +130,17 @@
       "venue": "Dièse Onze Jazz Resto",
       "address": "4115A St-Denis 514-223-3543",
       "url": "https://sortiesjazznights.com/events/jean-pierre-zanella-4tet-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "450bab0cabfa98e161fec4e5@montreal-jazz-calendar": {
+      "source_id": "event_71226_0",
+      "title": "Maracujá - Elie Haroun John Sadowy André Faleiros Sacha Daoud",
+      "start": "2026-11-27T19:00:00-05:00",
+      "end": "2026-11-27T23:59:00-05:00",
+      "venue": "Upstairs Jazz Bar et Grill",
+      "address": "1254 Mackay 514-931-6808",
+      "url": "https://sortiesjazznights.com/events/maracuja-elie-haroun-john-sadowy-andre-faleiros-sacha-daoud-3/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -372,8 +394,8 @@
       "venue": "Café Passion",
       "address": "476 Victoria / Saint-Lambert 450-671-1405",
       "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-23.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "a38cc9194b4e66f7e3ada423@montreal-jazz-calendar": {
       "source_id": "event_67814_14",
@@ -383,8 +405,8 @@
       "venue": "Marcus Restaurant - Hotel Four Seasons",
       "address": "1440 Rue de la Montagne Montréal 514-843-2525",
       "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-14.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "73f311acba833984a94c1533@montreal-jazz-calendar": {
       "source_id": "event_71047_0",
@@ -394,8 +416,8 @@
       "venue": "Université McGill - Salle Tanna Schulich",
       "address": "527 Sherbrooke O / 514-398-4547",
       "url": "https://sortiesjazznights.com/events/ensemble-de-musique-de-chambre-jazz-de-mcgill-i-philippe-cote-dir/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "1d774ec7242f317a2cb81037@montreal-jazz-calendar": {
       "source_id": "event_70268_0",
@@ -405,8 +427,8 @@
       "venue": "Brasserie Beaubien",
       "address": "73 Beaubien E 514-495-8141",
       "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-nicolas-bond-et-invites/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     },
     "5c6d5f05614ef24a8d9cb5a7@montreal-jazz-calendar": {
       "source_id": "event_67012_0",
@@ -416,8 +438,8 @@
       "venue": "Maison de la culture Marie-Uguay",
       "address": "6052 Monk / 514-872-2044",
       "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-5/",
-      "status": "CONFIRMED",
-      "missing_runs": 1
+      "status": "CANCELLED",
+      "missing_runs": 2
     }
   }
 }
