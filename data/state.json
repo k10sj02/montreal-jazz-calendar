@@ -1,50 +1,6 @@
 {
-  "updated": "2026-11-25T16:57:22.401327-05:00",
+  "updated": "2026-11-26T03:51:34.002866-05:00",
   "events": {
-    "5ec25315ec7123d64c847c37@montreal-jazz-calendar": {
-      "source_id": "event_55012_23",
-      "title": "John Klepko Trio",
-      "start": "2026-11-25T18:30:00-05:00",
-      "end": "2026-11-25T23:59:00-05:00",
-      "venue": "Café Passion",
-      "address": "476 Victoria / Saint-Lambert 450-671-1405",
-      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-23.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "a38cc9194b4e66f7e3ada423@montreal-jazz-calendar": {
-      "source_id": "event_67814_14",
-      "title": "Mat Jon 4tet",
-      "start": "2026-11-25T18:30:00-05:00",
-      "end": "2026-11-25T23:59:00-05:00",
-      "venue": "Marcus Restaurant - Hotel Four Seasons",
-      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
-      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-14.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "73f311acba833984a94c1533@montreal-jazz-calendar": {
-      "source_id": "event_71047_0",
-      "title": "Ensemble de musique de chambre jazz de McGill I - Philippe Côté (dir)",
-      "start": "2026-11-25T19:30:00-05:00",
-      "end": "2026-11-25T23:59:00-05:00",
-      "venue": "Université McGill - Salle Tanna Schulich",
-      "address": "527 Sherbrooke O / 514-398-4547",
-      "url": "https://sortiesjazznights.com/events/ensemble-de-musique-de-chambre-jazz-de-mcgill-i-philippe-cote-dir/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "1d774ec7242f317a2cb81037@montreal-jazz-calendar": {
-      "source_id": "event_70268_0",
-      "title": "Mercredi soir jazz - Nicolas Bond Frank Lozano Donald Meunier Christian Pamerleau",
-      "start": "2026-11-25T20:00:00-05:00",
-      "end": "2026-11-25T23:59:00-05:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-nicolas-bond-et-invites/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "e4326943d43b19e1b3fac73a@montreal-jazz-calendar": {
       "source_id": "event_60744_3",
       "title": "MaB Jazz Trio : Thomas Durant et invités",
@@ -100,17 +56,6 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "5c6d5f05614ef24a8d9cb5a7@montreal-jazz-calendar": {
-      "source_id": "event_67012_0",
-      "title": "Ariane Racicot Trio - Danser avec le feu",
-      "start": "2026-11-26T20:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Maison de la culture Marie-Uguay",
-      "address": "6052 Monk / 514-872-2044",
-      "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-5/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "6f7abb43c33129b1404f6f93@montreal-jazz-calendar": {
       "source_id": "event_68381_0",
       "title": "Dominique Fils‐Aimé - The Sunshine Tour",
@@ -130,6 +75,17 @@
       "venue": "Espace St-Denis / Trattoria Dell'Arte",
       "address": "1594 St-Denis 514-849-4211",
       "url": "https://sortiesjazznights.com/events/trio-nuovo/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
+    "6d1c7e685a0388e78dc90a49@montreal-jazz-calendar": {
+      "source_id": "event_71213_0",
+      "title": "Jazz Jam : Melody & The Mellow Tones avec Mélodie Vanier",
+      "start": "2026-11-26T20:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Verre Bouteille",
+      "address": "2112 Mont-Royal E / 514-521-9409",
+      "url": "https://sortiesjazznights.com/events/jazz-jam-melody-the-mellow-tones-avec-melodie-vanier/",
       "status": "CONFIRMED",
       "missing_runs": 0
     },
@@ -276,6 +232,17 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
+    "1ba843bf731ee6c4b2a72583@montreal-jazz-calendar": {
+      "source_id": "event_71211_0",
+      "title": "Greg Clayton et Richard Whiteman",
+      "start": "2026-11-29T10:30:00-05:00",
+      "end": "2026-11-29T23:59:00-05:00",
+      "venue": "Lakeshore Unitarian Universalist Congregation",
+      "address": "5065 Sherbrooke W 514-637-6974",
+      "url": "https://sortiesjazznights.com/events/greg-clayton-et-richard-whiteman/",
+      "status": "CONFIRMED",
+      "missing_runs": 0
+    },
     "ca1066f1506ae4bfb676383d@montreal-jazz-calendar": {
       "source_id": "event_71009_0",
       "title": "Aguila de Luz Trio - Géraldine Eguiluz Patrick Dostie Pierre Cartier",
@@ -397,60 +364,60 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "04d7bacdf48dc9cdfb1366e8@montreal-jazz-calendar": {
-      "source_id": "event_69425_0",
-      "title": "Jazz et peinture en direct avec le Samuel Bonnet Trio",
-      "start": "2026-11-24T17:00:00-05:00",
-      "end": "2026-11-24T23:59:00-05:00",
-      "venue": "Boutique George Laoun",
-      "address": "4012 St-Denis",
-      "url": "https://sortiesjazznights.com/events/jazz-et-peinture-en-direct-avec-le-samuel-bonnet-trio/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "5ec25315ec7123d64c847c37@montreal-jazz-calendar": {
+      "source_id": "event_55012_23",
+      "title": "John Klepko Trio",
+      "start": "2026-11-25T18:30:00-05:00",
+      "end": "2026-11-25T23:59:00-05:00",
+      "venue": "Café Passion",
+      "address": "476 Victoria / Saint-Lambert 450-671-1405",
+      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-23.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "9fb968fe72fa2fc03134c918@montreal-jazz-calendar": {
-      "source_id": "event_71040_0",
-      "title": "Les Mardis Big Band avec FS le P Invite",
-      "start": "2026-11-24T19:00:00-05:00",
-      "end": "2026-11-24T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/les-mardis-big-band-avec-fs-le-p-invite/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "a38cc9194b4e66f7e3ada423@montreal-jazz-calendar": {
+      "source_id": "event_67814_14",
+      "title": "Mat Jon 4tet",
+      "start": "2026-11-25T18:30:00-05:00",
+      "end": "2026-11-25T23:59:00-05:00",
+      "venue": "Marcus Restaurant - Hotel Four Seasons",
+      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
+      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-14.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "0ce7f5b6d9572586f5935145@montreal-jazz-calendar": {
-      "source_id": "event_70146_0",
-      "title": "La Touche Manouche - jam manouche mensuel",
-      "start": "2026-11-24T19:30:00-05:00",
-      "end": "2026-11-24T23:59:00-05:00",
-      "venue": "La Brassée",
-      "address": "2522 Beaubien E",
-      "url": "https://sortiesjazznights.com/events/la-touche-manouche-jam-manouche-mensuel-3/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "73f311acba833984a94c1533@montreal-jazz-calendar": {
+      "source_id": "event_71047_0",
+      "title": "Ensemble de musique de chambre jazz de McGill I - Philippe Côté (dir)",
+      "start": "2026-11-25T19:30:00-05:00",
+      "end": "2026-11-25T23:59:00-05:00",
+      "venue": "Université McGill - Salle Tanna Schulich",
+      "address": "527 Sherbrooke O / 514-398-4547",
+      "url": "https://sortiesjazznights.com/events/ensemble-de-musique-de-chambre-jazz-de-mcgill-i-philippe-cote-dir/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "81a989a090142ffdb67474ce@montreal-jazz-calendar": {
-      "source_id": "event_69417_0",
-      "title": "Rémi Bolduc - Les voix du souffle",
-      "start": "2026-11-24T19:30:00-05:00",
-      "end": "2026-11-24T23:59:00-05:00",
-      "venue": "Maison de la culture Côte-des-Neiges",
-      "address": "5290 Côte-des-Neiges 514-872-6889",
-      "url": "https://sortiesjazznights.com/events/remi-bolduc-les-voix-du-souffle/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "1d774ec7242f317a2cb81037@montreal-jazz-calendar": {
+      "source_id": "event_70268_0",
+      "title": "Mercredi soir jazz - Nicolas Bond Frank Lozano Donald Meunier Christian Pamerleau",
+      "start": "2026-11-25T20:00:00-05:00",
+      "end": "2026-11-25T23:59:00-05:00",
+      "venue": "Brasserie Beaubien",
+      "address": "73 Beaubien E 514-495-8141",
+      "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-nicolas-bond-et-invites/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "f9e83529f96a8bf2bd0277b7@montreal-jazz-calendar": {
-      "source_id": "event_61330_17",
-      "title": "Alex Bellegarde Trio avec invités + jam session",
-      "start": "2026-11-24T21:30:00-05:00",
-      "end": "2026-11-24T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/alex-bellegarde-trio-avec-invites-jam-session/var/ri-17.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "5c6d5f05614ef24a8d9cb5a7@montreal-jazz-calendar": {
+      "source_id": "event_67012_0",
+      "title": "Ariane Racicot Trio - Danser avec le feu",
+      "start": "2026-11-26T20:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Maison de la culture Marie-Uguay",
+      "address": "6052 Monk / 514-872-2044",
+      "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-5/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
