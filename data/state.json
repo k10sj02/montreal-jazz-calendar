@@ -1,127 +1,6 @@
 {
-  "updated": "2026-11-26T16:53:19.525704-05:00",
+  "updated": "2026-11-27T04:00:04.428639-05:00",
   "events": {
-    "e4326943d43b19e1b3fac73a@montreal-jazz-calendar": {
-      "source_id": "event_60744_3",
-      "title": "MaB Jazz Trio : Thomas Durant et invités",
-      "start": "2026-11-26T18:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "MaBrasserie",
-      "address": "2300 Rue Holt 514-508-3309",
-      "url": "https://sortiesjazznights.com/events/mab-jazz-trio-thomas-durant-et-invites-3/var/ri-3.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "f3ee382c3f1e1a6b68b98345@montreal-jazz-calendar": {
-      "source_id": "event_68721_0",
-      "title": "Rafael Zaldivar – Hommage au Buena Vista Social Club",
-      "start": "2026-11-26T18:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Musée des beaux-arts de Montréal - Salle Bourgie",
-      "address": "1339 Sherbrooke O 514-285-2000",
-      "url": "https://sortiesjazznights.com/events/rafael-zaldivar-hommage-au-buena-vista-social-club-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "3bc7cfc53732d5feb5fc4af0@montreal-jazz-calendar": {
-      "source_id": "event_66572_15",
-      "title": "Samuel Lechasseur Trio",
-      "start": "2026-11-26T18:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Nevski",
-      "address": "75 rue Queen 514-397-0743",
-      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-15.l-L1",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "c148145c989ac20b9cb23ea3@montreal-jazz-calendar": {
-      "source_id": "event_71038_0",
-      "title": "Marie Fatima Rudolph Trio +21h30",
-      "start": "2026-11-26T19:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Dièse Onze Jazz Resto",
-      "address": "4115A St-Denis 514-223-3543",
-      "url": "https://sortiesjazznights.com/events/marie-fatima-rudolph-trio-21h30-2/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "bb03fb08485a68313836bc3f@montreal-jazz-calendar": {
-      "source_id": "event_68483_0",
-      "title": "Christine Tassan et Les Imposteures",
-      "start": "2026-11-26T19:30:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Café centre d'art de Boucherville",
-      "address": "536, boulevard Marie-Victorin 450-449-8640",
-      "url": "https://sortiesjazznights.com/events/christine-tassan-et-les-imposteures-13/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "7add5a5097c758e2b278f3fa@montreal-jazz-calendar": {
-      "source_id": "event_71225_0",
-      "title": "Taurey Butler Trio",
-      "start": "2026-11-26T19:30:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Upstairs Jazz Bar et Grill",
-      "address": "1254 Mackay 514-931-6808",
-      "url": "https://sortiesjazznights.com/events/taurey-butler-trio-6/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "6f7abb43c33129b1404f6f93@montreal-jazz-calendar": {
-      "source_id": "event_68381_0",
-      "title": "Dominique Fils‐Aimé - The Sunshine Tour",
-      "start": "2026-11-26T20:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Théâtre Gilles-Vigneault",
-      "address": "118 Rue de la Gare / St-Jérôme / 450-432-0660",
-      "url": "https://sortiesjazznights.com/events/dominique-fils%e2%80%90aime-the-sunshine-tour/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "5465d925e6cda347a7854cdb@montreal-jazz-calendar": {
-      "source_id": "event_69636_0",
-      "title": "Duncan Hunter-Neale Trio",
-      "start": "2026-11-26T20:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Espace St-Denis / Trattoria Dell'Arte",
-      "address": "1594 St-Denis 514-849-4211",
-      "url": "https://sortiesjazznights.com/events/trio-nuovo/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "6d1c7e685a0388e78dc90a49@montreal-jazz-calendar": {
-      "source_id": "event_71213_0",
-      "title": "Jazz Jam : Melody & The Mellow Tones avec Mélodie Vanier",
-      "start": "2026-11-26T20:00:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Verre Bouteille",
-      "address": "2112 Mont-Royal E / 514-521-9409",
-      "url": "https://sortiesjazznights.com/events/jazz-jam-melody-the-mellow-tones-avec-melodie-vanier/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "1fb57ed568c52b35f299e41f@montreal-jazz-calendar": {
-      "source_id": "event_70907_0",
-      "title": "Kawandak",
-      "start": "2026-11-26T20:30:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Jeudis Jazz - Kafé Étudiant du Collège Lionel-Groulx",
-      "address": "100 Duquet / Ste-Thérèse / 450-430-3120 ext 2569 / entrée : portes 5-6 rue St-Louis",
-      "url": "https://sortiesjazznights.com/events/kawandak/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
-    "136faf61dc0c357e3ad187fe@montreal-jazz-calendar": {
-      "source_id": "event_71042_0",
-      "title": "Rachel Therrien & Le Burning BRASs Band - Levée de fonds pour CUBANA BRA'SS!",
-      "start": "2026-11-26T20:30:00-05:00",
-      "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Le Cabaret Jazz L'Entracte",
-      "address": "1112 Ste-Catherine O",
-      "url": "https://sortiesjazznights.com/events/rachel-therrien-le-burning-brass-band-levee-de-fonds-pour-cubana-brass/",
-      "status": "CONFIRMED",
-      "missing_runs": 0
-    },
     "27a55ebde29edc1f7985e4e3@montreal-jazz-calendar": {
       "source_id": "event_71039_0",
       "title": "Jean-Pierre Zanella 4tet",
@@ -386,60 +265,126 @@
       "status": "CONFIRMED",
       "missing_runs": 0
     },
-    "5ec25315ec7123d64c847c37@montreal-jazz-calendar": {
-      "source_id": "event_55012_23",
-      "title": "John Klepko Trio",
-      "start": "2026-11-25T18:30:00-05:00",
-      "end": "2026-11-25T23:59:00-05:00",
-      "venue": "Café Passion",
-      "address": "476 Victoria / Saint-Lambert 450-671-1405",
-      "url": "https://sortiesjazznights.com/events/john-klepko-et-amis/var/ri-23.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "e4326943d43b19e1b3fac73a@montreal-jazz-calendar": {
+      "source_id": "event_60744_3",
+      "title": "MaB Jazz Trio : Thomas Durant et invités",
+      "start": "2026-11-26T18:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "MaBrasserie",
+      "address": "2300 Rue Holt 514-508-3309",
+      "url": "https://sortiesjazznights.com/events/mab-jazz-trio-thomas-durant-et-invites-3/var/ri-3.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "a38cc9194b4e66f7e3ada423@montreal-jazz-calendar": {
-      "source_id": "event_67814_14",
-      "title": "Mat Jon 4tet",
-      "start": "2026-11-25T18:30:00-05:00",
-      "end": "2026-11-25T23:59:00-05:00",
-      "venue": "Marcus Restaurant - Hotel Four Seasons",
-      "address": "1440 Rue de la Montagne Montréal 514-843-2525",
-      "url": "https://sortiesjazznights.com/events/mat-jon-4tet-4/var/ri-14.l-L1",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "f3ee382c3f1e1a6b68b98345@montreal-jazz-calendar": {
+      "source_id": "event_68721_0",
+      "title": "Rafael Zaldivar – Hommage au Buena Vista Social Club",
+      "start": "2026-11-26T18:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Musée des beaux-arts de Montréal - Salle Bourgie",
+      "address": "1339 Sherbrooke O 514-285-2000",
+      "url": "https://sortiesjazznights.com/events/rafael-zaldivar-hommage-au-buena-vista-social-club-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "73f311acba833984a94c1533@montreal-jazz-calendar": {
-      "source_id": "event_71047_0",
-      "title": "Ensemble de musique de chambre jazz de McGill I - Philippe Côté (dir)",
-      "start": "2026-11-25T19:30:00-05:00",
-      "end": "2026-11-25T23:59:00-05:00",
-      "venue": "Université McGill - Salle Tanna Schulich",
-      "address": "527 Sherbrooke O / 514-398-4547",
-      "url": "https://sortiesjazznights.com/events/ensemble-de-musique-de-chambre-jazz-de-mcgill-i-philippe-cote-dir/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "3bc7cfc53732d5feb5fc4af0@montreal-jazz-calendar": {
+      "source_id": "event_66572_15",
+      "title": "Samuel Lechasseur Trio",
+      "start": "2026-11-26T18:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Nevski",
+      "address": "75 rue Queen 514-397-0743",
+      "url": "https://sortiesjazznights.com/events/samuel-lechasseur-trio-6/var/ri-15.l-L1",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "1d774ec7242f317a2cb81037@montreal-jazz-calendar": {
-      "source_id": "event_70268_0",
-      "title": "Mercredi soir jazz - Nicolas Bond Frank Lozano Donald Meunier Christian Pamerleau",
-      "start": "2026-11-25T20:00:00-05:00",
-      "end": "2026-11-25T23:59:00-05:00",
-      "venue": "Brasserie Beaubien",
-      "address": "73 Beaubien E 514-495-8141",
-      "url": "https://sortiesjazznights.com/events/mercredi-soir-jazz-nicolas-bond-et-invites/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+    "c148145c989ac20b9cb23ea3@montreal-jazz-calendar": {
+      "source_id": "event_71038_0",
+      "title": "Marie Fatima Rudolph Trio +21h30",
+      "start": "2026-11-26T19:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Dièse Onze Jazz Resto",
+      "address": "4115A St-Denis 514-223-3543",
+      "url": "https://sortiesjazznights.com/events/marie-fatima-rudolph-trio-21h30-2/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     },
-    "5c6d5f05614ef24a8d9cb5a7@montreal-jazz-calendar": {
-      "source_id": "event_67012_0",
-      "title": "Ariane Racicot Trio - Danser avec le feu",
+    "bb03fb08485a68313836bc3f@montreal-jazz-calendar": {
+      "source_id": "event_68483_0",
+      "title": "Christine Tassan et Les Imposteures",
+      "start": "2026-11-26T19:30:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Café centre d'art de Boucherville",
+      "address": "536, boulevard Marie-Victorin 450-449-8640",
+      "url": "https://sortiesjazznights.com/events/christine-tassan-et-les-imposteures-13/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "7add5a5097c758e2b278f3fa@montreal-jazz-calendar": {
+      "source_id": "event_71225_0",
+      "title": "Taurey Butler Trio",
+      "start": "2026-11-26T19:30:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Upstairs Jazz Bar et Grill",
+      "address": "1254 Mackay 514-931-6808",
+      "url": "https://sortiesjazznights.com/events/taurey-butler-trio-6/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "6f7abb43c33129b1404f6f93@montreal-jazz-calendar": {
+      "source_id": "event_68381_0",
+      "title": "Dominique Fils‐Aimé - The Sunshine Tour",
       "start": "2026-11-26T20:00:00-05:00",
       "end": "2026-11-26T23:59:00-05:00",
-      "venue": "Maison de la culture Marie-Uguay",
-      "address": "6052 Monk / 514-872-2044",
-      "url": "https://sortiesjazznights.com/events/ariane-racicot-trio-danser-avec-le-feu-5/",
-      "status": "CANCELLED",
-      "missing_runs": 2
+      "venue": "Théâtre Gilles-Vigneault",
+      "address": "118 Rue de la Gare / St-Jérôme / 450-432-0660",
+      "url": "https://sortiesjazznights.com/events/dominique-fils%e2%80%90aime-the-sunshine-tour/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "5465d925e6cda347a7854cdb@montreal-jazz-calendar": {
+      "source_id": "event_69636_0",
+      "title": "Duncan Hunter-Neale Trio",
+      "start": "2026-11-26T20:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Espace St-Denis / Trattoria Dell'Arte",
+      "address": "1594 St-Denis 514-849-4211",
+      "url": "https://sortiesjazznights.com/events/trio-nuovo/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "6d1c7e685a0388e78dc90a49@montreal-jazz-calendar": {
+      "source_id": "event_71213_0",
+      "title": "Jazz Jam : Melody & The Mellow Tones avec Mélodie Vanier",
+      "start": "2026-11-26T20:00:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Verre Bouteille",
+      "address": "2112 Mont-Royal E / 514-521-9409",
+      "url": "https://sortiesjazznights.com/events/jazz-jam-melody-the-mellow-tones-avec-melodie-vanier/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "1fb57ed568c52b35f299e41f@montreal-jazz-calendar": {
+      "source_id": "event_70907_0",
+      "title": "Kawandak",
+      "start": "2026-11-26T20:30:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Jeudis Jazz - Kafé Étudiant du Collège Lionel-Groulx",
+      "address": "100 Duquet / Ste-Thérèse / 450-430-3120 ext 2569 / entrée : portes 5-6 rue St-Louis",
+      "url": "https://sortiesjazznights.com/events/kawandak/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
+    },
+    "136faf61dc0c357e3ad187fe@montreal-jazz-calendar": {
+      "source_id": "event_71042_0",
+      "title": "Rachel Therrien & Le Burning BRASs Band - Levée de fonds pour CUBANA BRA'SS!",
+      "start": "2026-11-26T20:30:00-05:00",
+      "end": "2026-11-26T23:59:00-05:00",
+      "venue": "Le Cabaret Jazz L'Entracte",
+      "address": "1112 Ste-Catherine O",
+      "url": "https://sortiesjazznights.com/events/rachel-therrien-le-burning-brass-band-levee-de-fonds-pour-cubana-brass/",
+      "status": "CONFIRMED",
+      "missing_runs": 1
     }
   }
 }
